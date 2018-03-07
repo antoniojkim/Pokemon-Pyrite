@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Exterior Sprites" tilewidth="16" tileheight="16">
+  <image source="Game Boy Advance - Pokemon Emerald - Exterior Tileset.png" width="1408" height="1104"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1j1OAlEUBtA3AxsQbRAbwMalATb8NOrKNDaCDULjjryTsSCGQRPQQT0n+ZJhcid53K95KQEAAADwW9xnKT285zGr+zSc5Cm1IqeRs7zu0zCIDoaRUeRaH7XrNlOaRw+LyLM+gCPUbqR0HulELhp1n4ZxdDCJTCMzfdRuGR28RFaRtT4q5QfMLsW9qhfpRy6b3/BH/ohij4PIcCOjtHvvVfPsr9jjU2S+kUXa3UfVPPsr9tjO4u6zkU62u4+qefZX7HEa++zHQzfyGpl80sc4K+d6efndTB8HU+xxFfu8i4ebyFVxD4rfzbS9i+L9MivnbvPyu7U+Dubjvltb3m3Ltjn291P3Xb5GH8dFHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/HGz+5JQA=
+  </data>
+ </layer>
+</map>

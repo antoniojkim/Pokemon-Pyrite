@@ -1,0 +1,20 @@
+Quick Attack	1
+Ice Shard	1
+Bullet Punch	1
+Fake Out	5
+Sucker Punch	1
+Extreme Speed	2
+Aqua Jet	1
+Focus Punch	-10
+Mach Punch	1
+Shadow Sneak	1
+Avalanche	-1
+Vacuum Wave	1
+Switch Pokemon	30
+Use Item	20
+Protect	10
+Detect	10
+Poke Ball	50
+Great Ball	50
+Ultra Ball	50
+Master Ball	50

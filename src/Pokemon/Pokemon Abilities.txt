@@ -1,0 +1,683 @@
+Bulbasaur	Overgrow		Chlorophyll
+Ivysaur	Overgrow		Chlorophyll
+Venusaur	Overgrow		Chlorophyll
+Charmander	Blaze		Solar Power
+Charmeleon	Blaze		Solar Power
+Charizard	Blaze		Solar Power
+Squirtle	Torrent		Rain Dish
+Wartortle	Torrent		Rain Dish
+Blastoise	Torrent		Rain Dish
+Caterpie	Shield Dust		Run Away
+Metapod	Shed Skin		
+Butterfree	Compound Eyes		Tinted Lens
+Weedle	Shield Dust		Run Away
+Kakuna	Shed Skin		
+Beedrill	Swarm		Sniper
+Pidgey	Keen Eye	Tangled Feet	Big Pecks
+Pidgeotto	Keen Eye	Tangled Feet	Big Pecks
+Pidgeot	Keen Eye	Tangled Feet	Big Pecks
+Rattata	Run Away	Guts	Hustle
+Raticate	Run Away	Guts	Hustle
+Spearow	Keen Eye		Sniper
+Fearow	Keen Eye		Sniper
+Ekans	Intimidate	Shed Skin	Unnerve
+Arbok	Intimidate	Shed Skin	Unnerve
+Pichu	Static		Lightning Rod
+Pikachu	Static		Lightning Rod
+Raichu	Static		Lightning Rod
+Sandshrew	Sand Veil		Sand Rush
+Sandslash	Sand Veil		Sand Rush
+Nidoran F	Poison Point	Rivalry	Hustle
+Nidorina	Poison Point	Rivalry	Hustle
+Nidoqueen	Poison Point	Rivalry	Sheer Force
+Nidoran M	Poison Point	Rivalry	Hustle
+Nidorino	Poison Point	Rivalry	Hustle
+Nidoking	Poison Point	Rivalry	Sheer Force
+Cleffa	Cute Charm	Magic Guard	Friend Guard
+Clefairy	Cute Charm	Magic Guard	Friend Guard
+Clefable	Cute Charm	Magic Guard	Unaware
+Vulpix	Flash Fire		Drought
+Ninetales	Flash Fire		Drought
+Igglybuff	Cute Charm	Competitive	Friend Guard
+Jigglypuff	Cute Charm	Competitive	Friend Guard
+Wigglytuff	Cute Charm	Competitive	Frisk
+Zubat	Inner Focus		Infiltrator
+Golbat	Inner Focus		Infiltrator
+Crobat	Inner Focus		Infiltrator
+Oddish	Chlorophyll		Run Away
+Gloom	Chlorophyll		Stench
+Vileplume	Chlorophyll		Effect Spore
+Bellossom	Chlorophyll		Healer
+Paras	Effect Spore	Dry Skin	Damp
+Parasect	Effect Spore	Dry Skin	Damp
+Venonat	Compound Eyes	Tinted Lens	Run Away
+Venomoth	Shield Dust	Tinted Lens	Wonder Skin
+Diglett	Sand Veil	Arena Trap	Sand Force
+Dugtrio	Sand Veil	Arena Trap	Sand Force
+Meowth	Pickup	Technician	Unnerve
+Persian	Limber	Technician	Unnerve
+Psyduck	Damp	Cloud Nine	Swift Swim
+Golduck	Damp	Cloud Nine	Swift Swim
+Mankey	Vital Spirit	Anger Point	Defiant
+Primeape	Vital Spirit	Anger Point	Defiant
+Growlithe	Intimidate	Flash Fire	Justified
+Arcanine	Intimidate	Flash Fire	Justified
+Poliwag	Water Absorb	Damp	Swift Swim
+Poliwhirl	Water Absorb	Damp	Swift Swim
+Poliwrath	Water Absorb	Damp	Swift Swim
+Politoed	Water Absorb	Damp	Drizzle
+Abra	Synchronize	Inner Focus	Magic Guard
+Kadabra	Synchronize	Inner Focus	Magic Guard
+Alakazam	Synchronize	Inner Focus	Magic Guard
+Machop	Guts	No Guard	Steadfast
+Machoke	Guts	No Guard	Steadfast
+Machamp	Guts	No Guard	Steadfast
+Bellsprout	Chlorophyll		Gluttony
+Weepinbell	Chlorophyll		Gluttony
+Victreebel	Chlorophyll		Gluttony
+Tentacool	Clear Body	Liquid Ooze	Rain Dish
+Tentacruel	Clear Body	Liquid Ooze	Rain Dish
+Geodude	Rock Head	Sturdy	Sand Veil
+Graveler	Rock Head	Sturdy	Sand Veil
+Golem	Rock Head	Sturdy	Sand Veil
+Ponyta	Run Away	Flash Fire	Flame Body
+Rapidash	Run Away	Flash Fire	Flame Body
+Slowpoke	Oblivious	Own Tempo	Regenerator
+Slowbro	Oblivious	Own Tempo	Regenerator
+Slowking	Oblivious	Own Tempo	Regenerator
+Magnemite	Magnet Pull	Sturdy	Analytic
+Magneton	Magnet Pull	Sturdy	Analytic
+Magnezone	Magnet Pull	Sturdy	Analytic
+Farfetch'd	Keen Eye	Inner Focus	Defiant
+Doduo	Run Away	Early Bird	Tangled Feet
+Dodrio	Run Away	Early Bird	Tangled Feet
+Seel	Thick Fat	Hydration	Ice Body
+Dewgong	Thick Fat	Hydration	Ice Body
+Grimer	Stench	Sticky Hold	Poison Touch
+Muk	Stench	Sticky Hold	Poison Touch
+Shellder	Shell Armor	Skill Link	Overcoat
+Cloyster	Shell Armor	Skill Link	Overcoat
+Gastly	Levitate		
+Haunter	Levitate		
+Gengar	Levitate		
+Onix	Rock Head	Sturdy	Weak Armor
+Steelix	Rock Head	Sturdy	Sheer Force
+Drowzee	Insomnia	Forewarn	Inner Focus
+Hypno	Insomnia	Forewarn	Inner Focus
+Krabby	Hyper Cutter	Shell Armor	Sheer Force
+Kingler	Hyper Cutter	Shell Armor	Sheer Force
+Voltorb	Soundproof	Static	Aftermath
+Electrode	Soundproof	Static	Aftermath
+Exeggcute	Chlorophyll		Harvest
+Exeggutor	Chlorophyll		Harvest
+Cubone	Rock Head	Lightning Rod	Battle Armor
+Marowak	Rock Head	Lightning Rod	Battle Armor
+Tyrogue	Guts	Steadfast	Vital Spirit
+Hitmonlee	Limber	Reckless	Unburden
+Hitmonchan	Keen Eye	Iron Fist	Inner Focus
+Hitmontop	Intimidate	Technician	Steadfast
+Lickitung	Own Tempo	Oblivious	Cloud Nine
+Lickilicky	Own Tempo	Oblivious	Cloud Nine
+Koffing	Levitate		
+Weezing	Levitate		
+Rhyhorn	Lightning Rod	Rock Head	Reckless
+Rhydon	Lightning Rod	Rock Head	Reckless
+Rhyperior	Lightning Rod	Solid Rock	Reckless
+Happiny	Natural Cure	Serene Grace	Friend Guard
+Chansey	Natural Cure	Serene Grace	Healer
+Blissey	Natural Cure	Serene Grace	Healer
+Tangela	Chlorophyll	Leaf Guard	Regenerator
+Tangrowth	Chlorophyll	Leaf Guard	Regenerator
+Kangaskhan	Early Bird	Scrappy	Inner Focus
+Horsea	Swift Swim	Sniper	Damp
+Seadra	Poison Point	Sniper	Damp
+Kingdra	Swift Swim	Sniper	Damp
+Goldeen	Swift Swim	Water Veil	Lightning Rod
+Seaking	Swift Swim	Water Veil	Lightning Rod
+Staryu	Illuminate	Natural Cure	Analytic
+Starmie	Illuminate	Natural Cure	Analytic
+Mime Jr.	Soundproof	Filter	Technician
+Mr. Mime	Soundproof	Filter	Technician
+Scyther	Swarm	Technician	Steadfast
+Scizor	Swarm	Technician	Light Metal
+Smoochum	Oblivious	Forewarn	Hydration
+Jynx	Oblivious	Forewarn	Dry Skin
+Elekid	Static		Vital Spirit
+Electabuzz	Static		Vital Spirit
+Electivire	Motor Drive		Vital Spirit
+Magby	Flame Body		Vital Spirit
+Magmar	Flame Body		Vital Spirit
+Magmortar	Flame Body		Vital Spirit
+Pinsir	Hyper Cutter	Mold Breaker	Moxie
+Tauros	Intimidate	Anger Point	Sheer Force
+Magikarp	Swift Swim		Rattled
+Gyarados	Intimidate		Moxie
+Lapras	Water Absorb	Shell Armor	Hydration
+Ditto	Limber		Imposter
+Eevee	Run Away	Adaptability	Anticipation
+Vaporeon	Water Absorb		Hydration
+Jolteon	Volt Absorb		Quick Feet
+Flareon	Flash Fire		Guts
+Espeon	Synchronize		Magic Bounce
+Umbreon	Synchronize		Inner Focus
+Leafeon	Leaf Guard		Chlorophyll
+Glaceon	Snow Cloak		Ice Body
+Sylveon	Cute Charm		Pixilate
+Porygon	Trace	Download	Analytic
+Porygon2	Trace	Download	Analytic
+Porygon-Z	Adaptability	Download	Analytic
+Omanyte	Swift Swim	Shell Armor	Weak Armor
+Omastar	Swift Swim	Shell Armor	Weak Armor
+Kabuto	Swift Swim	Battle Armor	Weak Armor
+Kabutops	Swift Swim	Battle Armor	Weak Armor
+Aerodactyl	Rock Head	Pressure	Unnerve
+Munchlax	Pickup	Thick Fat	Gluttony
+Snorlax	Immunity	Thick Fat	Gluttony
+Articuno	Pressure		Snow Cloak
+Zapdos	Pressure		Static
+Moltres	Pressure		Flame Body
+Dratini	Shed Skin		Marvel Scale
+Dragonair	Shed Skin		Marvel Scale
+Dragonite	Inner Focus		Multiscale
+Mewtwo	Pressure		Unnerve
+Mew	Synchronize		
+Chikorita	Overgrow		Leaf Guard
+Bayleef	Overgrow		Leaf Guard
+Meganium	Overgrow		Leaf Guard
+Cyndaquil	Blaze		Flash Fire
+Quilava	Blaze		Flash Fire
+Typhlosion	Blaze		Flash Fire
+Totodile	Torrent		Sheer Force
+Croconaw	Torrent		Sheer Force
+Feraligatr	Torrent		Sheer Force
+Sentret	Run Away	Keen Eye	Frisk
+Furret	Run Away	Keen Eye	Frisk
+Hoothoot	Insomnia	Keen Eye	Tinted Lens
+Noctowl	Insomnia	Keen Eye	Tinted Lens
+Ledyba	Swarm	Early Bird	Rattled
+Ledian	Swarm	Early Bird	Iron Fist
+Spinarak	Swarm	Insomnia	Sniper
+Ariados	Swarm	Insomnia	Sniper
+Chinchou	Volt Absorb	Illuminate	Water Absorb
+Lanturn	Volt Absorb	Illuminate	Water Absorb
+Togepi	Hustle	Serene Grace	Super Luck
+Togetic	Hustle	Serene Grace	Super Luck
+Togekiss	Hustle	Serene Grace	Super Luck
+Natu	Synchronize	Early Bird	Magic Bounce
+Xatu	Synchronize	Early Bird	Magic Bounce
+Mareep	Static		Plus
+Flaaffy	Static		Plus
+Ampharos	Static		Plus
+Azurill	Thick Fat	Huge Power	Sap Sipper
+Marill	Thick Fat	Huge Power	Sap Sipper
+Azumarill	Thick Fat	Huge Power	Sap Sipper
+Bonsly	Sturdy	Rock Head	Rattled
+Sudowoodo	Sturdy	Rock Head	Rattled
+Hoppip	Chlorophyll	Leaf Guard	Infiltrator
+Skiploom	Chlorophyll	Leaf Guard	Infiltrator
+Jumpluff	Chlorophyll	Leaf Guard	Infiltrator
+Aipom	Run Away	Pickup	Skill Link
+Ambipom	Technician	Pickup	Skill Link
+Sunkern	Chlorophyll	Solar Power	Early Bird
+Sunflora	Chlorophyll	Solar Power	Early Bird
+Yanma	Speed Boost	Compound Eyes	Frisk
+Yanmega	Speed Boost	Tinted Lens	Frisk
+Wooper	Damp	Water Absorb	Unaware
+Quagsire	Damp	Water Absorb	Unaware
+Murkrow	Insomnia	Super Luck	Prankster
+Honchkrow	Insomnia	Super Luck	Moxie
+Misdreavus	Levitate		
+Mismagius	Levitate		
+Unown	Levitate		
+Wynaut	Shadow Tag		Telepathy
+Wobbuffet	Shadow Tag		Telepathy
+Girafarig	Inner Focus	Early Bird	Sap Sipper
+Pineco	Sturdy		Overcoat
+Forretress	Sturdy		Overcoat
+Dunsparce	Serene Grace	Run Away	Rattled
+Gligar	Hyper Cutter	Sand Veil	Immunity
+Gliscor	Hyper Cutter	Sand Veil	Poison Heal
+Snubbull	Intimidate	Run Away	Rattled
+Granbull	Intimidate	Quick Feet	Rattled
+Qwilfish	Poison Point	Swift Swim	Intimidate
+Shuckle	Sturdy	Gluttony	Contrary
+Heracross	Swarm	Guts	Moxie
+Sneasel	Inner Focus	Keen Eye	Pickpocket
+Weavile	Pressure		Pickpocket
+Teddiursa	Pickup	Quick Feet	Honey Gather
+Ursaring	Guts	Quick Feet	Unnerve
+Slugma	Magma Armor	Flame Body	Weak Armor
+Magcargo	Magma Armor	Flame Body	Weak Armor
+Swinub	Oblivious	Snow Cloak	Thick Fat
+Piloswine	Oblivious	Snow Cloak	Thick Fat
+Mamoswine	Oblivious	Snow Cloak	Thick Fat
+Corsola	Hustle	Natural Cure	Regenerator
+Remoraid	Hustle	Sniper	Moody
+Octillery	Suction Cups	Sniper	Moody
+Delibird	Vital Spirit	Hustle	Insomnia
+Mantyke	Swift Swim	Water Absorb	Water Veil
+Mantine	Swift Swim	Water Absorb	Water Veil
+Skarmory	Keen Eye	Sturdy	Weak Armor
+Houndour	Early Bird	Flash Fire	Unnerve
+Houndoom	Early Bird	Flash Fire	Unnerve
+Phanpy	Pickup		Sand Veil
+Donphan	Sturdy		Sand Veil
+Stantler	Intimidate	Frisk	Sap Sipper
+Smeargle	Own Tempo	Technician	Moody
+Miltank	Thick Fat	Scrappy	Sap Sipper
+Raikou	Pressure		Volt Absorb
+Entei	Pressure		Flash Fire
+Suicune	Pressure		Water Absorb
+Larvitar	Guts		Sand Veil
+Pupitar	Shed Skin		
+Tyranitar	Sand Stream		Unnerve
+Lugia	Pressure		Multiscale
+Ho-Oh	Pressure		Regenerator
+Celebi	Natural Cure		
+Treecko	Overgrow		Unburden
+Grovyle	Overgrow		Unburden
+Sceptile	Overgrow		Unburden
+Torchic	Blaze		Speed Boost
+Combusken	Blaze		Speed Boost
+Blaziken	Blaze		Speed Boost
+Mudkip	Torrent		Damp
+Marshtomp	Torrent		Damp
+Swampert	Torrent		Damp
+Poochyena	Run Away	Quick Feet	Rattled
+Mightyena	Intimidate	Quick Feet	Moxie
+Zigzagoon	Pickup	Gluttony	Quick Feet
+Linoone	Pickup	Gluttony	Quick Feet
+Wurmple	Shield Dust		Run Away
+Silcoon	Shed Skin		
+Beautifly	Swarm		Rivalry
+Cascoon	Shed Skin		
+Dustox	Shield Dust		Compound Eyes
+Lotad	Swift Swim	Rain Dish	Own Tempo
+Lombre	Swift Swim	Rain Dish	Own Tempo
+Ludicolo	Swift Swim	Rain Dish	Own Tempo
+Seedot	Chlorophyll	Early Bird	Pickpocket
+Nuzleaf	Chlorophyll	Early Bird	Pickpocket
+Shiftry	Chlorophyll	Early Bird	Pickpocket
+Taillow	Guts		Scrappy
+Swellow	Guts		Scrappy
+Wingull	Keen Eye		Rain Dish
+Pelipper	Keen Eye		Rain Dish
+Ralts	Synchronize	Trace	Telepathy
+Kirlia	Synchronize	Trace	Telepathy
+Gardevoir	Synchronize	Trace	Telepathy
+Gallade	Steadfast		Justified
+Surskit	Swift Swim		Rain Dish
+Masquerain	Intimidate		Unnerve
+Shroomish	Effect Spore	Poison Heal	Quick Feet
+Breloom	Effect Spore	Poison Heal	Technician
+Slakoth	Truant		
+Vigoroth	Vital Spirit		
+Slaking	Truant		
+Nincada	Compound Eyes		Run Away
+Ninjask	Speed Boost		Infiltrator
+Shedinja	Wonder Guard		Wonder Guard
+Whismur	Soundproof		Rattled
+Loudred	Soundproof		Scrappy
+Exploud	Soundproof		Scrappy
+Makuhita	Thick Fat	Guts	Sheer Force
+Hariyama	Thick Fat	Guts	Sheer Force
+Nosepass	Sturdy	Magnet Pull	Sand Force
+Probopass	Sturdy	Magnet Pull	Sand Force
+Skitty	Cute Charm	Normalize	Wonder Skin
+Delcatty	Cute Charm	Normalize	Wonder Skin
+Sableye	Keen Eye	Stall	Prankster
+Mawile	Hyper Cutter	Intimidate	Sheer Force
+Aron	Sturdy	Rock Head	Heavy Metal
+Lairon	Sturdy	Rock Head	Heavy Metal
+Aggron	Sturdy	Rock Head	Heavy Metal
+Meditite	Pure Power		Telepathy
+Medicham	Pure Power		Telepathy
+Electrike	Static	Lightning Rod	Minus
+Manectric	Static	Lightning Rod	Minus
+Plusle	Plus		Lightning Rod
+Minun	Minus		Volt Absorb
+Volbeat	Illuminate	Swarm	Prankster
+Illumise	Oblivious	Tinted Lens	Prankster
+Budew	Natural Cure	Poison Point	Leaf Guard
+Roselia	Natural Cure	Poison Point	Leaf Guard
+Roserade	Natural Cure	Poison Point	Technician
+Gulpin	Liquid Ooze	Sticky Hold	Gluttony
+Swalot	Liquid Ooze	Sticky Hold	Gluttony
+Carvanha	Rough Skin		Speed Boost
+Sharpedo	Rough Skin		Speed Boost
+Wailmer	Water Veil	Oblivious	Pressure
+Wailord	Water Veil	Oblivious	Pressure
+Numel	Oblivious	Simple	Own Tempo
+Camerupt	Magma Armor	Solid Rock	Anger Point
+Torkoal	White Smoke		Shell Armor
+Spoink	Thick Fat	Own Tempo	Gluttony
+Grumpig	Thick Fat	Own Tempo	Gluttony
+Spinda	Own Tempo	Tangled Feet	Contrary
+Trapinch	Hyper Cutter	Arena Trap	Sheer Force
+Vibrava	Levitate		
+Flygon	Levitate		
+Cacnea	Sand Veil		Water Absorb
+Cacturne	Sand Veil		Water Absorb
+Swablu	Natural Cure		Cloud Nine
+Altaria	Natural Cure		Cloud Nine
+Zangoose	Immunity		Toxic Boost
+Seviper	Shed Skin		Infiltrator
+Lunatone	Levitate		
+Solrock	Levitate		
+Barboach	Oblivious	Anticipation	Hydration
+Whiscash	Oblivious	Anticipation	Hydration
+Corphish	Hyper Cutter	Shell Armor	Adaptability
+Crawdaunt	Hyper Cutter	Shell Armor	Adaptability
+Baltoy	Levitate		
+Claydol	Levitate		
+Lileep	Suction Cups		Storm Drain
+Cradily	Suction Cups		Storm Drain
+Anorith	Battle Armor		Swift Swim
+Armaldo	Battle Armor		Swift Swim
+Feebas	Swift Swim	Oblivious	Adaptability
+Milotic	Marvel Scale	Competitive	Cute Charm
+Castform	Forecast		
+Castform	Forecast		
+Castform	Forecast		
+Castform	Forecast		
+Kecleon	Color Change		Protean
+Shuppet	Insomnia	Frisk	Cursed Body
+Banette	Insomnia	Frisk	Cursed Body
+Duskull	Levitate		Frisk
+Dusclops	Pressure		Frisk
+Dusknoir	Pressure		Frisk
+Tropius	Chlorophyll	Solar Power	Harvest
+Chingling	Levitate		
+Chimecho	Levitate		
+Absol	Pressure	Super Luck	Justified
+Snorunt	Inner Focus	Ice Body	Moody
+Glalie	Inner Focus	Ice Body	Moody
+Froslass	Snow Cloak		Cursed Body
+Spheal	Thick Fat	Ice Body	Oblivious
+Sealeo	Thick Fat	Ice Body	Oblivious
+Walrein	Thick Fat	Ice Body	Oblivious
+Clamperl	Shell Armor		Rattled
+Huntail	Swift Swim		Water Veil
+Gorebyss	Swift Swim		Hydration
+Relicanth	Swift Swim	Rock Head	Sturdy
+Luvdisc	Swift Swim		Hydration
+Bagon	Rock Head		Sheer Force
+Shelgon	Rock Head		Overcoat
+Salamence	Intimidate		Moxie
+Beldum	Clear Body		Light Metal
+Metang	Clear Body		Light Metal
+Metagross	Clear Body		Light Metal
+Regirock	Clear Body		Sturdy
+Regice	Clear Body		Ice Body
+Registeel	Clear Body		Light Metal
+Latias	Levitate		
+Latios	Levitate		
+Kyogre	Drizzle		
+Groudon	Drought		
+Rayquaza	Air Lock		
+Jirachi	Serene Grace		
+Deoxys (Normal Forme)	Pressure		
+Deoxys (Attack Forme)	Pressure		
+Deoxys (Defense Forme)	Pressure		
+Deoxys (Speed Forme)	Pressure		
+Turtwig	Overgrow		Shell Armor
+Grotle	Overgrow		Shell Armor
+Torterra	Overgrow		Shell Armor
+Chimchar	Blaze		Iron Fist
+Monferno	Blaze		Iron Fist
+Infernape	Blaze		Iron Fist
+Piplup	Torrent		Defiant
+Prinplup	Torrent		Defiant
+Empoleon	Torrent		Defiant
+Starly	Keen Eye		Reckless
+Staravia	Intimidate		Reckless
+Staraptor	Intimidate		Reckless
+Bidoof	Simple	Unaware	Moody
+Bibarel	Simple	Unaware	Moody
+Kricketot	Shed Skin		Run Away
+Kricketune	Swarm		Technician
+Shinx	Rivalry	Intimidate	Guts
+Luxio	Rivalry	Intimidate	Guts
+Luxray	Rivalry	Intimidate	Guts
+Cranidos	Mold Breaker		Sheer Force
+Rampardos	Mold Breaker		Sheer Force
+Shieldon	Sturdy		Soundproof
+Bastiodon	Sturdy		Soundproof
+Burmy	Shed Skin		Overcoat
+Burmy	Shed Skin		Overcoat
+Burmy	Shed Skin		Overcoat
+Wormadam	Anticipation		Overcoat
+Mothim	Swarm		Tinted Lens
+Combee	Honey Gather		Hustle
+Vespiquen	Pressure		Unnerve
+Pachirisu	Run Away	Pickup	Volt Absorb
+Buizel	Swift Swim		Water Veil
+Floatzel	Swift Swim		Water Veil
+Cherubi	Chlorophyll		
+Cherrim	Flower Gift		
+Cherrim	Flower Gift		
+Shellos	Sticky Hold	Storm Drain	Sand Force
+Shellos	Sticky Hold	Storm Drain	Sand Force
+Gastrodon	Sticky Hold	Storm Drain	Sand Force
+Gastrodon	Sticky Hold	Storm Drain	Sand Force
+Drifloon	Aftermath	Unburden	Flare Boost
+Drifblim	Aftermath	Unburden	Flare Boost
+Buneary	Run Away	Klutz	Limber
+Lopunny	Cute Charm	Klutz	Limber
+Glameow	Limber	Own Tempo	Keen Eye
+Purugly	Thick Fat	Own Tempo	Defiant
+Stunky	Stench	Aftermath	Keen Eye
+Skuntank	Stench	Aftermath	Keen Eye
+Bronzor	Levitate	Heatproof	Heavy Metal
+Bronzong	Levitate	Heatproof	Heavy Metal
+Chatot	Keen Eye	Tangled Feet	Big Pecks
+Spiritomb	Pressure		Infiltrator
+Gible	Sand Veil		Rough Skin
+Gabite	Sand Veil		Rough Skin
+Garchomp	Sand Veil		Rough Skin
+Riolu	Steadfast	Inner Focus	Prankster
+Lucario	Steadfast	Inner Focus	Justified
+Hippopotas	Sand Stream		Sand Force
+Hippowdon	Sand Stream		Sand Force
+Skorupi	Battle Armor	Sniper	Keen Eye
+Drapion	Battle Armor	Sniper	Keen Eye
+Croagunk	Anticipation	Dry Skin	Poison Touch
+Toxicroak	Anticipation	Dry Skin	Poison Touch
+Carnivine	Levitate		
+Finneon	Swift Swim	Storm Drain	Water Veil
+Lumineon	Swift Swim	Storm Drain	Water Veil
+Snover	Snow Warning		Soundproof
+Abomasnow	Snow Warning		Soundproof
+Rotom	Levitate		
+Heat Rotom	Levitate		
+Wash Rotom	Levitate		
+Frost Rotom	Levitate		
+Fan Rotom	Levitate		
+Mow Rotom	Levitate		
+Uxie	Levitate		
+Mesprit	Levitate		
+Azelf	Levitate		
+Dialga	Pressure		Telepathy
+Palkia	Pressure		Telepathy
+Heatran	Flash Fire		Flame Body
+Regigigas	Slow Start		
+Giratina	Pressure		Telepathy
+Giratina	Levitate		
+Cresselia	Levitate		
+Phione	Hydration		
+Manaphy	Hydration		
+Darkrai	Bad Dreams		
+Shaymin (Land Forme)	Natural Cure		
+Shaymin (Sky Forme)	Serene Grace		
+Arceus	Multitype		
+Victini	Victory Star		
+Snivy	Overgrow		Contrary
+Servine	Overgrow		Contrary
+Serperior	Overgrow		Contrary
+Tepig	Blaze		Thick Fat
+Pignite	Blaze		Thick Fat
+Emboar	Blaze		Reckless
+Oshawott	Torrent		Shell Armor
+Dewott	Torrent		Shell Armor
+Samurott	Torrent		Shell Armor
+Patrat	Run Away	Keen Eye	Analytic
+Watchog	Illuminate	Keen Eye	Analytic
+Lillipup	Vital Spirit	Pickup	Run Away
+Herdier	Intimidate	Sand Rush	Scrappy
+Stoutland	Intimidate	Sand Rush	Scrappy
+Purrloin	Limber	Unburden	Prankster
+Liepard	Limber	Unburden	Prankster
+Pansage	Gluttony		Overgrow
+Simisage	Gluttony		Overgrow
+Pansear	Gluttony		Blaze
+Simisear	Gluttony		Blaze
+Panpour	Gluttony		Torrent
+Simipour	Gluttony		Torrent
+Munna	Forewarn	Synchronize	Telepathy
+Musharna	Forewarn	Synchronize	Telepathy
+Pidove	Big Pecks	Super Luck	Rivalry
+Tranquill	Big Pecks	Super Luck	Rivalry
+Unfezant	Big Pecks	Super Luck	Rivalry
+Blitzle	Lightning Rod	Motor Drive	Sap Sipper
+Zebstrika	Lightning Rod	Motor Drive	Sap Sipper
+Roggenrola	Sturdy		Sand Force
+Boldore	Sturdy		Sand Force
+Gigalith	Sturdy		Sand Force
+Woobat	Unaware	Klutz	Simple
+Swoobat	Unaware	Klutz	Simple
+Drilbur	Sand Rush	Sand Force	Mold Breaker
+Excadrill	Sand Rush	Sand Force	Mold Breaker
+Audino	Healer	Regenerator	Klutz
+Timburr	Guts	Sheer Force	Iron Fist
+Gurdurr	Guts	Sheer Force	Iron Fist
+Conkeldurr	Guts	Sheer Force	Iron Fist
+Tympole	Swift Swim	Hydration	Water Absorb
+Palpitoad	Swift Swim	Hydration	Water Absorb
+Seismitoad	Swift Swim	Poison Touch	Water Absorb
+Throh	Guts	Inner Focus	Mold Breaker
+Sawk	Sturdy	Inner Focus	Mold Breaker
+Sewaddle	Swarm	Chlorophyll	Overcoat
+Swadloon	Leaf Guard	Chlorophyll	Overcoat
+Leavanny	Swarm	Chlorophyll	Overcoat
+Venipede	Poison Point	Swarm	Speed Boost
+Whirlipede	Poison Point	Swarm	Speed Boost
+Scolipede	Poison Point	Swarm	Speed Boost
+Cottonee	Prankster	Infiltrator	Chlorophyll
+Whimsicott	Prankster	Infiltrator	Chlorophyll
+Petilil	Chlorophyll	Own Tempo	Leaf Guard
+Lilligant	Chlorophyll	Own Tempo	Leaf Guard
+Basculin	Reckless	Adaptability	Mold Breaker
+Basculin	Rock Head	Adaptability	Mold Breaker
+Sandile	Intimidate	Moxie	Anger Point
+Krokorok	Intimidate	Moxie	Anger Point
+Krookodile	Intimidate	Moxie	Anger Point
+Darumaka	Hustle		Inner Focus
+Darmanitan (Standard Mode)	Sheer Force		Zen Mode
+Darmanitan (Zen Mode)	Zen Mode		
+Maractus	Water Absorb	Chlorophyll	Storm Drain
+Dwebble	Sturdy	Shell Armor	Weak Armor
+Crustle	Sturdy	Shell Armor	Weak Armor
+Scraggy	Shed Skin	Moxie	Intimidate
+Scrafty	Shed Skin	Moxie	Intimidate
+Sigilyph	Wonder Skin	Magic Guard	Tinted Lens
+Yamask	Mummy		
+Cofagrigus	Mummy		
+Tirtouga	Solid Rock	Sturdy	Swift Swim
+Carracosta	Solid Rock	Sturdy	Swift Swim
+Archen	Defeatist		
+Archeops	Defeatist		
+Trubbish	Stench	Sticky Hold	Aftermath
+Garbodor	Stench	Weak Armor	Aftermath
+Zorua	Illusion		
+Zoroark	Illusion		
+Minccino	Cute Charm	Technician	Skill Link
+Cinccino	Cute Charm	Technician	Skill Link
+Gothita	Frisk	Competitive	Shadow Tag
+Gothorita	Frisk	Competitive	Shadow Tag
+Gothitelle	Frisk	Competitive	Shadow Tag
+Solosis	Overcoat	Magic Guard	Regenerator
+Duosion	Overcoat	Magic Guard	Regenerator
+Reuniclus	Overcoat	Magic Guard	Regenerator
+Ducklett	Keen Eye	Big Pecks	Hydration
+Swanna	Keen Eye	Big Pecks	Hydration
+Vanillite	Ice Body		Weak Armor
+Vanillish	Ice Body		Weak Armor
+Vanilluxe	Ice Body		Weak Armor
+Deerling	Chlorophyll	Sap Sipper	Serene Grace
+Deerling	Chlorophyll	Sap Sipper	Serene Grace
+Deerling	Chlorophyll	Sap Sipper	Serene Grace
+Deerling	Chlorophyll	Sap Sipper	Serene Grace
+Sawsbuck	Chlorophyll	Sap Sipper	Serene Grace
+Sawsbuck	Chlorophyll	Sap Sipper	Serene Grace
+Sawsbuck	Chlorophyll	Sap Sipper	Serene Grace
+Sawsbuck	Chlorophyll	Sap Sipper	Serene Grace
+Emolga	Static		Motor Drive
+Karrablast	Swarm	Shed Skin	No Guard
+Escavalier	Swarm	Shell Armor	Overcoat
+Foongus	Effect Spore		Regenerator
+Amoonguss	Effect Spore		Regenerator
+Frillish	Water Absorb	Cursed Body	Damp
+Jellicent	Water Absorb	Cursed Body	Damp
+Alomomola	Healer	Hydration	Regenerator
+Joltik	Compound Eyes	Unnerve	Swarm
+Galvantula	Compound Eyes	Unnerve	Swarm
+Ferroseed	Iron Barbs		
+Ferrothorn	Iron Barbs		Anticipation
+Klink	Plus	Minus	Clear Body
+Klang	Plus	Minus	Clear Body
+Klinklang	Plus	Minus	Clear Body
+Tynamo	Levitate		
+Eelektrik	Levitate		
+Eelektross	Levitate		
+Elgyem	Telepathy	Synchronize	Analytic
+Beheeyem	Telepathy	Synchronize	Analytic
+Litwick	Flash Fire	Flame Body	Infiltrator
+Lampent	Flash Fire	Flame Body	Infiltrator
+Chandelure	Flash Fire	Flame Body	Infiltrator
+Axew	Rivalry	Mold Breaker	Unnerve
+Fraxure	Rivalry	Mold Breaker	Unnerve
+Haxorus	Rivalry	Mold Breaker	Unnerve
+Cubchoo	Snow Cloak		Rattled
+Beartic	Snow Cloak		Swift Swim
+Cryogonal	Levitate		
+Shelmet	Hydration	Shell Armor	Overcoat
+Accelgor	Hydration	Sticky Hold	Unburden
+Stunfisk	Static	Limber	Sand Veil
+Mienfoo	Inner Focus	Regenerator	Reckless
+Mienshao	Inner Focus	Regenerator	Reckless
+Druddigon	Rough Skin	Sheer Force	Mold Breaker
+Golett	Iron Fist	Klutz	No Guard
+Golurk	Iron Fist	Klutz	No Guard
+Pawniard	Defiant	Inner Focus	Pressure
+Bisharp	Defiant	Inner Focus	Pressure
+Bouffalant	Reckless	Sap Sipper	Soundproof
+Rufflet	Keen Eye	Sheer Force	Hustle
+Braviary	Keen Eye	Sheer Force	Defiant
+Vullaby	Big Pecks	Overcoat	Weak Armor
+Mandibuzz	Big Pecks	Overcoat	Weak Armor
+Heatmor	Gluttony	Flash Fire	White Smoke
+Durant	Swarm	Hustle	Truant
+Deino	Hustle		
+Zweilous	Hustle		
+Hydreigon	Levitate		
+Larvesta	Flame Body		Swarm
+Volcarona	Flame Body		Swarm
+Cobalion	Justified		
+Terrakion	Justified		
+Virizion	Justified		
+Tornadus	Prankster		Defiant
+Tornadus	Regenerator		
+Thundurus	Prankster		Defiant
+Thundurus	Volt Absorb		
+Reshiram	Turboblaze		
+Zekrom	Teravolt		
+Landorus	Sand Force		Sheer Force
+Landorus	Intimidate		
+Kyurem	Pressure		
+Black Kyurem	Teravolt		
+White Kyurem	Turboblaze		
+Keldeo	Justified		
+Keldeo	Justified		
+Meloetta (Aria Forme)	Serene Grace		
+Meloetta (Pirouette Forme)	Serene Grace		
+Genesect	Download		

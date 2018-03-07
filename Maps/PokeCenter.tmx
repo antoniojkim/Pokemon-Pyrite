@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="37" height="34" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Multi-Inside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Multi-Inside.png" width="256" height="8642"/>
+ </tileset>
+ <tileset firstgid="2161" name="Pokemon Center" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Pokemon Center.png" width="256" height="512"/>
+ </tileset>
+ <tileset firstgid="2289" name="Inside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Inside.png" width="256" height="1152"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="37" height="34">
+  <data encoding="base64" compression="zlib">
+   eJzt0yEOgDAQRNHKPS+SI3AgQAEKMNTBeRhZUdE0KW3CF8+t+MlkzTlnAIBf6Cxfqabe8pVqGiwfTTTFmi7xiR3hbcmmW57EpvD26+1GmWSutF3MIqtsDTXtcsjZUFPtv2utCQCAFC+Fa5Iw
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="37" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztkksKg0AQRBuyGc+aZSAqko8bwWPoTjd6kZwhHxf+LmGJy4D2Jh0X9aBgYAbq0dMihBBCyDe+Ewnccj47m87wsH5/g8cdeXgiVyOnC5ye6Hop+hIjpxhOLbo6oz4N6cbfEbLF0dO/rbD7tcH+n5ROs0uG5G5x+yWR0mn2KJDSaFZaaoMZrfFG9wdpdjSTHi4DMu7IiRBCyP+YALZJGas=
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="37" height="34">
+  <data encoding="base64" compression="zlib">
+   eJzt0LkKgDAURNEHr8mvqpVrFW2MsXD7ZQeMhRaWBnEODIGQ4hIRIiL6i8aIVFhtrveJiqRYpu83dWixWHtrytFSYGVosi+2ebQ4bDDP79oI/3Xq9dgQGjzOEXMRmyY9toSGFeeGzRGbiIiIiIi+ZAfWWA7f
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="37" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztzjENADAIADDOiefknNgJQABkaRU0AgD4RZ7pQVcLT3fhCQAAHpUsAdU=
+  </data>
+ </layer>
+</map>

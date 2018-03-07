@@ -1,0 +1,183 @@
+								
+0.1	Flabebe	Joltik						
+								
+0.2	Azurill	Budew	Burmy	Chingling	Dedenne	Diglett	Floette	Foongus
+	Klefki	Natu	Shaymin	Spritzee	Tynamo			
+								
+0.3	Azelf	Carbink	Castform	Caterpie	Cleffa	Combee	Cottonee	Ditto
+	Drilbur	Durant	Dwebble	Eevee	Espurr	Fletchinder	Fletchling	Froakie
+	Goomy	Igglybuff	Jirachi	Klink	Kricketot	Litwick	Magnemite	Manaphy
+	Mesprit	Paras	Pichu	Pidgey	Pidove	Pumpkaboo	Rattata	Roselia
+	Rotom	Rowlet	Scatterbug	Sewaddle	Shellder	Shellos	Solosis	Spearow
+	Spewpa	Starly	Sunkern	Taillow	Togepi	Uxie	Weedle	Wurmple
+								
+0.4	Aron	Barboach	Bellossom	Buneary	Bunnelby	Cacnea	Cherubi	Chespin
+	Clamperl	Cubone	Drifloon	Emolga	Exeggcute	Fennekin	Finneon	Geodude
+	Gothita	Gulpin	Hoppip	Horsea	Inkay	Krabby	Lillipup	Litten
+	Marill	Meowth	Mew	Minccino	Minun	Mudkip	Nidoran¡Ï	Omanyte
+	Pachirisu	Phantump	Phione	Pikachu	Piplup	Plusle	Popplio	Pumpkaboo
+	Purrloin	Ralts	Roggenrola	Shaymin	Shelmet	Shroomish	Skiddo	Smoochum
+	Stunky	Swablu	Swinub	Swirlix	Torchic	Turtwig	Venipede	Victini
+	Woobat	Wooper	Zigzagoon					
+								
+0.5	Archen	Baltoy	Bidoof	Binacle	Bonsly	Bronzor	Chatot	Cherrim
+	Chimchar	Chinchou	Cinccino	Clauncher	Cubchoo	Cyndaquil	Ducklett	Elgyem
+	Glameow	Helioptile	Hoopa Confined	Jigglypuff	Kabuto	Karrablast	Linoone	Lotad
+	Mankey	Murkrow	Nidoran¡Î	Nincada	Noibat	Oddish	Oshawott	Patrat
+	Pawniard	Petilil	Phanpy	Poochyena	Pumpkaboo	Qwilfish	Rufflet	Sableye
+	Seedot	Shieldon	Shinx	Skrelp	Spinarak	Squirtle	Surskit	
+	Swadloon	Tepig	Torkoal	Treecko	Tympole	Unown	Voltorb	Vullaby
+	Wormadam	Yamask						
+								
+0.6	Amoonguss	Axew	Bagon	Beldum	Celebi	Charmander	Chimecho	Clefairy
+	Corphish	Corsola	Darumaka	Deerling	Duosion	Electrike	Elekid	Feebas
+	Ferroseed	Frogadier	Goldeen	Happiny	Houndour	Illumise	Kakuna	Klang
+	Klinklang	Koffing	Lampent	Larvitar	Litleo	Luvdisc	Mareep	Mawile
+	Meditite	Meloetta	Meowstic	Mime Jr.	Munchlax	Munna	Pancham	Panpour
+	Pansage	Pansear	Pineco	Poliwag	Porygon2	Remoraid	Sandshrew	Scraggy
+	Shuckle	Shuppet	Silcoon	Skiploom	Skitty	Snivy	Snubbull	Staravia
+	Teddiursa	Timburr	Togetic	Totodile	Tranquill	Trubbish	Vulpix	Whismur
+	Wingull	Wynaut						
+								
+0.7	Anorith	Bellsprout	Buizel	Bulbasaur	Cascoon	Croagunk	Diancie	Dugtrio
+	Excadrill	Gothorita	Gourgeist	Growlithe	Hoothoot	Magby	Marshtomp	Metapod
+	Misdreavus	Numel	Gible	Quilladin	Raticate	Riolu	Sandile	Slugma
+	Snorunt	Spoink	Stunfisk	Swellow	Tirtouga	Trapinch	Tyrogue	Volbeat
+	Whimsicott	Zorua						
+								
+0.8	Accelgor	Aipom	Aromatisse	Azumarill	Blitzle	Carvanha	Deino	Dewott
+	Doublade	Duskull	Farfetch'd	Flaaffy	Galvantula	Glaceon	Gloom	Hawlucha
+	Hippopotas	Honedge	Jolteon	Jumpluff	Kirlia	Machop	Magcargo	Masquerain
+	Nidorina	Ninjask	Palpitoad	Porygon	Prinplup	Psyduck	Pumpkaboo	Raichu
+	Sentret	Servine	Shedinja	Skorupi	Slakoth	Sliggoo	Slurpuff	Spheal
+	Staryu	Sunflora	Tyrunt	Zubat				
+								
+0.9	Abra	Boldore	Chikorita	Combusken	Cranidos	Delibird	Espeon	Flareon
+	Gastrodon	Gourgeist	Grimer	Grovyle	Grumpig	Herdier	Honchkrow	Lairon
+	Luxio	Magikarp	Mienfoo	Mismagius	Monferno	Mothim	Nidorino	Octillery
+	Porygon-Z	Quilava	Roserade	Sneasel	Swoobat	Tentacool	Whiscash	
+								
+1	Basculin	Beautifly	Beedrill	Beheeyem	Bergmite	Bibarel	Braixen	Chandelure
+	Diggersby	Drowzee	Escavalier	Ferrothorn	Fraxure	Golett	Gourgeist	Graveler
+	Heliolisk	Ivysaur	Kecleon	Kricketune	Krokorok	Leafeon	Ledyba	Lileep
+	Loudred	Lunatone	Magearna	Magneton	Makuhita	Mantyke	Maractus	Marowak
+	Mightyena	Nosepass	Nuzleaf	Omastar	Parasect	Persian	Pignite	Poliwhirl
+	Ponyta	Primeape	Purugly	Relicanth	Reuniclus	Rhyhorn	Sandslash	Simipour
+	Simisear	Skuntank	Snover	Spiritomb	Sylveon	Tangela	Umbreon	Vaporeon
+	Venonat	Wartortle	Weepinbell	Wigglytuff				
+								
+1.1	Altaria	Ariados	Audino	Banette	Butterfree	Chansey	Charmeleon	Crawdaunt
+	Croconaw	Cryogonal	Delcatty	Donphan	Electabuzz	Floatzel	Florges	
+	Gligar	Grotle	Larvesta	Liepard	Lilligant	Musharna	Ninetales	
+	Pidgeotto	Piloswine	Politoed	Scrafty	Sealeo	Seel	Shelgon	Simisage
+	Spinda	Starmie	Vanillish	Vibrava	Watchog	Weavile		
+								
+1.2	Absol	Alomomola	Ambipom	Bayleef				
+	Breloom	Carracosta	Drifblim	Dustox	Eelektrik	Electrode	Fearow	Forretress
+	Frillish	Furfrou	Gurdurr	Infernape	Lanturn	Leavanny	Lickitung	Lombre
+	Lopunny	Lucario	Lumineon	Magnezone	Mandibuzz	Metang	Miltank	Muk
+	Pelipper	Pupitar	Seadra	Slowpoke	Smeargle	Solrock	Staraptor	Stoutland
+	Sudowoodo	Talonflame	Unfezant	Vespiquen	Vileplume	Vivillon	Weezing	Whirlipede
+	Yanma							
+								
+1.3	Amaura	Barbaracle	Bastiodon	Bronzong	Cacturne	Clawitzer	Clefable	Darmanitan
+	Drapion	Froslass	Gastly	Kabutops	Kadabra	Kingler	Landorus	
+	Mega Lucario	Magmar	Medicham	Mr. Mime	Nidoqueen	Poliwrath	Seaking	
+	Shiftry	Swanna	Throh	Toxicroak	Vanilluxe	Wobbuffet	Zangoose	
+								
+1.4	Ampharos	Archeops	Carnivine	Conkeldurr	Crustle	Doduo	Gabite	
+	Golem	Granbull	Heatmor	Hitmonchan	Hitmontop	Houndoom	Jynx	
+	Keldeo	Latias	Ledian	Luxray	Mienshao	Nidoking	Probopass	Quagsire
+	Sawk	Sigilyph	Stantler	Tauros	Tornadus	Vigoroth	Walrein	Zweilous
+								
+1.5	Alakazam	Armaldo	Blissey	Braviary	Claydol	Cloyster		
+	Cradily	Cresselia	Darkrai	Delphox	Dunsparce	Exploud	Genesect	Gengar
+	Girafarig	Glalie	Gothitelle	Greninja	Heracross	Hitmonlee	Krookodile	Landorus
+	Ludicolo	Machoke	Malamar	Manectric	Noivern	Pidgeot	Pinsir	
+	Pyroar	Salamence	Samurott	Scyther	Seismitoad	Swampert	Thundurus	Togekiss
+	Tornadus	Trevenant	Venomoth	Xatu				
+								
+1.6	Bisharp	Blastoise	Bouffalant	Chesnaught	Druddigon	Dusclops	Emboar	
+	Gallade	Gardevoir	Golbat	Haunter	Hypno	Machamp		
+	Magmortar	Metagross	Noctowl	Rampardos	Slowbro	Tentacruel	Volcarona	Zapdos
+	Zebstrika	Zoroark						
+								
+1.7	Aegislash	Articuno	Charizard	Cofagrigus	Deoxys	Dewgong		
+	Empoleon	Gigalith	Gogoat	Golduck	Gourgeist	Heatran	Huntail	
+	Lickilicky	Mega Pinsir	Rapidash	Regirock	Sceptile	Skarmory	Swalot	Typhlosion
+	Victreebel	Volcanion						
+								
+1.8	Aerodactyl	Crobat	Dodrio	Dragalge	Dratini	Electivire	Furret	Gorebyss
+	Haxorus	Hydreigon	Kingdra	Meganium	Regice			
+	Scizor	Sharpedo	Ursaring					
+								
+1.9	Arcanine	Blaziken	Camerupt	Garbodor	Garchomp			
+	Raikou	Registeel	Rhydon	Sawsbuck	Terrakion	Yanmega		
+								
+2	Avalugg	Ekans	Exeggutor	Flygon	Gliscor	Goodra	Hippowdon	Latios
+	Mewtwo	Moltres	Slaking	Slowking	Suicune	Tangrowth		
+	Tropius	Tyranitar	Venusaur	Virizion	Wailmer			
+								
+2.1	Aggron	Cobalion	Eelektross	Entei	Mega Glalie	Mantine	Pangoro	
+	Snorlax							
+								
+2.2	Abomasnow	Mega Aggron	Dragonite	Dusknoir	Jellicent	Kangaskhan		
+	Torterra							
+								
+2.3	Feraligatr	Hariyama	Mega Latios					
+								
+2.4	Rhyperior							
+								
+2.5	Lapras	Mamoswine	Scolipede	Tyrantrum				
+								
+2.6	Beartic							
+								
+2.7	Mega Abomasnow	Aurorus	Seviper					
+								
+2.8	Golurk							
+								
+2.9	Zekrom							
+								
+3	Kyurem	Thundurus	Xerneas					
+								
+3.2	Arceus	Reshiram						
+								
+3.3	Black Kyurem	Serperior						
+								
+3.4	Solgaleo							
+								
+3.5	Arbok	Groudon						
+								
+3.6	White Kyurem							
+								
+3.7	Regigigas							
+								
+3.8	Ho-Oh							
+								
+4	Dragonair	Lunala						
+								
+4.2	Palkia							
+								
+4.5	Giratina	Kyogre						
+								
+5	Primal Groudon	Zygarde						
+								
+5.2	Lugia							
+								
+5.4	Dialga							
+								
+5.8	Yveltal							
+								
+6.2	Milotic							
+								
+6.5	Gyarados							
+								
+6.9	Giratina							
+								
+7	Rayquaza							
+								
+8.8	Onix							
+								
+9.2	Steelix							
+								
+14.5	Wailord							

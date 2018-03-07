@@ -1,0 +1,6426 @@
+		
+Bulbasaur	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM53	Energy Ball
+	TM70	Flash
+	TM75	Swords Dance
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Ivysaur	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM53	Energy Ball
+	TM70	Flash
+	TM75	Swords Dance
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Venusaur	TM05	Roar
+	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM26	Earthquake
+	TM27	Return
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM53	Energy Ball
+	TM68	Giga Impact
+	TM70	Flash
+	TM75	Swords Dance
+	TM78	Bulldoze
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Charmander	TM01	Hone Claws
+	TM02	Dragon Claw
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM50	Overheat
+	TM56	Fling
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM65	Shadow Claw
+	TM75	Swords Dance
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Charmeleon	TM01	Hone Claws
+	TM02	Dragon Claw
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM50	Overheat
+	TM56	Fling
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM65	Shadow Claw
+	TM75	Swords Dance
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Charizard	TM01	Hone Claws
+	TM02	Dragon Claw
+	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM50	Overheat
+	TM52	Focus Blast
+	TM56	Fling
+	TM58	Sky Drop
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM65	Shadow Claw
+	TM68	Giga Impact
+	TM75	Swords Dance
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM82	Dragon Tail
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM02	Fly
+	HM04	Strength
+		
+Squirtle	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM56	Fling
+	TM74	Gyro Ball
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Wartortle	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM56	Fling
+	TM74	Gyro Ball
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Blastoise	TM05	Roar
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM52	Focus Blast
+	TM55	Scald
+	TM56	Fling
+	TM68	Giga Impact
+	TM74	Gyro Ball
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM82	Dragon Tail
+	TM87	Swagger
+	TM90	Substitute
+	TM91	Flash Cannon
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Caterpie		
+		
+Metapod		
+		
+Butterfree	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM53	Energy Ball
+	TM62	Acrobatics
+	TM68	Giga Impact
+	TM70	Flash
+	TM76	Struggle Bug
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+		
+Weedle		
+		
+Kakuna		
+		
+Beedrill	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM31	Brick Break
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM54	False Swipe
+	TM62	Acrobatics
+	TM66	Payback
+	TM68	Giga Impact
+	TM70	Flash
+	TM75	Swords Dance
+	TM76	Struggle Bug
+	TM81	X-Scissor
+	TM84	Poison Jab
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+		
+Pidgey	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM83	Work Up
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	HM02	Fly
+		
+Pidgeotto	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM83	Work Up
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	HM02	Fly
+		
+Pidgeot	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM68	Giga Impact
+	TM83	Work Up
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	HM02	Fly
+		
+Rattata	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM57	Charge Beam
+	TM67	Retaliate
+	TM73	Thunder Wave
+	TM83	Work Up
+	TM86	Grass Knot
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM01	Cut
+		
+Raticate	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM57	Charge Beam
+	TM67	Retaliate
+	TM73	Thunder Wave
+	TM83	Work Up
+	TM86	Grass Knot
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM01	Cut
+		
+Spearow	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM54	False Swipe
+	TM83	Work Up
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	HM02	Fly
+		
+Fearow	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM54	False Swipe
+	TM68	Giga Impact
+	TM83	Work Up
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	HM02	Fly
+		
+Ekans	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM34	Sludge Wave
+	TM36	Sludge Bomb
+	TM39	Rock Tomb
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM66	Payback
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	HM04	Strength
+		
+Arbok	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM34	Sludge Wave
+	TM36	Sludge Bomb
+	TM39	Rock Tomb
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM66	Payback
+	TM68	Giga Impact
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM82	Dragon Tail
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	HM04	Strength
+		
+Pikachu	TM06	Toxic
+	TM10	Hidden Power
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM56	Fling
+	TM57	Charge Beam
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM04	Strength
+		
+Raichu	TM06	Toxic
+	TM10	Hidden Power
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM52	Focus Blast
+	TM56	Fling
+	TM57	Charge Beam
+	TM68	Giga Impact
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM04	Strength
+		
+Sandshrew	TM01	Hone Claws
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM37	Sandstorm
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM56	Fling
+	TM65	Shadow Claw
+	TM74	Gyro Ball
+	TM75	Swords Dance
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM81	X-Scissor
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+	TM01	Hone Claws
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM37	Sandstorm
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM56	Fling
+	TM65	Shadow Claw
+	TM74	Gyro Ball
+	TM75	Swords Dance
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM81	X-Scissor
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Sandslash	TM01	Hone Claws
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM37	Sandstorm
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM65	Shadow Claw
+	TM68	Giga Impact
+	TM71	Stone Edge
+	TM74	Gyro Ball
+	TM75	Swords Dance
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM81	X-Scissor
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Nidoran F	TM01	Hone Claws
+	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM65	Shadow Claw
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Nidorina	TM01	Hone Claws
+	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM65	Shadow Claw
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Nidoqueen	TM01	Hone Claws
+	TM05	Roar
+	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM34	Sludge Wave
+	TM35	Flamethrower
+	TM36	Sludge Bomb
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM52	Focus Blast
+	TM56	Fling
+	TM59	Incinerate
+	TM60	Quash
+	TM65	Shadow Claw
+	TM68	Giga Impact
+	TM71	Stone Edge
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM82	Dragon Tail
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM03	Surf
+	HM04	Strength
+		
+Nidoran M	TM01	Hone Claws
+	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM65	Shadow Claw
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Nidorino	TM01	Hone Claws
+	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM65	Shadow Claw
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Nidoking	TM01	Hone Claws
+	TM05	Roar
+	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM34	Sludge Wave
+	TM35	Flamethrower
+	TM36	Sludge Bomb
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM52	Focus Blast
+	TM56	Fling
+	TM59	Incinerate
+	TM60	Quash
+	TM65	Shadow Claw
+	TM68	Giga Impact
+	TM71	Stone Edge
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM82	Dragon Tail
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM03	Surf
+	HM04	Strength
+		
+Clefairy	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM33	Reflect
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM56	Fling
+	TM57	Charge Beam
+	TM59	Incinerate
+	TM67	Retaliate
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Clefable	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM33	Reflect
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM52	Focus Blast
+	TM56	Fling
+	TM57	Charge Beam
+	TM59	Incinerate
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Vulpix	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM50	Overheat
+	TM53	Energy Ball
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM66	Payback
+	TM77	Psych Up
+	TM87	Swagger
+	TM90	Substitute
+		
+Ninetales	TM03	Psyshock
+	TM04	Calm Mind
+	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM50	Overheat
+	TM53	Energy Ball
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM66	Payback
+	TM68	Giga Impact
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM87	Swagger
+	TM90	Substitute
+		
+Jigglypuff	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM33	Reflect
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM56	Fling
+	TM57	Charge Beam
+	TM59	Incinerate
+	TM67	Retaliate
+	TM70	Flash
+	TM73	Thunder Wave
+	TM74	Gyro Ball
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	HM04	Strength
+		
+Wigglytuff	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM33	Reflect
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM52	Focus Blast
+	TM56	Fling
+	TM57	Charge Beam
+	TM59	Incinerate
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM70	Flash
+	TM73	Thunder Wave
+	TM74	Gyro Ball
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	HM04	Strength
+		
+Zubat	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM40	Aerial Ace
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM62	Acrobatics
+	TM66	Payback
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	HM02	Fly
+		
+Golbat	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM40	Aerial Ace
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM62	Acrobatics
+	TM66	Payback
+	TM68	Giga Impact
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	HM02	Fly
+		
+Oddish	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM53	Energy Ball
+	TM70	Flash
+	TM75	Swords Dance
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	HM01	Cut
+		
+Gloom	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM53	Energy Ball
+	TM56	Fling
+	TM70	Flash
+	TM75	Swords Dance
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	HM01	Cut
+		
+Vileplume	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM53	Energy Ball
+	TM56	Fling
+	TM68	Giga Impact
+	TM70	Flash
+	TM75	Swords Dance
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	HM01	Cut
+		
+Paras	TM01	Hone Claws
+	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM53	Energy Ball
+	TM54	False Swipe
+	TM70	Flash
+	TM75	Swords Dance
+	TM76	Struggle Bug
+	TM81	X-Scissor
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+		
+Parasect	TM01	Hone Claws
+	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM53	Energy Ball
+	TM54	False Swipe
+	TM68	Giga Impact
+	TM70	Flash
+	TM75	Swords Dance
+	TM76	Struggle Bug
+	TM81	X-Scissor
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+		
+Venonat	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM29	Psychic
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM70	Flash
+	TM76	Struggle Bug
+	TM87	Swagger
+	TM90	Substitute
+		
+Venomoth	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM29	Psychic
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM53	Energy Ball
+	TM62	Acrobatics
+	TM68	Giga Impact
+	TM70	Flash
+	TM76	Struggle Bug
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+		
+Diglett	TM01	Hone Claws
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM37	Sandstorm
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM65	Shadow Claw
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+		
+Dugtrio	TM01	Hone Claws
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM34	Sludge Wave
+	TM36	Sludge Bomb
+	TM37	Sandstorm
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM65	Shadow Claw
+	TM68	Giga Impact
+	TM71	Stone Edge
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+		
+Meowth	TM01	Hone Claws
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM65	Shadow Claw
+	TM66	Payback
+	TM67	Retaliate
+	TM70	Flash
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+	HM01	Cut
+		
+Persian	TM01	Hone Claws
+	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM63	Embargo
+	TM65	Shadow Claw
+	TM66	Payback
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM70	Flash
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+	HM01	Cut
+		
+Psyduck	TM01	Hone Claws
+	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM31	Brick Break
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM56	Fling
+	TM65	Shadow Claw
+	TM70	Flash
+	TM77	Psych Up
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Golduck	TM01	Hone Claws
+	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM31	Brick Break
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM47	Low Sweep
+	TM48	Round
+	TM52	Focus Blast
+	TM55	Scald
+	TM56	Fling
+	TM65	Shadow Claw
+	TM68	Giga Impact
+	TM70	Flash
+	TM77	Psych Up
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Mankey	TM01	Hone Claws
+	TM06	Toxic
+	TM08	Bulk Up
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM50	Overheat
+	TM52	Focus Blast
+	TM56	Fling
+	TM62	Acrobatics
+	TM66	Payback
+	TM67	Retaliate
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM83	Work Up
+	TM84	Poison Jab
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Primeape	TM01	Hone Claws
+	TM06	Toxic
+	TM08	Bulk Up
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM50	Overheat
+	TM52	Focus Blast
+	TM56	Fling
+	TM62	Acrobatics
+	TM66	Payback
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM71	Stone Edge
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM83	Work Up
+	TM84	Poison Jab
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Growlithe	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM40	Aerial Ace
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM50	Overheat
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM67	Retaliate
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	TM95	Snarl
+	HM04	Strength
+		
+Arcanine	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM40	Aerial Ace
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM50	Overheat
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM78	Bulldoze
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	TM95	Snarl
+	HM04	Strength
+		
+Poliwag	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM55	Scald
+	TM87	Swagger
+	TM90	Substitute
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Poliwhirl	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM31	Brick Break
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM55	Scald
+	TM56	Fling
+	TM78	Bulldoze
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Poliwrath	TM06	Toxic
+	TM07	Hail
+	TM08	Bulk Up
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM52	Focus Blast
+	TM55	Scald
+	TM56	Fling
+	TM66	Payback
+	TM68	Giga Impact
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM83	Work Up
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Abra	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM33	Reflect
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM51	Ally Switch
+	TM53	Energy Ball
+	TM56	Fling
+	TM57	Charge Beam
+	TM63	Embargo
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+		
+Kadabra	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM33	Reflect
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM51	Ally Switch
+	TM53	Energy Ball
+	TM56	Fling
+	TM57	Charge Beam
+	TM63	Embargo
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+		
+Alakazam	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM33	Reflect
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM51	Ally Switch
+	TM52	Focus Blast
+	TM53	Energy Ball
+	TM56	Fling
+	TM57	Charge Beam
+	TM63	Embargo
+	TM68	Giga Impact
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+		
+Machop	TM06	Toxic
+	TM08	Bulk Up
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM59	Incinerate
+	TM66	Payback
+	TM67	Retaliate
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM83	Work Up
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Machoke	TM06	Toxic
+	TM08	Bulk Up
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM59	Incinerate
+	TM66	Payback
+	TM67	Retaliate
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM83	Work Up
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Machamp	TM06	Toxic
+	TM08	Bulk Up
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM59	Incinerate
+	TM66	Payback
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM71	Stone Edge
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM83	Work Up
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Bellsprout	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM33	Reflect
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM53	Energy Ball
+	TM70	Flash
+	TM75	Swords Dance
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	HM01	Cut
+		
+Weepinbell	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM33	Reflect
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM53	Energy Ball
+	TM70	Flash
+	TM75	Swords Dance
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	HM01	Cut
+		
+Victreebel	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM33	Reflect
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM53	Energy Ball
+	TM68	Giga Impact
+	TM70	Flash
+	TM75	Swords Dance
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	HM01	Cut
+		
+Tentacool	TM06	Toxic
+	TM07	Hail
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM34	Sludge Wave
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM55	Scald
+	TM66	Payback
+	TM75	Swords Dance
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	HM01	Cut
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Tentacruel	TM06	Toxic
+	TM07	Hail
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM34	Sludge Wave
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM55	Scald
+	TM66	Payback
+	TM68	Giga Impact
+	TM75	Swords Dance
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	HM01	Cut
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Geodude	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM23	Smack Down
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM56	Fling
+	TM59	Incinerate
+	TM64	Explosion
+	TM69	Rock Polish
+	TM71	Stone Edge
+	TM74	Gyro Ball
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Graveler	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM23	Smack Down
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM56	Fling
+	TM59	Incinerate
+	TM64	Explosion
+	TM69	Rock Polish
+	TM71	Stone Edge
+	TM74	Gyro Ball
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Golem	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM23	Smack Down
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM59	Incinerate
+	TM64	Explosion
+	TM68	Giga Impact
+	TM69	Rock Polish
+	TM71	Stone Edge
+	TM74	Gyro Ball
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Ponyta	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM50	Overheat
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	HM04	Strength
+		
+Rapidash	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM50	Overheat
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM68	Giga Impact
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	HM04	Strength
+		
+Slowpoke	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM55	Scald
+	TM59	Incinerate
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM78	Bulldoze
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+	HM03	Surf
+	HM04	Strength
+	HM06	Dive
+		
+Slowbro	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM52	Focus Blast
+	TM55	Scald
+	TM56	Fling
+	TM59	Incinerate
+	TM68	Giga Impact
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM78	Bulldoze
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM06	Dive
+		
+Magnemite	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM32	Double Team
+	TM33	Reflect
+	TM42	Facade
+	TM44	Rest
+	TM48	Round
+	TM57	Charge Beam
+	TM64	Explosion
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM74	Gyro Ball
+	TM77	Psych Up
+	TM87	Swagger
+	TM90	Substitute
+	TM91	Flash Cannon
+	TM93	Wild Charge
+		
+Magneton	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM32	Double Team
+	TM33	Reflect
+	TM42	Facade
+	TM44	Rest
+	TM48	Round
+	TM57	Charge Beam
+	TM64	Explosion
+	TM68	Giga Impact
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM74	Gyro Ball
+	TM77	Psych Up
+	TM87	Swagger
+	TM90	Substitute
+	TM91	Flash Cannon
+	TM93	Wild Charge
+		
+Farfetch'd	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM54	False Swipe
+	TM62	Acrobatics
+	TM67	Retaliate
+	TM75	Swords Dance
+	TM77	Psych Up
+	TM83	Work Up
+	TM84	Poison Jab
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	HM01	Cut
+	HM02	Fly
+		
+Doduo	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM83	Work Up
+	TM87	Swagger
+	TM88	Pluck
+	TM90	Substitute
+	HM02	Fly
+		
+Dodrio	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM66	Payback
+	TM68	Giga Impact
+	TM83	Work Up
+	TM87	Swagger
+	TM88	Pluck
+	TM90	Substitute
+	HM02	Fly
+		
+Seel	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM56	Fling
+	TM87	Swagger
+	TM90	Substitute
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Dewgong	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM56	Fling
+	TM68	Giga Impact
+	TM79	Frost Breath
+	TM87	Swagger
+	TM90	Substitute
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Grimer	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM34	Sludge Wave
+	TM35	Flamethrower
+	TM36	Sludge Bomb
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM56	Fling
+	TM59	Incinerate
+	TM64	Explosion
+	TM66	Payback
+	TM80	Rock Slide
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	HM04	Strength
+		
+Muk	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM34	Sludge Wave
+	TM35	Flamethrower
+	TM36	Sludge Bomb
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM59	Incinerate
+	TM64	Explosion
+	TM66	Payback
+	TM68	Giga Impact
+	TM80	Rock Slide
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Shellder	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM64	Explosion
+	TM66	Payback
+	TM87	Swagger
+	TM90	Substitute
+	HM03	Surf
+	HM06	Dive
+		
+Cloyster	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM64	Explosion
+	TM66	Payback
+	TM68	Giga Impact
+	TM79	Frost Breath
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	HM03	Surf
+	HM06	Dive
+		
+Gastly	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM53	Energy Ball
+	TM61	Will-O-Wisp
+	TM63	Embargo
+	TM64	Explosion
+	TM66	Payback
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+		
+Haunter	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM53	Energy Ball
+	TM56	Fling
+	TM61	Will-O-Wisp
+	TM63	Embargo
+	TM64	Explosion
+	TM65	Shadow Claw
+	TM66	Payback
+	TM77	Psych Up
+	TM84	Poison Jab
+	TM85	Dream Eater
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+		
+Gengar	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM52	Focus Blast
+	TM53	Energy Ball
+	TM56	Fling
+	TM61	Will-O-Wisp
+	TM63	Embargo
+	TM64	Explosion
+	TM65	Shadow Claw
+	TM66	Payback
+	TM68	Giga Impact
+	TM77	Psych Up
+	TM84	Poison Jab
+	TM85	Dream Eater
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+	TM94	Rock Smash
+	HM04	Strength
+		
+Onix	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM17	Protect
+	TM21	Frustration
+	TM23	Smack Down
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM37	Sandstorm
+	TM39	Rock Tomb
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM64	Explosion
+	TM66	Payback
+	TM69	Rock Polish
+	TM71	Stone Edge
+	TM74	Gyro Ball
+	TM77	Psych Up
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM82	Dragon Tail
+	TM87	Swagger
+	TM90	Substitute
+	TM91	Flash Cannon
+	TM94	Rock Smash
+	HM04	Strength
+		
+Drowzee	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM33	Reflect
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM56	Fling
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+		
+Hypno	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM33	Reflect
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM68	Giga Impact
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+		
+Krabby	TM01	Hone Claws
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM54	False Swipe
+	TM55	Scald
+	TM56	Fling
+	TM75	Swords Dance
+	TM80	Rock Slide
+	TM81	X-Scissor
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM03	Surf
+	HM04	Strength
+	HM06	Dive
+		
+Kingler	TM01	Hone Claws
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM54	False Swipe
+	TM55	Scald
+	TM56	Fling
+	TM60	Quash
+	TM68	Giga Impact
+	TM75	Swords Dance
+	TM80	Rock Slide
+	TM81	X-Scissor
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM03	Surf
+	HM04	Strength
+	HM06	Dive
+		
+Voltorb	TM06	Toxic
+	TM10	Hidden Power
+	TM12	Taunt
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM32	Double Team
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM46	Thief
+	TM48	Round
+	TM57	Charge Beam
+	TM64	Explosion
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM74	Gyro Ball
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+		
+Electrode	TM06	Toxic
+	TM10	Hidden Power
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM32	Double Team
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM46	Thief
+	TM48	Round
+	TM57	Charge Beam
+	TM64	Explosion
+	TM68	Giga Impact
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM74	Gyro Ball
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+		
+Exeggcute	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM19	Telekinesis
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM29	Psychic
+	TM32	Double Team
+	TM33	Reflect
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM53	Energy Ball
+	TM64	Explosion
+	TM70	Flash
+	TM75	Swords Dance
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+	HM04	Strength
+		
+Exeggutor	TM03	Psyshock
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM19	Telekinesis
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM29	Psychic
+	TM32	Double Team
+	TM33	Reflect
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM53	Energy Ball
+	TM64	Explosion
+	TM68	Giga Impact
+	TM70	Flash
+	TM75	Swords Dance
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+	HM04	Strength
+		
+Cubone	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM21	Frustration
+	TM23	Smack Down
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM54	False Swipe
+	TM56	Fling
+	TM59	Incinerate
+	TM67	Retaliate
+	TM75	Swords Dance
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Marowak	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM23	Smack Down
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM52	Focus Blast
+	TM54	False Swipe
+	TM56	Fling
+	TM59	Incinerate
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM71	Stone Edge
+	TM75	Swords Dance
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Hitmonlee	TM06	Toxic
+	TM08	Bulk Up
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM67	Retaliate
+	TM71	Stone Edge
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM83	Work Up
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Hitmonchan	TM06	Toxic
+	TM08	Bulk Up
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM67	Retaliate
+	TM71	Stone Edge
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM83	Work Up
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Lickitung	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM56	Fling
+	TM59	Incinerate
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM75	Swords Dance
+	TM77	Psych Up
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM82	Dragon Tail
+	TM83	Work Up
+	TM85	Dream Eater
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM03	Surf
+	HM04	Strength
+		
+Koffing	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM35	Flamethrower
+	TM36	Sludge Bomb
+	TM38	Fire Blast
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM64	Explosion
+	TM66	Payback
+	TM70	Flash
+	TM74	Gyro Ball
+	TM87	Swagger
+	TM90	Substitute
+		
+Weezing	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM35	Flamethrower
+	TM36	Sludge Bomb
+	TM38	Fire Blast
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM64	Explosion
+	TM66	Payback
+	TM68	Giga Impact
+	TM70	Flash
+	TM74	Gyro Ball
+	TM87	Swagger
+	TM90	Substitute
+		
+Rhyhorn	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM59	Incinerate
+	TM66	Payback
+	TM69	Rock Polish
+	TM71	Stone Edge
+	TM75	Swords Dance
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Rhydon	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM59	Incinerate
+	TM65	Shadow Claw
+	TM66	Payback
+	TM68	Giga Impact
+	TM69	Rock Polish
+	TM71	Stone Edge
+	TM75	Swords Dance
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM82	Dragon Tail
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM03	Surf
+	HM04	Strength
+		
+Chansey	TM04	Calm Mind
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM56	Fling
+	TM57	Charge Beam
+	TM59	Incinerate
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM83	Work Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM04	Strength
+		
+Tangela	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM33	Reflect
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM53	Energy Ball
+	TM68	Giga Impact
+	TM70	Flash
+	TM75	Swords Dance
+	TM77	Psych Up
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+		
+Kangaskhan	TM05	Roar
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM59	Incinerate
+	TM65	Shadow Claw
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM83	Work Up
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM03	Surf
+	HM04	Strength
+		
+Horsea	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM87	Swagger
+	TM90	Substitute
+	TM91	Flash Cannon
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Seadra	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM68	Giga Impact
+	TM87	Swagger
+	TM90	Substitute
+	TM91	Flash Cannon
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Goldeen	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Seaking	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM68	Giga Impact
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Staryu	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM29	Psychic
+	TM32	Double Team
+	TM33	Reflect
+	TM42	Facade
+	TM44	Rest
+	TM48	Round
+	TM55	Scald
+	TM70	Flash
+	TM73	Thunder Wave
+	TM74	Gyro Ball
+	TM77	Psych Up
+	TM87	Swagger
+	TM90	Substitute
+	TM91	Flash Cannon
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Starmie	TM03	Psyshock
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM29	Psychic
+	TM32	Double Team
+	TM33	Reflect
+	TM42	Facade
+	TM44	Rest
+	TM48	Round
+	TM55	Scald
+	TM68	Giga Impact
+	TM70	Flash
+	TM73	Thunder Wave
+	TM74	Gyro Ball
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM91	Flash Cannon
+	TM92	Trick Room
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Mr. Mime	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM33	Reflect
+	TM40	Aerial Ace
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM52	Focus Blast
+	TM53	Energy Ball
+	TM56	Fling
+	TM57	Charge Beam
+	TM66	Payback
+	TM68	Giga Impact
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+		
+Scyther	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM27	Return
+	TM31	Brick Break
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM54	False Swipe
+	TM68	Giga Impact
+	TM75	Swords Dance
+	TM76	Struggle Bug
+	TM81	X-Scissor
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+		
+Jynx	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM12	Taunt
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM21	Frustration
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM33	Reflect
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM52	Focus Blast
+	TM53	Energy Ball
+	TM56	Fling
+	TM66	Payback
+	TM68	Giga Impact
+	TM70	Flash
+	TM77	Psych Up
+	TM79	Frost Breath
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+		
+Electabuzz	TM06	Toxic
+	TM10	Hidden Power
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM29	Psychic
+	TM31	Brick Break
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM57	Charge Beam
+	TM68	Giga Impact
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM04	Strength
+		
+Magmar	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM27	Return
+	TM29	Psychic
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM50	Overheat
+	TM52	Focus Blast
+	TM56	Fling
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM68	Giga Impact
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Pinsir	TM06	Toxic
+	TM08	Bulk Up
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM52	Focus Blast
+	TM54	False Swipe
+	TM56	Fling
+	TM68	Giga Impact
+	TM71	Stone Edge
+	TM75	Swords Dance
+	TM76	Struggle Bug
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM81	X-Scissor
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Tauros	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM59	Incinerate
+	TM66	Payback
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM71	Stone Edge
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM83	Work Up
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+		
+Magikarp		
+		
+Gyarados	TM05	Roar
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM12	Taunt
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM59	Incinerate
+	TM66	Payback
+	TM68	Giga Impact
+	TM71	Stone Edge
+	TM73	Thunder Wave
+	TM78	Bulldoze
+	TM82	Dragon Tail
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Lapras	TM05	Roar
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM29	Psychic
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM68	Giga Impact
+	TM78	Bulldoze
+	TM79	Frost Breath
+	TM85	Dream Eater
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Ditto		
+		
+Eevee	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM67	Retaliate
+	TM83	Work Up
+	TM87	Swagger
+	TM90	Substitute
+		
+Vaporeon	TM05	Roar
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM55	Scald
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM83	Work Up
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Jolteon	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM57	Charge Beam
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM83	Work Up
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM04	Strength
+		
+Flareon	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM50	Overheat
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM83	Work Up
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Porygon	TM03	Psyshock
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM46	Thief
+	TM48	Round
+	TM57	Charge Beam
+	TM68	Giga Impact
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+		
+Omanyte	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM27	Return
+	TM32	Double Team
+	TM37	Sandstorm
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM55	Scald
+	TM69	Rock Polish
+	TM74	Gyro Ball
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Omastar	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM27	Return
+	TM32	Double Team
+	TM37	Sandstorm
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM55	Scald
+	TM68	Giga Impact
+	TM69	Rock Polish
+	TM71	Stone Edge
+	TM74	Gyro Ball
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Kabuto	TM01	Hone Claws
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM37	Sandstorm
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM55	Scald
+	TM69	Rock Polish
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM05	Waterfall
+		
+Kabutops	TM01	Hone Claws
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM37	Sandstorm
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM55	Scald
+	TM68	Giga Impact
+	TM69	Rock Polish
+	TM71	Stone Edge
+	TM75	Swords Dance
+	TM80	Rock Slide
+	TM81	X-Scissor
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Aerodactyl	TM01	Hone Claws
+	TM02	Dragon Claw
+	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM23	Smack Down
+	TM26	Earthquake
+	TM27	Return
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM58	Sky Drop
+	TM59	Incinerate
+	TM66	Payback
+	TM68	Giga Impact
+	TM69	Rock Polish
+	TM71	Stone Edge
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM02	Fly
+	HM04	Strength
+		
+Snorlax	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM22	SolarBeam
+	TM23	Smack Down
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM59	Incinerate
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM83	Work Up
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+		
+Articuno	TM05	Roar
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM32	Double Team
+	TM33	Reflect
+	TM37	Sandstorm
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM48	Round
+	TM58	Sky Drop
+	TM68	Giga Impact
+	TM79	Frost Breath
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	TM94	Rock Smash
+	HM02	Fly
+		
+Zapdos	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM32	Double Team
+	TM37	Sandstorm
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM48	Round
+	TM57	Charge Beam
+	TM58	Sky Drop
+	TM68	Giga Impact
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM02	Fly
+		
+Moltres	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM40	Aerial Ace
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM48	Round
+	TM50	Overheat
+	TM58	Sky Drop
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM68	Giga Impact
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	TM94	Rock Smash
+	HM02	Fly
+		
+Dratini	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM59	Incinerate
+	TM73	Thunder Wave
+	TM82	Dragon Tail
+	TM87	Swagger
+	TM90	Substitute
+	HM03	Surf
+	HM05	Waterfall
+		
+Dragonair	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM59	Incinerate
+	TM73	Thunder Wave
+	TM82	Dragon Tail
+	TM87	Swagger
+	TM90	Substitute
+	HM03	Surf
+	HM05	Waterfall
+		
+Dragonite	TM01	Hone Claws
+	TM02	Dragon Claw
+	TM05	Roar
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM58	Sky Drop
+	TM59	Incinerate
+	TM68	Giga Impact
+	TM71	Stone Edge
+	TM73	Thunder Wave
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM82	Dragon Tail
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM02	Fly
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Mewtwo	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM07	Hail
+	TM08	Bulk Up
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM33	Reflect
+	TM35	Flamethrower
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM47	Low Sweep
+	TM48	Round
+	TM52	Focus Blast
+	TM53	Energy Ball
+	TM56	Fling
+	TM57	Charge Beam
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM63	Embargo
+	TM68	Giga Impact
+	TM70	Flash
+	TM71	Stone Edge
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM84	Poison Jab
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+	TM94	Rock Smash
+	HM04	Strength
+		
+Mew	TM01	Hone Claws
+	TM02	Dragon Claw
+	TM03	Psyshock
+	TM04	Calm Mind
+	TM05	Roar
+	TM06	Toxic
+	TM07	Hail
+	TM08	Bulk Up
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM23	Smack Down
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM33	Reflect
+	TM34	Sludge Wave
+	TM35	Flamethrower
+	TM36	Sludge Bomb
+	TM37	Sandstorm
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM41	Torment
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM49	Echoed Voice
+	TM50	Overheat
+	TM51	Ally Switch
+	TM52	Focus Blast
+	TM53	Energy Ball
+	TM54	False Swipe
+	TM55	Scald
+	TM56	Fling
+	TM57	Charge Beam
+	TM58	Sky Drop
+	TM59	Incinerate
+	TM60	Quash
+	TM61	Will-O-Wisp
+	TM62	Acrobatics
+	TM63	Embargo
+	TM64	Explosion
+	TM65	Shadow Claw
+	TM66	Payback
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM69	Rock Polish
+	TM70	Flash
+	TM71	Stone Edge
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM74	Gyro Ball
+	TM75	Swords Dance
+	TM76	Struggle Bug
+	TM77	Psych Up
+	TM78	Bulldoze
+	TM79	Frost Breath
+	TM80	Rock Slide
+	TM81	X-Scissor
+	TM82	Dragon Tail
+	TM83	Work Up
+	TM84	Poison Jab
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	TM91	Flash Cannon
+	TM92	Trick Room
+	TM93	Wild Charge
+	TM94	Rock Smash
+	TM95	Snarl
+	HM01	Cut
+	HM02	Fly
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Chikorita	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM33	Reflect
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM53	Energy Ball
+	TM70	Flash
+	TM75	Swords Dance
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	HM01	Cut
+		
+Bayleef	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM33	Reflect
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM53	Energy Ball
+	TM70	Flash
+	TM75	Swords Dance
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Meganium	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM26	Earthquake
+	TM27	Return
+	TM32	Double Team
+	TM33	Reflect
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM53	Energy Ball
+	TM68	Giga Impact
+	TM70	Flash
+	TM75	Swords Dance
+	TM78	Bulldoze
+	TM82	Dragon Tail
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Cyndaquil	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM40	Aerial Ace
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM50	Overheat
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	HM01	Cut
+		
+Quilava	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM40	Aerial Ace
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM50	Overheat
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Typhlosion	TM05	Roar
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM43	Flame Charge
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM50	Overheat
+	TM52	Focus Blast
+	TM56	Fling
+	TM59	Incinerate
+	TM61	Will-O-Wisp
+	TM65	Shadow Claw
+	TM68	Giga Impact
+	TM74	Gyro Ball
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Totodile	TM01	Hone Claws
+	TM02	Dragon Claw
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM56	Fling
+	TM65	Shadow Claw
+	TM75	Swords Dance
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	HM01	Cut
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Croconaw	TM01	Hone Claws
+	TM02	Dragon Claw
+	TM05	Roar
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM56	Fling
+	TM65	Shadow Claw
+	TM75	Swords Dance
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Feraligatr	TM01	Hone Claws
+	TM02	Dragon Claw
+	TM05	Roar
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM39	Rock Tomb
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM52	Focus Blast
+	TM55	Scald
+	TM56	Fling
+	TM65	Shadow Claw
+	TM68	Giga Impact
+	TM75	Swords Dance
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM82	Dragon Tail
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Sentret	TM01	Hone Claws
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM56	Fling
+	TM57	Charge Beam
+	TM65	Shadow Claw
+	TM67	Retaliate
+	TM83	Work Up
+	TM86	Grass Knot
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+	HM01	Cut
+	HM03	Surf
+		
+Furret	TM01	Hone Claws
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM52	Focus Blast
+	TM56	Fling
+	TM57	Charge Beam
+	TM65	Shadow Claw
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM83	Work Up
+	TM86	Grass Knot
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM03	Surf
+	HM04	Strength
+		
+Hoothoot	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM33	Reflect
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM87	Swagger
+	TM88	Pluck
+	TM90	Substitute
+	HM02	Fly
+		
+Noctowl	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM33	Reflect
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM68	Giga Impact
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM87	Swagger
+	TM88	Pluck
+	TM90	Substitute
+	HM02	Fly
+		
+Ledyba	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM33	Reflect
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM56	Fling
+	TM62	Acrobatics
+	TM70	Flash
+	TM75	Swords Dance
+	TM76	Struggle Bug
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+		
+Ledian	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM33	Reflect
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM52	Focus Blast
+	TM56	Fling
+	TM62	Acrobatics
+	TM68	Giga Impact
+	TM70	Flash
+	TM75	Swords Dance
+	TM76	Struggle Bug
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Spinarak	TM01	Hone Claws
+	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM70	Flash
+	TM76	Struggle Bug
+	TM81B2W2	X-Scissor
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+		
+Ariados	TM01	Hone Claws
+	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM68	Giga Impact
+	TM70	Flash
+	TM76	Struggle Bug
+	TM81B2W2	X-Scissor
+	TM84	Poison Jab
+	TM87	Swagger
+	TM90	Substitute
+		
+Crobat	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM40	Aerial Ace
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM62	Acrobatics
+	TM66	Payback
+	TM68	Giga Impact
+	TM81	X-Scissor
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	HM02	Fly
+		
+Chinchou	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM57	Charge Beam
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Lanturn	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM57	Charge Beam
+	TM68	Giga Impact
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Pichu	TM06	Toxic
+	TM10	Hidden Power
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM56	Fling
+	TM57	Charge Beam
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+		
+Cleffa	TM03	Psyshock
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM33	Reflect
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM56	Fling
+	TM59	Incinerate
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+		
+Igglybuff	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM33	Reflect
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM56	Fling
+	TM59	Incinerate
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+		
+Togepi	TM03	Psyshock
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM33	Reflect
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM56	Fling
+	TM59	Incinerate
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+		
+Togetic	TM03	Psyshock
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM33	Reflect
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM56	Fling
+	TM59	Incinerate
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM02	Fly
+		
+Natu	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM33	Reflect
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM51	Ally Switch
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	TM92	Trick Room
+		
+Xatu	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM33	Reflect
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM51	Ally Switch
+	TM68	Giga Impact
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM88	Pluck
+	TM89	U-turn
+	TM90	Substitute
+	TM92	Trick Room
+	HM02	Fly
+		
+Mareep	TM06	Toxic
+	TM10	Hidden Power
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM57	Charge Beam
+	TM70	Flash
+	TM73	Thunder Wave
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+		
+Flaafy	TM06	Toxic
+	TM10	Hidden Power
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM31	Brick Break
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM56	Fling
+	TM57	Charge Beam
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM04	Strength
+		
+Ampharos	TM06	Toxic
+	TM10	Hidden Power
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM31	Brick Break
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM52	Focus Blast
+	TM56	Fling
+	TM57	Charge Beam
+	TM68	Giga Impact
+	TM70	Flash
+	TM72	Volt Switch
+	TM73	Thunder Wave
+	TM78	Bulldoze
+	TM87	Swagger
+	TM90	Substitute
+	TM93	Wild Charge
+	TM94	Rock Smash
+	HM04	Strength
+		
+Bellossom	TM06	Toxic
+	TM09	Venoshock
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM53	Energy Ball
+	TM56	Fling
+	TM68	Giga Impact
+	TM70	Flash
+	TM75	Swords Dance
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	HM01	Cut
+		
+Marill	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM56	Fling
+	TM83	Work Up
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Azumarill	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM52	Focus Blast
+	TM55	Scald
+	TM56	Fling
+	TM68	Giga Impact
+	TM78	Bulldoze
+	TM83	Work Up
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Sudowoodo	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM17	Protect
+	TM21	Frustration
+	TM23	Smack Down
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM37	Sandstorm
+	TM39	Rock Tomb
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM56	Fling
+	TM64	Explosion
+	TM69	Rock Polish
+	TM71	Stone Edge
+	TM77	Psych Up
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM04	Strength
+		
+Politoed	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM31	Brick Break
+	TM32	Double Team
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM52	Focus Blast
+	TM55	Scald
+	TM56	Fling
+	TM66	Payback
+	TM68	Giga Impact
+	TM78	Bulldoze
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Hoppip	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM33	Reflect
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM53	Energy Ball
+	TM62	Acrobatics
+	TM70	Flash
+	TM75	Swords Dance
+	TM77	Psych Up
+	TM86	Grass Knot
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+		
+Skiploom	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM33	Reflect
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM53	Energy Ball
+	TM62	Acrobatics
+	TM70	Flash
+	TM75	Swords Dance
+	TM77	Psych Up
+	TM86	Grass Knot
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+		
+Jumpluff	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM33	Reflect
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM53	Energy Ball
+	TM62	Acrobatics
+	TM68	Giga Impact
+	TM70	Flash
+	TM75	Swords Dance
+	TM77	Psych Up
+	TM86	Grass Knot
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+		
+Aipom	TM01	Hone Claws
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM22	SolarBeam
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM28	Dig
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM47	Low Sweep
+	TM48	Round
+	TM56	Fling
+	TM62	Acrobatics
+	TM65	Shadow Claw
+	TM66	Payback
+	TM67	Retaliate
+	TM73	Thunder Wave
+	TM83	Work Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+	TM94	Rock Smash
+	HM01	Cut
+	HM04	Strength
+		
+Sunkern	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM16	Light Screen
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM53	Energy Ball
+	TM70	Flash
+	TM75	Swords Dance
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	HM01	Cut
+		
+Sunflora	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM20	Safeguard
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM32	Double Team
+	TM36	Sludge Bomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM53	Energy Ball
+	TM68	Giga Impact
+	TM70	Flash
+	TM75	Swords Dance
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	HM01	Cut
+		
+Yanma	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM17	Protect
+	TM21	Frustration
+	TM22	SolarBeam
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM70	Flash
+	TM85	Dream Eater
+	TM87	Swagger
+	TM89	U-turn
+	TM90	Substitute
+		
+Wooper	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM32	Double Team
+	TM34	Sludge Wave
+	TM36	Sludge Bomb
+	TM37	Sandstorm
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM55	Scald
+	TM70	Flash
+	TM78	Bulldoze
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM05	Waterfall
+	HM06	Dive
+		
+Quagsire	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM20	Safeguard
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM31	Brick Break
+	TM32	Double Team
+	TM34	Sludge Wave
+	TM36	Sludge Bomb
+	TM37	Sandstorm
+	TM39	Rock Tomb
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM52	Focus Blast
+	TM55	Scald
+	TM56	Fling
+	TM68	Giga Impact
+	TM70	Flash
+	TM71	Stone Edge
+	TM78	Bulldoze
+	TM80	Rock Slide
+	TM87	Swagger
+	TM90	Substitute
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM05	Waterfall
+	HM06	Dive
+		
+Espeon	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM33	Reflect
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM70	Flash
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+	HM01	Cut
+		
+Umbreon	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM15	Hyper Beam
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM66	Payback
+	TM67	Retaliate
+	TM68	Giga Impact
+	TM70	Flash
+	TM77	Psych Up
+	TM83	Work Up
+	TM85	Dream Eater
+	TM87	Swagger
+	TM90	Substitute
+	TM95	Snarl
+	HM01	Cut
+		
+Murkrow	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM17	Protect
+	TM18	Rain Dance
+	TM21	Frustration
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM60	Quash
+	TM63	Embargo
+	TM66	Payback
+	TM67	Retaliate
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM87	Swagger
+	TM88	Pluck
+	TM90	Substitute
+	TM95	Snarl
+	HM02	Fly
+		
+Slowking	TM03	Psyshock
+	TM04	Calm Mind
+	TM06	Toxic
+	TM07	Hail
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM13	Ice Beam
+	TM14	Blizzard
+	TM15	Hyper Beam
+	TM16	Light Screen
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM20	Safeguard
+	TM21	Frustration
+	TM26	Earthquake
+	TM27	Return
+	TM28	Dig
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM31	Brick Break
+	TM32	Double Team
+	TM35	Flamethrower
+	TM38	Fire Blast
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM48	Round
+	TM49	Echoed Voice
+	TM52	Focus Blast
+	TM55	Scald
+	TM56	Fling
+	TM59	Incinerate
+	TM60	Quash
+	TM68	Giga Impact
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM78	Bulldoze
+	TM82	Dragon Tail
+	TM85	Dream Eater
+	TM86	Grass Knot
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room
+	TM94	Rock Smash
+	HM03	Surf
+	HM04	Strength
+	HM06	Dive
+		
+Misdreavus	TM04	Calm Mind
+	TM06	Toxic
+	TM10	Hidden Power
+	TM11	Sunny Day
+	TM12	Taunt
+	TM17	Protect
+	TM18	Rain Dance
+	TM19	Telekinesis
+	TM21	Frustration
+	TM24	Thunderbolt
+	TM25	Thunder
+	TM27	Return
+	TM29	Psychic
+	TM30	Shadow Ball
+	TM32	Double Team
+	TM40	Aerial Ace
+	TM41	Torment
+	TM42	Facade
+	TM44	Rest
+	TM45	Attract
+	TM46	Thief
+	TM48	Round
+	TM49	Echoed Voice
+	TM57	Charge Beam
+	TM61	Will-O-Wisp
+	TM63	Embargo
+	TM66	Payback
+	TM70	Flash
+	TM73	Thunder Wave
+	TM77	Psych Up
+	TM85	Dream Eater
+	TM87	Swagger
+	TM90	Substitute
+	TM92	Trick Room

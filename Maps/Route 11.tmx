@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="43" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Outside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Graphics/Tilesets/Outside.png" width="256" height="16064"/>
+ </tileset>
+ <tileset firstgid="4017" name="Outside2" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Graphics/Tilesets/Outside2.png" width="256" height="31942"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="32" height="43">
+  <data encoding="base64" compression="zlib">
+   eJztV0EOwiAQ3FL03Cf01dW7JproTT+gntST8UOyKROQohTb4gWSydZKmRnYsvQmiG4ZGRkZGR3sCqJ9YaK6RXMFqTDTwL25dY3+Q/kPaoxjYWJpcbi8rKXUEf2H8p81LqLlKT1c0HGy+gNjrcPT0SI0L/Qw9yNRTkAL65CJuX06/sGdkZGRFtuKaGFhU6Xlvwuz5zOaxDqWVcsrnRrb9NTgazHe7bpfWzWW7117jDGEn/f6i6NB6Pr3jT/UYubfrsEuPtWgMflj3w/GWPy+sd3c5xxxz4sx/L4GHs59vHvIf36kqd77rBTnujBxKD98MHepeXH2k9T1G+s/1OADe44kc+YT1PUb6z/U4KOm97M/5iKVf/gFt9TAHjS1f0lGA9af/df699T+wYf8w1xgD5zaP/KvJjP/Kdff/s7C9YzS5b/vO1h8+X9s/24MrXtf/yH9nyJq8K/PI74AU7Iuvg==
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="32" height="43">
+  <data encoding="base64" compression="zlib">
+   eJztlksOwjAMRFPIAbginw2fDb8FBc4Be1ggwRV6Ai6FLVQVKktpJkZh4ZGsbvAkzx0DzplMJpOpq6p+7ht865f32fr4njX1bIA+SXvyOYBeR4U7IPya56P8KXPT8EmZm4aXVgaRd6iZf8Rr5fPx8+dLqjHVROH8IXmMgDvMqRYK50/JYwb4aOw+C+GvpbGDKL/W/nOWeZa3QVyfNDf2OLUqpFLgCP3eLr08t2fPuXvh3KNoniEhc9z5d1+b90x1oTOvRfMMCf3+53cm8cbyo/vPknhj+dH814rhl/KZukcx/Eg+Qwrxx+bzc/e6/O8N8afmM5U/NZ/Gb/y5+Lvs37/z59YLBoexUw==
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="32" height="43">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20KP6AAAAAAAHgYFYAAAQ==
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="32" height="43">
+  <data encoding="base64" compression="zlib">
+   eJxbzcjAsAaIVw8QvRiIlwwgPVD+HvX/qP9H/T/4/Y8OiPUXseo3A/EWPDQ6IKQeXR+Mj8v/h5jwY0oByIzDTMSHLy3AaSbM8IH5nx7gMlqYIofHQADk8BgIcJmK6WsUjIJRQB9wGi2/LgWWH8voWIbMEKDcDJib6e32gQK08O9FFmAZzkIds6htPz3il5b+R3c/IX8MRHqeBcRzqGQWOe5fBMRLqGQ/OWDU/sFj/0CU46uAeA19rRxx9dZIAQC+/zYY
+  </data>
+ </layer>
+</map>

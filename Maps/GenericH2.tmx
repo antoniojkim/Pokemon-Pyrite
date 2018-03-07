@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="38" height="34" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Inside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Inside.png" width="256" height="1152"/>
+ </tileset>
+ <tileset firstgid="289" name="Interior general" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Interior general.PNG" width="256" height="8032"/>
+ </tileset>
+ <tileset firstgid="2297" name="Multi-Inside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Multi-Inside.png" width="256" height="8642"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="38" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztzqENgEAQRcGfYK4D5PVfAhoUVXESv6wgGTH25Y0kAwBe9qKur1nU9XVtyV3Q9XWu9lHgy5cvX77+8QUAX3sA94Kn7w==
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="38" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztzjEKgzAYxfE3ZEluUmsh1hYE2xtYJ9tJvf8x+g0ZJAgWYmOU94OHS2L+ABER0byTBjK93rlQ1r1RyPf6w3vTc/aPfVXAv0PuHkGjgJe3Vm1dBXTS8Pb2Ydfhus4GyN0uJl5XLw2Dt3HSVUrLze0esWtJql21tDzcngl1ERER7dkXw+sTDQ==
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="38" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztkqsOwjAYRiuABBy8BQgwMAygGArE5CTPxcUMMFweAhw8DThQnCUVSxYSTLeK7yQnbdomPeI3RgghhMgTVfNnG862uMK1vY9qxXbFma4r+xvu8YAJ7ux9XHBXljsNDzzjBY94sl3LErt+0aCpXzFmgAHWPWls0TGiZ4wTbDrueuLrj3cdOqb0hDjDtuOuN37cfiGg58ncp3TTGWMNcehRV0DLnHVRdogQQgghnPMFcVwVwg==
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="38" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztzqENwCAABVGQ7D8VRdHOAA5m6NekAsVPk3vJ+QsBAAAAKboP9jXV3RMfhpruCeCArC5V3COLqm71uEcAAL/3AlyaCIU=
+  </data>
+ </layer>
+ <layer name="Tile Layer 5" width="38" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztzjENACAQBLDHAEEq/ieCg1/IDbQKWgUAwDVHetC30wG+ttIBAOCpA8jiAJA=
+  </data>
+ </layer>
+</map>

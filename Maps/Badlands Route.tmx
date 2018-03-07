@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Desert" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Desert.png" width="256" height="352"/>
+ </tileset>
+ <tileset firstgid="89" name="CavesFRLG" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/CavesFRLG.png" width="256" height="6368"/>
+ </tileset>
+ <tileset firstgid="1681" name="Cavetiles" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Cavetiles.png" width="256" height="6000"/>
+ </tileset>
+ <tileset firstgid="3177" name="Outskirts" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outskirts.png" width="256" height="2080"/>
+ </tileset>
+ <tileset firstgid="3697" name="Outside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside.png" width="256" height="16064"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2Mlr1GAcxvG4wED1Mv+P3vSm/4tHL9pqV7XurTvuqKBWtFbQWi9aL7Z6cAVXPKig6EHRg+t3ZErzhnEcQ4YXm+8HHkLCO8nk94QOTZJIkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJktpp3n+UMog9Y/sIxZ6xfYRiz9g+QrFnbB+h2DO2j1DsGdtHKPaM7SMUe8b2EYo9Y/sIxZ6xfYRiz9g+QrFnbB+h2DO2j1DsGdtHKPaM7SMUe8b20boFZGHsL6Hfz+J8sogsbvEz66pJsp50kx7SS/pIPxmozq57wEkfkkdkSUeSLO0o/vvPBdsYfDfpIWtaLSFlAzPfSDaRQbKZbCFbq+G6Z/TwnLwgy+hieaqP/aw9UF9/kO2hzGfLojb/taSTdJFVOfrYzux2kJ1kiAyTXWQ32ZOa6yt6eE3ekBV0sTLVxzHWHa+vPcH2ZEn76GX+faSfDJDVOfrYy+z2VRs/44dbnOtp1p0hZ8kIOVfSPvIYrPA3qTK7f4TZHa02fsZPNZjrGMcuZY6/Zf9d/dh7th9K1Md57vUCGc15z0N0MUw6SVfl7+uzJrjutcy1P7L/qX7sM9svJerjMvd6hYxHuudJrnszc+2v7H8j38kP8rNEfcQ0xZynyW1yx5kXYuZ/5pc5fvubGeV8F8kYuUWmyHTB15hrah2k32PU9ovqZZzzXCUT5C65R+7bR1PZ90ozfRTRyXXOcYNMksfkCXlqH021sw/9uz/1obh8Dy5JkiRJkiRJ7fcLkOJtwg==
+  </data>
+ </layer>
+ <layer name="foreground" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T+1lC6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAbnEAAAQ==
+  </data>
+ </layer>
+</map>

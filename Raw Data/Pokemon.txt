@@ -1,0 +1,151 @@
+Grass	Poison
+Grass	Poison
+Grass	Poison
+Fire	
+Fire	
+Fire	Flying
+Water	
+Water	
+Water	
+Bug	
+Bug	
+Bug	Flying
+Bug	Poison
+Bug	Poison
+Bug	Poison
+Normal	Flying
+Normal	Flying
+Normal	Flying
+Normal	
+Normal	
+Normal	Flying
+Normal	Flying
+Poison	
+Poison	
+Electric	
+Electric	
+Ground	
+Ground	
+Poison	
+Poison	
+Poison	Ground
+Poison	
+Poison	
+Poison	Ground
+Fairy	
+Fairy	
+Fire	
+Fire	
+Normal	Fairy
+Normal	Fairy
+Poison	Flying
+Poison	Flying
+Grass	Poison
+Grass	Poison
+Grass	Poison
+Bug	Grass
+Bug	Grass
+Bug	Poison
+Bug	Poison
+Ground	
+Ground	
+Normal	
+Normal	
+Water	
+Water	
+Fighting	
+Fighting	
+Fire	
+Fire	
+Water	
+Water	
+Water	Fighting
+Psychic	
+Psychic	
+Psychic	
+Fighting	
+Fighting	
+Fighting	
+Grass	Poison
+Grass	Poison
+Grass	Poison
+Water	Poison
+Water	Poison
+Rock	Ground
+Rock	Ground
+Rock	Ground
+Fire	
+Fire	
+Water	Psychic
+Water	Psychic
+Electric	Steel
+Electric	Steel
+Normal	Flying
+Normal	Flying
+Normal	Flying
+Water	
+Water	Ice
+Poison	
+Poison	
+Water	
+Water	Ice
+Ghost	Poison
+Ghost	Poison
+Ghost	Poison
+Rock	Ground
+Psychic	
+Psychic	
+Water	
+Water	
+Electric	
+Electric	
+Grass	Psychic
+Grass	Psychic
+Ground	
+Ground	
+Fighting	
+Fighting	
+Normal	
+Poison	
+Poison	
+Ground	Rock
+Ground	Rock
+Normal	
+Grass	
+Normal	
+Water	
+Water	
+Water	
+Water	
+Water	
+Water	Psychic
+Psychic	Fairy
+Bug	Flying
+Ice	Psychic
+Electric	
+Fire	
+Bug	
+Normal	
+Water	
+Water	Flying
+Water	Ice
+Normal	
+Normal	
+Water	
+Electric	
+Fire	
+Normal	
+Rock	Water
+Rock	Water
+Rock	Water
+Rock	Water
+Rock	Flying
+Normal	
+Ice	Flying
+Electric	Flying
+Fire	Flying
+Dragon	
+Dragon	
+Dragon	Flying
+Psychic	
+Psychic	

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="34" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Outside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside.png" width="256" height="16064"/>
+ </tileset>
+ <tileset firstgid="4017" name="Outside2" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside2.png" width="256" height="31942"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="34" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztljtP3UAQhefuw+29vzstUkCkIiAlgXTwB4COVClDKoQoAOU/ZFfsyJ/P9QMhaBCWjtZe23PmzMs+XJkdFRwUfC04LTh7w/Ww8Z0U/Cz4UXBc0JlZbPizNvtbkO1pvyI31Pup7QXrn4l4Jrdn3F6973zO73r5zk3hvF0P99x2aEjwJ7W9en1eTi4aLsPTvYolvR143X4CZ8YeERrn74Krhl+hf29Kb7BtvYxvB/sJ+36tnM4bms9LepPwkoux9hg4/+eN2bfNNq/7Pqe3A+9dwfUCau0xz+T+Xta9Te/rlF7WTOX9V/CwgEfExONSuXfB6X4t5TdKPQdBRHwjtLKvPHa8N6U3id7bdV8/nssEu/Qp27DW1J85vexF9pFrZDx4zVpXX1z3XH5pk3GO8n43wqOzLIh/cUZvsmE9ex85p/qfZY14P8IHv/Y5rXo5a5lf+s95qbODnP4OZ9tJ43jufKYN51V++qDzhN8Qxpv5dQ6fG4wde4P1qn32aTWPMb1u777NBe1N+hCw75rr9f5qHmP9G21YI8wfY8cZrSu/z9GGNc9+cr2sG61LnVdqk7OS2oNt991UfjkHWctcWScJtlnDbl9X/f9JYl9jyPqlX+wV5tvjqSu/2TpnstgdOx/zkf8VUytnAuOmtcs9+sr/jh3Ym9LpK21F8buzYd2SQ/+36vpl1T+zpJc6gvjAWOicCuKPxmBJ71j/Tn3nqXUuD8/J79j3l/MgCy/5GBvOlvwCvUt+vtb6cXwc7+n4D80J8hE=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="30" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztlT0OgCAMRssRgMm/w/Hj0fQ+6kEcXf0GB6MxLEhC05e8sLUp5QtEZdhVoUYPjh/7cpxJELjTaKIWdrCHg85X21kiDwOMcLT5agsCRxzy52GAEY5XHhdDtN7cTLrWhL9xVu+TG1znqo3c76y2vX7lLXUvtc0pCBw4AXheHpw=
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="30" height="34" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgeYC8zBA+EvQOhl55mjgL6g5044pHS+KV1+hjM6Y+Q2waz2/GBfTjcjUt81F7iwVBNE6OA9mC4pw1cddAoIB4MtjQy2NwzCkbBKKAfAACxERB/
+  </data>
+ </layer>
+</map>

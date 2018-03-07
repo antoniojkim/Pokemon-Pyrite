@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="34" height="52" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Outside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside.png" width="256" height="16064"/>
+ </tileset>
+ <tileset firstgid="4017" name="Outside2" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside2.png" width="256" height="31942"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="34" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztlslOxDAQRDve/p3tgIADzHG4wQ2+BvgYOpJLU7YyIoutjEQfSnaixK5+3W35OIi8qo47j2+q9wsY9+ZgPIyH8TAexsN4GI//y+ND9Tlj7M0jiEhSRZWnuaPncezNY/QBLyF7gPhdLy7ww3GHzAFM2BfmrXkgPt7f0X4h+wMX+G1dR9jvSufXC3UzlHnjOJbywJq3qifVy0w9qh6GEzPUls/zpTx47cNw6pFEsXGuEPN99uGqHgsreUSKAWsirjgRJzT6uDuTK7+CB/xgX46Pz5QoZR89n8nXIdfc2vODz4soZY/guWbv6XtXfbuFR6K6SCSuRVf5/FJ9V/rZyANnBfar42Ye4Q8fLeqD92L2de26Djw4v5ijJsCE+4V58T/4r9X9w0upKY9TPdv6PsY54D5yNJ/q2d73sSRlnXIO4HXL/WSuX+6ZUHHacm5c6v1073FvDsbDeBgP42E8jEfP8Rddi/0y
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="34" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztk7dOA0EURWeBhlDY4IZUkApSQSpIraEyFCYUJvwOCAoEFKbHIBElokSUiH9ASck3EAoO0o5kjRgbedm1i3eko9GOLd2r93aVEgRBEARBEAqB6rBSNViLdVgfzk+PBnIbsQmbscXt8R5S6gM/8Svkf49WctuwHTuw0+3hcBZhMZYEMKMuMrqxB3uxz80s5SzDcqwIoEc/GQM4iEM47GaGOSuxCiOWHlHuR9IczdO7FSN3LM1xH3qsOUqtO5n/Eyd3AidxCqd96LFCh9UsPRLkzuAszuF8Dj02yUg59h3rHtGA9m/bse4R83n/GtuOdY+4e2/uPxVRastwO5J7D9uOdY+Ee2/uf4fMXdzDfTzAQw89flggb9FwCZfTnk2OyDzGEzzFMzz32CNJzsYvZuKCzEu8wmu8wVsPPfR3o08bL8Zvd2Te4wM+4hM+e5zHX3jNMp//xjaft4B7FCrmfGynIAiCIAhCNr4BDo5X0g==
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="34" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt1TEKgDAMheEUb684iC666y08h6Oj17DBgggZHLS2+H+QpdNrGlIRAAAAIG+L+zqByFyIrAnkUNsLOfR+uMfqVU79yynrk1LYI+rLPVK6oyp37pFY8zC4a3W+2oi90HtaM9CEHFYfRn8+vZDRmgHNUUeeDesv6cP7pOivuwsAAORrBzh7GKA=
+  </data>
+ </layer>
+</map>

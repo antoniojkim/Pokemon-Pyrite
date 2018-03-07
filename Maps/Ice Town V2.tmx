@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="24" height="24" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Ametrine" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Ametrine.png" width="256" height="3520"/>
+ </tileset>
+ <tileset firstgid="881" name="Outside2" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside2.png" width="256" height="31942"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="24" height="24">
+  <data encoding="base64" compression="zlib">
+   eJwzY2BgMBvFo3gUDyp8iA7mHxni5p8F4t1Y8B48+nYRqQdk/l4gPo0Fn8Fj/iks6vdjcet5KobPKagdh6EY5m587iQnvGHm0yJeh4r5uNLPeSqZjy39wNIQLcMH2V5qppvBjgHufadb
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="24" height="24">
+  <data encoding="base64" compression="zlib">
+   eJy11UtPE1EYgOHTjogaUDFeUPCKgICbXiTh0hKgrbEKxAIS8LbUv6A7+CPs6H8QEzeu2OnGtQtCCBBjwBijRt+Bc9JvTk6nQ41f8oThkL5zmDNJMyeVyvxnJU2uvUQ+oheiUXL0So5eAWYGPKUGMYRhZJDFiHfw9+EI/azu5VVwljFKZwzjyCGPAu4eol9Ev9izuU8Z9+gUcR8PMIFJTOl+rsozsp9/VvTlPKRTwjRmMItHmPMqe3Hdwz5L/5kvi+6K/jlPZwGP8QRP8QzPveA+ctaZm/602HfZ2rt9Hv68wSre4kNcqY/Cp3jlTGT/CGsNOIpGHHM/qv1Zwzu8x2d668JGlX4Ta83w/5VTOK1bPehFH25b9/H7m/S2sI0dfKnSP8vaOZzHBbTqRgJJpJDWayviHl/p7WIP3/Bd981ZmH47a5dxBVdxTX9+AIMY8veEGGcaF+f6g95P/MJv/IkH/0fTv8l1J7rQjVvq4GxHMYZxf084TvuE9d6Ejf3+1JoW2mfq7LvexVrj+oxck/2L7OsS2rzgtWtexZR6Hav8nqZxx0H2r9O6gQ4veO2aRdpLscp+5ftoM/0eWr3o84LXUSZKP0EriZQXvA4b81yKEfr1TNi+Zb/edydqP2wK/7j/YgjXd5qZdI3nHkW177Soe/8LxWGCCQ==
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="24" height="24">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAF8XwMVAXUNI/abhsoMFz8MRiB20A7YBSMghEK6FWuDcXyE9nNQ9H9MEDI7UPFbzB3AgAVngT2
+  </data>
+ </layer>
+</map>

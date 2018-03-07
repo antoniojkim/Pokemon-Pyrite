@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="51" height="32" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Outside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside.png" width="256" height="16064"/>
+ </tileset>
+ <tileset firstgid="4017" name="Outside2" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside2.png" width="256" height="31942"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="51" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzNWcuOEzEQ7Dhj57jzCfNtgIS0cOLxYYg/gRO7J7Indk/snoALHq1LU+l0e+xEERxa8cz41V39KDtJREKWIcuPjch9lofNv2unvI9YZN7Xlp5nSWqf37LcZLndPOswlDHf8/M+y93Gb//M8pjl6cx2y1q9begfGnH5leV3lj9nti+BKXCs4cL23MkiM54vsrzslFeNa/VimsjHWrDYFZ/dlTHXWd50ytvGtXox5Rjz9AVuifQALu+yvG+U16SLZ+dU1toZMpRfb2ykfXr6DkXfqfxy7uA2bOJ9vyZdPDtb+x/K2njnjYV/RfH9E9/xW8sjU+U7dPlYiZ3gYALR3zWmqfTx/BPj0NfDD/2871Zs6dhhH2ZMPZ14LGIhrtgDsV6LK/Tx/NmKrQ9ynCfhT3puCPubjmvkMuyF4yyq9zW7r/kz2xmxN4jtA3odjVE0+iBvMC6styW6Huw3x7UHfuBh6MVFdNbxMOL3gyxxzXGh/ZXbNVwG8W1rYRgU9q3rWPNDD8tOvXwoqfFDB4ZrmOuYikZ/cM8ox3Y9hePqGPP69mLeElPMLXV97cXFihdds2DnXj6GHFrboxUvazat8YNEttE5qnc+HsvzejmVzz66xvSeSZjrcA226pIXC3q+RDIVAVdJclxfWBfoXOMBXhtYsH0msc+DLdz489UyB8/rxRdz/lPOIsyrgizzsf3gxx4uyBmI2VjGfLp6Hj/JYnMrN2oc599TziLMq4AL7x/6xQouOpdbfKwl70XaQ89ZxOJVqFOIkaSkVmsmQ5fe+wGOzxY79LZ7OICW3hwIO557r+K1mRf1cgD20drZ/8so8nVc8uW59yq1s892BReNI/sb/LO21k3W43ZcYhW+zj5f48oYg3UDrW1x3lYewXUduQv64DnIYVzusx5342E9Qs7TOZLtpHmwJdoOGN/i8/r+IMhhrUQt3tLzfdbjYVxqNedQ1kcL6xWctubKa7jU7mSCHGMBffD+MevxNC46zOMukcdaOHAvl/ba8CvNaS9x3+vN33I/2dKHMfwf7vnPaQ+Ey1YJ8yvOceAozEv5Do3tw5w20FyX+O/gL2cSo80=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="51" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztl00OgjAQRssNuP+xUBcGXQC6qOjC6AH8Fi5mUbT/Hcq8ZJIPCGGGl5agG6VuqBnFAU36scmUAccjamIySwhLM64R8cITXy9dY86211MgXvLh4lS8+BOydv7duyUvJfYj3+dsyUtKYjsXL2kZZb2w9GKDaX2Jl3y47HU1e1l6DyE5FzV52bVK7dvSXcTx2GOOE+rAYB4fjqTvCfmCOjOaxcXRQPqeke+oK6NZXNCk7xfyG/X4nkuxj8X6lzTlJ5mlpn3s1/dlbdTqpUSOyQc+052I
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="51" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztz7EJACAQA8B3/+3s1GX8xglERbiDkDaJAAAAAADgpFpeL9iz9rfsnhmf/4EbJirBBDg=
+  </data>
+ </layer>
+</map>

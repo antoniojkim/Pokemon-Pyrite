@@ -1,0 +1,1100 @@
+Bulbasaur	2¡Ç4¡È (0.71m)	15.2 lbs (6.9 kg)
+
+Ivysaur	3¡Ç3¡È (0.99m)	28.7 lbs (13.0 kg)
+
+Venusaur	7¡Ç6¡È (2.29m)	342.8 lbs (155.5 kg)
+Mega Venusaur
+Venusaur	6¡Ç7¡È (2.01m)	220.5 lbs (100.0 kg)
+
+Charmander	2¡Ç0¡È (0.61m)	18.7 lbs (8.5 kg)
+Charmeleon	3¡Ç7¡È (1.09m)	41.9 lbs (19.0 kg)
+Charizard	5¡Ç7¡È (1.70m)	243.6 lbs (110.5 kg)
+Mega Charizard X
+Charizard	5¡Ç7¡È (1.70m)	199.5 lbs (90.5 kg)
+
+Charizard	5¡Ç7¡È (1.70m)	221.6 lbs (100.5 kg)
+Mega Charizard Y
+Squirtle	1¡Ç8¡È (0.51m)	19.8 lbs (9.0 kg)
+Wartortle	3¡Ç3¡È (0.99m)	49.6 lbs (22.5 kg)
+Blastoise	5¡Ç3¡È (1.60m)	222.9 lbs (101.1 kg)
+Mega Blastoise
+Blastoise	5¡Ç3¡È (1.60m)	188.5 lbs (85.5 kg)
+Caterpie	1¡Ç0¡È (0.30m)	6.4 lbs (2.9 kg)
+Metapod	2¡Ç4¡È (0.71m)	21.8 lbs (9.9 kg)
+Butterfree	3¡Ç7¡È (1.09m)	70.5 lbs (32.0 kg)
+
+Weedle	1¡Ç0¡È (0.30m)	7.1 lbs (3.2 kg)
+
+Kakuna	2¡Ç0¡È (0.61m)	22 lbs (10.0 kg)
+
+Beedrill	4¡Ç7¡È (1.40m)	89.3 lbs (40.5 kg)
+Mega Beedrill
+Beedrill	3¡Ç3¡È (0.99m)	65 lbs (29.5 kg)
+
+Pidgey	1¡Ç0¡È (0.30m)	4 lbs (1.8 kg)
+
+Pidgeotto	3¡Ç7¡È (1.09m)	66.1 lbs (30.0 kg)
+
+Pidgeot	7¡Ç3¡È (2.21m)	111.3 lbs (50.5 kg)
+Mega Pidgeot
+Pidgeot	4¡Ç11¡È (1.50m)	87.1 lbs (39.5 kg)
+
+Rattata	1¡Ç0¡È (0.30m)	7.7 lbs (3.5 kg)
+Raticate	2¡Ç4¡È (0.71m)	40.8 lbs (18.5 kg)
+Spearow	1¡Ç0¡È (0.30m)	4.4 lbs (2.0 kg)
+
+Fearow	3¡Ç11¡È (1.19m)	83.8 lbs (38.0 kg)
+
+Ekans	6¡Ç7¡È (2.01m)	15.2 lbs (6.9 kg)
+Arbok	11¡Ç6¡È (3.51m)	143.3 lbs (65.0 kg)
+Pikachu	1¡Ç4¡È (0.41m)	13.2 lbs (6.0 kg)
+Raichu	2¡Ç7¡È (0.79m)	66.1 lbs (30.0 kg)
+Sandshrew	2¡Ç0¡È (0.61m)	26.5 lbs (12.0 kg)
+Sandslash	3¡Ç3¡È (0.99m)	65 lbs (29.5 kg)
+Nidoran¡Ï	1¡Ç4¡È (0.41m)	15.4 lbs (7.0 kg)
+Nidorina	2¡Ç7¡È (0.79m)	44.1 lbs (20.0 kg)
+Nidoqueen	4¡Ç3¡È (1.30m)	132.3 lbs (60.0 kg)
+
+Nidoran¡Î	1¡Ç8¡È (0.51m)	19.8 lbs (9.0 kg)
+Nidorino	2¡Ç11¡È (0.89m)	43 lbs (19.5 kg)
+Nidoking	4¡Ç7¡È (1.40m)	136.7 lbs (62.0 kg)
+
+Clefairy	2¡Ç0¡È (0.61m)	16.5 lbs (7.5 kg)
+Clefable	4¡Ç3¡È (1.30m)	88.2 lbs (40.0 kg)
+Vulpix	2¡Ç0¡È (0.61m)	21.8 lbs (9.9 kg)
+Ninetales	3¡Ç7¡È (1.09m)	43.9 lbs (19.9 kg)
+Jigglypuff	1¡Ç8¡È (0.51m)	12.1 lbs (5.5 kg)
+
+Wigglytuff	3¡Ç3¡È (0.99m)	26.5 lbs (12.0 kg)
+
+Zubat	2¡Ç7¡È (0.79m)	16.5 lbs (7.5 kg)
+
+Golbat	5¡Ç3¡È (1.60m)	121.3 lbs (55.0 kg)
+
+Oddish	1¡Ç8¡È (0.51m)	11.9 lbs (5.4 kg)
+
+Gloom	2¡Ç7¡È (0.79m)	19 lbs (8.6 kg)
+
+Vileplume	3¡Ç11¡È (1.19m)	41 lbs (18.6 kg)
+
+Paras	1¡Ç0¡È (0.30m)	11.9 lbs (5.4 kg)
+
+Parasect	3¡Ç3¡È (0.99m)	65 lbs (29.5 kg)
+
+Venonat	3¡Ç3¡È (0.99m)	66.1 lbs (30.0 kg)
+
+Venomoth	4¡Ç11¡È (1.50m)	27.6 lbs (12.5 kg)
+
+Diglett	0¡Ç8¡È (0.20m)	1.8 lbs (0.8 kg)
+Dugtrio	2¡Ç4¡È (0.71m)	73.4 lbs (33.3 kg)
+Meowth	1¡Ç4¡È (0.41m)	9.3 lbs (4.2 kg)
+Persian	3¡Ç3¡È (0.99m)	70.5 lbs (32.0 kg)
+Psyduck	2¡Ç7¡È (0.79m)	43.2 lbs (19.6 kg)
+Golduck	5¡Ç7¡È (1.70m)	168.9 lbs (76.6 kg)
+Mankey	1¡Ç8¡È (0.51m)	61.7 lbs (28.0 kg)
+Primeape	3¡Ç3¡È (0.99m)	70.5 lbs (32.0 kg)
+Growlithe	2¡Ç4¡È (0.71m)	41.9 lbs (19.0 kg)
+Arcanine	6¡Ç3¡È (1.91m)	341.7 lbs (155.0 kg)
+Poliwag	2¡Ç0¡È (0.61m)	27.3 lbs (12.4 kg)
+Poliwhirl	3¡Ç3¡È (0.99m)	44.1 lbs (20.0 kg)
+Poliwrath	4¡Ç3¡È (1.30m)	119 lbs (54.0 kg)
+
+Abra	2¡Ç11¡È (0.89m)	43 lbs (19.5 kg)
+Kadabra	4¡Ç3¡È (1.30m)	124.6 lbs (56.5 kg)
+Alakazam	4¡Ç11¡È (1.50m)	105.8 lbs (48.0 kg)
+Alakazam	3¡Ç11¡È (1.19m)	105.8 lbs (48.0 kg)
+Mega Alakazam
+Machop	2¡Ç7¡È (0.79m)	43 lbs (19.5 kg)
+Machoke	4¡Ç11¡È (1.50m)	155.4 lbs (70.5 kg)
+Machamp	5¡Ç3¡È (1.60m)	286.6 lbs (130.0 kg)
+Bellsprout	2¡Ç4¡È (0.71m)	8.8 lbs (4.0 kg)
+
+Weepinbell	3¡Ç3¡È (0.99m)	14.1 lbs (6.4 kg)
+
+Victreebel	5¡Ç7¡È (1.70m)	34.2 lbs (15.5 kg)
+
+Tentacool	2¡Ç11¡È (0.89m)	100.3 lbs (45.5 kg)
+
+Tentacruel	5¡Ç3¡È (1.60m)	121.3 lbs (55.0 kg)
+
+Geodude	1¡Ç4¡È (0.41m)	44.1 lbs (20.0 kg)
+
+Graveler	3¡Ç3¡È (0.99m)	231.5 lbs (105.0 kg)
+
+Golem	4¡Ç7¡È (1.40m)	661.4 lbs (300.0 kg)
+
+Ponyta	3¡Ç3¡È (0.99m)	66.1 lbs (30.0 kg)
+Rapidash	5¡Ç7¡È (1.70m)	209.4 lbs (95.0 kg)
+Slowpoke	3¡Ç11¡È (1.19m)	79.4 lbs (36.0 kg)
+
+Slowbro	5¡Ç3¡È (1.60m)	173.1 lbs (78.5 kg)
+
+Slowbro	6¡Ç7¡È (2.01m)	264.6 lbs (120.0 kg)
+Mega Slowbro
+Magnemite	1¡Ç0¡È (0.30m)	13.2 lbs (6.0 kg)
+
+Magneton	3¡Ç3¡È (0.99m)	132.3 lbs (60.0 kg)
+
+Farfetch'd	2¡Ç7¡È (0.79m)	33.1 lbs (15.0 kg)
+
+Doduo	4¡Ç7¡È (1.40m)	86.4 lbs (39.2 kg)
+
+Dodrio	5¡Ç11¡È (1.80m)	187.8 lbs (85.2 kg)
+
+Seel	3¡Ç7¡È (1.09m)	198.4 lbs (90.0 kg)
+Dewgong	5¡Ç7¡È (1.70m)	264.6 lbs (120.0 kg)
+
+Grimer	2¡Ç11¡È (0.89m)	66.1 lbs (30.0 kg)
+Muk	3¡Ç11¡È (1.19m)	66.1 lbs (30.0 kg)
+Shellder	1¡Ç0¡È (0.30m)	8.8 lbs (4.0 kg)
+Cloyster	4¡Ç11¡È (1.50m)	292.1 lbs (132.5 kg)
+
+Gastly	4¡Ç3¡È (1.30m)	0.2 lbs (0.1 kg)
+
+Haunter	5¡Ç3¡È (1.60m)	0.2 lbs (0.1 kg)
+
+Gengar	4¡Ç11¡È (1.50m)	89.3 lbs (40.5 kg)
+
+Gengar	4¡Ç7¡È (1.40m)	89.3 lbs (40.5 kg)
+Mega Gengar
+Onix	28¡Ç10¡È (8.79m)	463 lbs (210.0 kg)
+
+Drowzee	3¡Ç3¡È (0.99m)	71.4 lbs (32.4 kg)
+Hypno	5¡Ç3¡È (1.60m)	166.7 lbs (75.6 kg)
+Krabby	1¡Ç4¡È (0.41m)	14.3 lbs (6.5 kg)
+Kingler	4¡Ç3¡È (1.30m)	132.3 lbs (60.0 kg)
+Voltorb	1¡Ç8¡È (0.51m)	22.9 lbs (10.4 kg)
+Electrode	3¡Ç11¡È (1.19m)	146.8 lbs (66.6 kg)
+Exeggcute	1¡Ç4¡È (0.41m)	5.5 lbs (2.5 kg)
+
+Exeggutor	6¡Ç7¡È (2.01m)	264.6 lbs (120.0 kg)
+
+Cubone	1¡Ç4¡È (0.41m)	14.3 lbs (6.5 kg)
+Marowak	3¡Ç3¡È (0.99m)	99.2 lbs (45.0 kg)
+Hitmonlee	4¡Ç11¡È (1.50m)	109.8 lbs (49.8 kg)
+Hitmonchan	4¡Ç7¡È (1.40m)	110.7 lbs (50.2 kg)
+Lickitung	3¡Ç11¡È (1.19m)	144.4 lbs (65.5 kg)
+Koffing	2¡Ç0¡È (0.61m)	2.2 lbs (1.0 kg)
+Weezing	3¡Ç11¡È (1.19m)	20.9 lbs (9.5 kg)
+Rhyhorn	3¡Ç3¡È (0.99m)	253.5 lbs (115.0 kg)
+
+Rhydon	6¡Ç3¡È (1.91m)	264.6 lbs (120.0 kg)
+
+Chansey	3¡Ç7¡È (1.09m)	76.3 lbs (34.6 kg)
+Tangela	3¡Ç3¡È (0.99m)	77.2 lbs (35.0 kg)
+Kangaskhan	7¡Ç3¡È (2.21m)	220.5 lbs (100.0 kg)
+Mega Kangaskhan
+Kangaskhan	7¡Ç3¡È (2.21m)	176.4 lbs (80.0 kg)
+Horsea	1¡Ç4¡È (0.41m)	17.6 lbs (8.0 kg)
+Seadra	3¡Ç11¡È (1.19m)	55.1 lbs (25.0 kg)
+Goldeen	2¡Ç0¡È (0.61m)	33.1 lbs (15.0 kg)
+Seaking	4¡Ç3¡È (1.30m)	86 lbs (39.0 kg)
+Staryu	2¡Ç7¡È (0.79m)	76.1 lbs (34.5 kg)
+Starmie	3¡Ç7¡È (1.09m)	176.4 lbs (80.0 kg)
+
+Mr. Mime	4¡Ç3¡È (1.30m)	120.2 lbs (54.5 kg)
+
+Scyther	4¡Ç11¡È (1.50m)	123.5 lbs (56.0 kg)
+
+Jynx	4¡Ç7¡È (1.40m)	89.5 lbs (40.6 kg)
+
+Electabuzz	3¡Ç7¡È (1.09m)	66.1 lbs (30.0 kg)
+Magmar	4¡Ç3¡È (1.30m)	98.1 lbs (44.5 kg)
+Pinsir	4¡Ç11¡È (1.50m)	121.3 lbs (55.0 kg)
+Pinsir	5¡Ç7¡È (1.70m)	130.1 lbs (59.0 kg)
+Mega Pinsir
+Tauros	4¡Ç7¡È (1.40m)	194.9 lbs (88.4 kg)
+Magikarp	2¡Ç11¡È (0.89m)	22 lbs (10.0 kg)
+Gyarados	21¡Ç4¡È (6.50m)	518.1 lbs (235.0 kg)
+
+Gyarados	21¡Ç4¡È (6.50m)	672.4 lbs (305.0 kg)
+Mega Gyarados
+Lapras	8¡Ç2¡È (2.49m)	485 lbs (220.0 kg)
+
+Ditto	1¡Ç0¡È (0.30m)	8.8 lbs (4.0 kg)
+Eevee	1¡Ç0¡È (0.30m)	14.3 lbs (6.5 kg)
+Vaporeon	3¡Ç3¡È (0.99m)	63.9 lbs (29.0 kg)
+Jolteon	2¡Ç7¡È (0.79m)	54 lbs (24.5 kg)
+Flareon	2¡Ç11¡È (0.89m)	55.1 lbs (25.0 kg)
+Porygon	2¡Ç7¡È (0.79m)	80.5 lbs (36.5 kg)
+Omanyte	1¡Ç4¡È (0.41m)	16.5 lbs (7.5 kg)
+
+Omastar	3¡Ç3¡È (0.99m)	77.2 lbs (35.0 kg)
+
+Kabuto	1¡Ç8¡È (0.51m)	25.4 lbs (11.5 kg)
+
+Kabutops	4¡Ç3¡È (1.30m)	89.3 lbs (40.5 kg)
+
+Aerodactyl	5¡Ç11¡È (1.80m)	130.1 lbs (59.0 kg)
+
+Aerodactyl	6¡Ç11¡È (2.11m)	174.2 lbs (79.0 kg)
+Mega Aerodactyl
+Snorlax	6¡Ç11¡È (2.11m)	1014.1 lbs (460.0 kg)
+Articuno	5¡Ç7¡È (1.70m)	122.1 lbs (55.4 kg)
+
+Zapdos	5¡Ç3¡È (1.60m)	116 lbs (52.6 kg)
+
+Moltres	6¡Ç7¡È (2.01m)	132.3 lbs (60.0 kg)
+
+Dratini	5¡Ç11¡È (1.80m)	7.3 lbs (3.3 kg)
+Dragonair	13¡Ç1¡È (3.99m)	36.4 lbs (16.5 kg)
+Dragonite	7¡Ç3¡È (2.21m)	463 lbs (210.0 kg)
+
+Mewtwo	7¡Ç7¡È (2.31m)	280 lbs (127.0 kg)
+Mega Mewtwo X
+Mewtwo	6¡Ç7¡È (2.01m)	269 lbs (122.0 kg)
+Mewtwo	4¡Ç11¡È (1.50m)	72.8 lbs (33.0 kg)
+Mega Mewtwo Y
+Mew	1¡Ç4¡È (0.41m)	8.8 lbs (4.0 kg)
+Chikorita	2¡Ç11¡È (0.89m)	14.1 lbs (6.4 kg)
+Bayleef	3¡Ç11¡È (1.19m)	34.8 lbs (15.8 kg)
+Meganium	5¡Ç11¡È (1.80m)	221.6 lbs (100.5 kg)
+Cyndaquil	1¡Ç8¡È (0.51m)	17.4 lbs (7.9 kg)
+Quilava	2¡Ç11¡È (0.89m)	41.9 lbs (19.0 kg)
+Typhlosion	5¡Ç7¡È (1.70m)	175.3 lbs (79.5 kg)
+Totodile	2¡Ç0¡È (0.61m)	20.9 lbs (9.5 kg)
+Croconaw	3¡Ç7¡È (1.09m)	55.1 lbs (25.0 kg)
+Feraligatr	7¡Ç7¡È (2.31m)	195.8 lbs (88.8 kg)
+Sentret	2¡Ç7¡È (0.79m)	13.2 lbs (6.0 kg)
+Furret	5¡Ç11¡È (1.80m)	71.7 lbs (32.5 kg)
+Hoothoot	2¡Ç4¡È (0.71m)	46.7 lbs (21.2 kg)
+
+Noctowl	5¡Ç3¡È (1.60m)	89.9 lbs (40.8 kg)
+
+Ledyba	3¡Ç3¡È (0.99m)	23.8 lbs (10.8 kg)
+
+Ledian	4¡Ç7¡È (1.40m)	78.5 lbs (35.6 kg)
+
+Spinarak	1¡Ç8¡È (0.51m)	18.7 lbs (8.5 kg)
+
+Ariados	3¡Ç7¡È (1.09m)	73.9 lbs (33.5 kg)
+
+Crobat	5¡Ç11¡È (1.80m)	165.3 lbs (75.0 kg)
+
+Chinchou	1¡Ç8¡È (0.51m)	26.5 lbs (12.0 kg)
+
+Lanturn	3¡Ç11¡È (1.19m)	49.6 lbs (22.5 kg)
+
+Pichu	1¡Ç0¡È (0.30m)	4.4 lbs (2.0 kg)
+Cleffa	1¡Ç0¡È (0.30m)	6.6 lbs (3.0 kg)
+Igglybuff	1¡Ç0¡È (0.30m)	2.2 lbs (1.0 kg)
+
+Togepi	1¡Ç0¡È (0.30m)	3.3 lbs (1.5 kg)
+Togetic	2¡Ç0¡È (0.61m)	7.1 lbs (3.2 kg)
+
+Natu	0¡Ç8¡È (0.20m)	4.4 lbs (2.0 kg)
+
+Xatu	4¡Ç11¡È (1.50m)	33.1 lbs (15.0 kg)
+
+Mareep	2¡Ç0¡È (0.61m)	17.2 lbs (7.8 kg)
+Flaaffy	2¡Ç7¡È (0.79m)	29.3 lbs (13.3 kg)
+Ampharos	4¡Ç7¡È (1.40m)	135.6 lbs (61.5 kg)
+Ampharos	4¡Ç7¡È (1.40m)	135.6 lbs (61.5 kg)
+Mega Ampharos
+Bellossom	1¡Ç4¡È (0.41m)	12.8 lbs (5.8 kg)
+Marill	1¡Ç4¡È (0.41m)	18.7 lbs (8.5 kg)
+
+Azumarill	2¡Ç7¡È (0.79m)	62.8 lbs (28.5 kg)
+
+Sudowoodo	3¡Ç11¡È (1.19m)	83.8 lbs (38.0 kg)
+Politoed	3¡Ç7¡È (1.09m)	74.7 lbs (33.9 kg)
+Hoppip	1¡Ç4¡È (0.41m)	1.1 lbs (0.5 kg)
+
+Skiploom	2¡Ç0¡È (0.61m)	2.2 lbs (1.0 kg)
+
+Jumpluff	2¡Ç7¡È (0.79m)	6.6 lbs (3.0 kg)
+
+Aipom	2¡Ç7¡È (0.79m)	25.4 lbs (11.5 kg)
+Sunkern	1¡Ç0¡È (0.30m)	4 lbs (1.8 kg)
+Sunflora	2¡Ç7¡È (0.79m)	18.7 lbs (8.5 kg)
+Yanma	3¡Ç11¡È (1.19m)	83.8 lbs (38.0 kg)
+
+Wooper	1¡Ç4¡È (0.41m)	18.7 lbs (8.5 kg)
+
+Quagsire	4¡Ç7¡È (1.40m)	165.3 lbs (75.0 kg)
+
+Espeon	2¡Ç11¡È (0.89m)	58.4 lbs (26.5 kg)
+Umbreon	3¡Ç3¡È (0.99m)	59.5 lbs (27.0 kg)
+Murkrow	1¡Ç8¡È (0.51m)	4.6 lbs (2.1 kg)
+
+Slowking	6¡Ç7¡È (2.01m)	175.3 lbs (79.5 kg)
+
+Misdreavus	2¡Ç4¡È (0.71m)	2.2 lbs (1.0 kg)
+Unown	1¡Ç8¡È (0.51m)	11 lbs (5.0 kg)
+Wobbuffet	4¡Ç3¡È (1.30m)	62.8 lbs (28.5 kg)
+Girafarig	4¡Ç11¡È (1.50m)	91.5 lbs (41.5 kg)
+
+Pineco	2¡Ç0¡È (0.61m)	15.9 lbs (7.2 kg)
+Forretress	3¡Ç11¡È (1.19m)	277.3 lbs (125.8 kg)
+
+Dunsparce	4¡Ç11¡È (1.50m)	30.9 lbs (14.0 kg)
+Gligar	3¡Ç7¡È (1.09m)	142.9 lbs (64.8 kg)
+
+Steelix	30¡Ç2¡È (9.19m)	881.8 lbs (400.0 kg)
+
+Steelix	34¡Ç5¡È (10.49m)	1631.4 lbs (740.0 kg)
+Mega Steelix
+Snubbull	2¡Ç0¡È (0.61m)	17.2 lbs (7.8 kg)
+Granbull	4¡Ç7¡È (1.40m)	107.4 lbs (48.7 kg)
+Qwilfish	1¡Ç8¡È (0.51m)	8.6 lbs (3.9 kg)
+
+Scizor	5¡Ç11¡È (1.80m)	260.1 lbs (118.0 kg)
+
+Scizor	6¡Ç7¡È (2.01m)	275.6 lbs (125.0 kg)
+Mega Scizor
+Shuckle	2¡Ç0¡È (0.61m)	45.2 lbs (20.5 kg)
+
+Heracross	5¡Ç7¡È (1.70m)	137.8 lbs (62.5 kg)
+Mega Heracross
+Heracross	4¡Ç11¡È (1.50m)	119 lbs (54.0 kg)
+
+Sneasel	2¡Ç11¡È (0.89m)	61.7 lbs (28.0 kg)
+
+Teddiursa	2¡Ç0¡È (0.61m)	19.4 lbs (8.8 kg)
+Ursaring	5¡Ç11¡È (1.80m)	277.3 lbs (125.8 kg)
+Slugma	2¡Ç4¡È (0.71m)	77.2 lbs (35.0 kg)
+Magcargo	2¡Ç7¡È (0.79m)	121.3 lbs (55.0 kg)
+
+Swinub	1¡Ç4¡È (0.41m)	14.3 lbs (6.5 kg)
+
+Piloswine	3¡Ç7¡È (1.09m)	123 lbs (55.8 kg)
+
+Corsola	2¡Ç0¡È (0.61m)	11 lbs (5.0 kg)
+
+Remoraid	2¡Ç0¡È (0.61m)	26.5 lbs (12.0 kg)
+Octillery	2¡Ç11¡È (0.89m)	62.8 lbs (28.5 kg)
+Delibird	2¡Ç11¡È (0.89m)	35.3 lbs (16.0 kg)
+
+Mantine	6¡Ç11¡È (2.11m)	485 lbs (220.0 kg)
+
+Skarmory	5¡Ç7¡È (1.70m)	111.3 lbs (50.5 kg)
+
+Houndour	2¡Ç0¡È (0.61m)	23.8 lbs (10.8 kg)
+
+Houndoom	4¡Ç7¡È (1.40m)	77.2 lbs (35.0 kg)
+
+Houndoom	6¡Ç3¡È (1.91m)	109.1 lbs (49.5 kg)
+Mega Houndoom
+Kingdra	5¡Ç11¡È (1.80m)	335.1 lbs (152.0 kg)
+
+Phanpy	1¡Ç8¡È (0.51m)	73.9 lbs (33.5 kg)
+Donphan	3¡Ç7¡È (1.09m)	264.6 lbs (120.0 kg)
+Porygon2	2¡Ç0¡È (0.61m)	71.7 lbs (32.5 kg)
+Stantler	4¡Ç7¡È (1.40m)	157 lbs (71.2 kg)
+Smeargle	3¡Ç11¡È (1.19m)	127.9 lbs (58.0 kg)
+Tyrogue	2¡Ç4¡È (0.71m)	46.3 lbs (21.0 kg)
+Hitmontop	4¡Ç7¡È (1.40m)	105.8 lbs (48.0 kg)
+Smoochum	1¡Ç4¡È (0.41m)	13.2 lbs (6.0 kg)
+
+Elekid	2¡Ç0¡È (0.61m)	51.8 lbs (23.5 kg)
+Magby	2¡Ç4¡È (0.71m)	47.2 lbs (21.4 kg)
+Miltank	3¡Ç11¡È (1.19m)	166.4 lbs (75.5 kg)
+Blissey	4¡Ç11¡È (1.50m)	103.2 lbs (46.8 kg)
+Raikou	6¡Ç3¡È (1.91m)	392.4 lbs (178.0 kg)
+Entei	6¡Ç11¡È (2.11m)	436.5 lbs (198.0 kg)
+Suicune	6¡Ç7¡È (2.01m)	412.3 lbs (187.0 kg)
+Larvitar	2¡Ç0¡È (0.61m)	158.7 lbs (72.0 kg)
+
+Pupitar	3¡Ç11¡È (1.19m)	335.1 lbs (152.0 kg)
+
+Tyranitar	8¡Ç2¡È (2.49m)	562.2 lbs (255.0 kg)
+Mega Tyranitar
+Tyranitar	6¡Ç7¡È (2.01m)	445.3 lbs (202.0 kg)
+
+Lugia	17¡Ç1¡È (5.21m)	476.2 lbs (216.0 kg)
+
+Ho-oh	12¡Ç6¡È (3.81m)	438.7 lbs (199.0 kg)
+
+Celebi	2¡Ç0¡È (0.61m)	11 lbs (5.0 kg)
+
+Treecko	1¡Ç8¡È (0.51m)	11 lbs (5.0 kg)
+Grovyle	2¡Ç11¡È (0.89m)	47.6 lbs (21.6 kg)
+Sceptile	6¡Ç3¡È (1.91m)	121.7 lbs (55.2 kg)
+Mega Sceptile
+Sceptile	5¡Ç7¡È (1.70m)	115.1 lbs (52.2 kg)
+Torchic	1¡Ç4¡È (0.41m)	5.5 lbs (2.5 kg)
+Combusken	2¡Ç11¡È (0.89m)	43 lbs (19.5 kg)
+
+Blaziken	6¡Ç3¡È (1.91m)	114.6 lbs (52.0 kg)
+Mega Blaziken
+Blaziken	6¡Ç3¡È (1.91m)	114.6 lbs (52.0 kg)
+
+Mudkip	1¡Ç4¡È (0.41m)	16.8 lbs (7.6 kg)
+Marshtomp	2¡Ç4¡È (0.71m)	61.7 lbs (28.0 kg)
+
+Swampert	4¡Ç11¡È (1.50m)	180.6 lbs (81.9 kg)
+
+Swampert	6¡Ç3¡È (1.91m)	224.9 lbs (102.0 kg)
+Mega Swampert
+Poochyena	1¡Ç8¡È (0.51m)	30 lbs (13.6 kg)
+Mightyena	3¡Ç3¡È (0.99m)	81.6 lbs (37.0 kg)
+Zigzagoon	1¡Ç4¡È (0.41m)	38.6 lbs (17.5 kg)
+Linoone	1¡Ç8¡È (0.51m)	71.7 lbs (32.5 kg)
+Wurmple	1¡Ç0¡È (0.30m)	7.9 lbs (3.6 kg)
+Silcoon	2¡Ç0¡È (0.61m)	22 lbs (10.0 kg)
+Beautifly	3¡Ç3¡È (0.99m)	62.6 lbs (28.4 kg)
+
+Cascoon	2¡Ç4¡È (0.71m)	25.4 lbs (11.5 kg)
+Dustox	3¡Ç11¡È (1.19m)	69.7 lbs (31.6 kg)
+
+Lotad	1¡Ç8¡È (0.51m)	5.7 lbs (2.6 kg)
+
+Lombre	3¡Ç11¡È (1.19m)	71.7 lbs (32.5 kg)
+
+Ludicolo	4¡Ç11¡È (1.50m)	121.3 lbs (55.0 kg)
+
+Seedot	1¡Ç8¡È (0.51m)	8.8 lbs (4.0 kg)
+Nuzleaf	3¡Ç3¡È (0.99m)	61.7 lbs (28.0 kg)
+
+Shiftry	4¡Ç3¡È (1.30m)	131.4 lbs (59.6 kg)
+
+Taillow	1¡Ç0¡È (0.30m)	5.1 lbs (2.3 kg)
+
+Swellow	2¡Ç4¡È (0.71m)	43.7 lbs (19.8 kg)
+
+Wingull	2¡Ç0¡È (0.61m)	20.9 lbs (9.5 kg)
+
+Pelipper	3¡Ç11¡È (1.19m)	61.7 lbs (28.0 kg)
+
+Ralts	1¡Ç4¡È (0.41m)	14.6 lbs (6.6 kg)
+
+Kirlia	2¡Ç7¡È (0.79m)	44.5 lbs (20.2 kg)
+
+Gardevoir	5¡Ç3¡È (1.60m)	106.7 lbs (48.4 kg)
+
+Gardevoir	5¡Ç3¡È (1.60m)	106.7 lbs (48.4 kg)
+Mega Gardevoir
+Surskit	1¡Ç8¡È (0.51m)	3.7 lbs (1.7 kg)
+
+Masquerain	2¡Ç7¡È (0.79m)	7.9 lbs (3.6 kg)
+
+Shroomish	1¡Ç4¡È (0.41m)	9.9 lbs (4.5 kg)
+Breloom	3¡Ç11¡È (1.19m)	86.4 lbs (39.2 kg)
+
+Slakoth	2¡Ç7¡È (0.79m)	52.9 lbs (24.0 kg)
+Vigoroth	4¡Ç7¡È (1.40m)	102.5 lbs (46.5 kg)
+Slaking	6¡Ç7¡È (2.01m)	287.7 lbs (130.5 kg)
+Nincada	1¡Ç8¡È (0.51m)	12.1 lbs (5.5 kg)
+
+Ninjask	2¡Ç7¡È (0.79m)	26.5 lbs (12.0 kg)
+
+Shedinja	2¡Ç7¡È (0.79m)	2.6 lbs (1.2 kg)
+
+Whismur	2¡Ç0¡È (0.61m)	35.9 lbs (16.3 kg)
+Loudred	3¡Ç3¡È (0.99m)	89.3 lbs (40.5 kg)
+Exploud	4¡Ç11¡È (1.50m)	185.2 lbs (84.0 kg)
+Makuhita	3¡Ç3¡È (0.99m)	190.5 lbs (86.4 kg)
+Hariyama	7¡Ç7¡È (2.31m)	559.5 lbs (253.8 kg)
+Azurill	0¡Ç8¡È (0.20m)	4.4 lbs (2.0 kg)
+
+Nosepass	3¡Ç3¡È (0.99m)	213.8 lbs (97.0 kg)
+Skitty	2¡Ç0¡È (0.61m)	24.3 lbs (11.0 kg)
+Delcatty	3¡Ç7¡È (1.09m)	71.9 lbs (32.6 kg)
+Sableye	1¡Ç8¡È (0.51m)	24.3 lbs (11.0 kg)
+
+Sableye	1¡Ç8¡È (0.51m)	354.9 lbs (161.0 kg)
+Mega Sableye
+Mawile	3¡Ç3¡È (0.99m)	51.8 lbs (23.5 kg)
+Mega Mawile
+Mawile	2¡Ç0¡È (0.61m)	25.4 lbs (11.5 kg)
+
+Aron	1¡Ç4¡È (0.41m)	132.3 lbs (60.0 kg)
+
+Lairon	2¡Ç11¡È (0.89m)	264.6 lbs (120.0 kg)
+
+Aggron	6¡Ç11¡È (2.11m)	793.7 lbs (360.0 kg)
+
+Aggron	7¡Ç3¡È (2.21m)	870.8 lbs (395.0 kg)
+Mega Aggron
+Meditite	2¡Ç0¡È (0.61m)	24.7 lbs (11.2 kg)
+
+Medicham	4¡Ç3¡È (1.30m)	69.4 lbs (31.5 kg)
+
+Medicham	4¡Ç3¡È (1.30m)	69.4 lbs (31.5 kg)
+Mega Medicham
+Electrike	2¡Ç0¡È (0.61m)	33.5 lbs (15.2 kg)
+Manectric	4¡Ç11¡È (1.50m)	88.6 lbs (40.2 kg)
+Manectric	5¡Ç11¡È (1.80m)	97 lbs (44.0 kg)
+Mega Manectric
+Plusle	1¡Ç4¡È (0.41m)	9.3 lbs (4.2 kg)
+Minun	1¡Ç4¡È (0.41m)	9.3 lbs (4.2 kg)
+Volbeat	2¡Ç4¡È (0.71m)	39 lbs (17.7 kg)
+Illumise	2¡Ç0¡È (0.61m)	39 lbs (17.7 kg)
+Roselia	1¡Ç0¡È (0.30m)	4.4 lbs (2.0 kg)
+
+Gulpin	1¡Ç4¡È (0.41m)	22.7 lbs (10.3 kg)
+Swalot	5¡Ç7¡È (1.70m)	176.4 lbs (80.0 kg)
+Carvanha	2¡Ç7¡È (0.79m)	45.9 lbs (20.8 kg)
+
+Sharpedo	5¡Ç11¡È (1.80m)	195.8 lbs (88.8 kg)
+
+Sharpedo	8¡Ç2¡È (2.49m)	287.3 lbs (130.3 kg)
+Mega Sharpedo
+Wailmer	6¡Ç7¡È (2.01m)	286.6 lbs (130.0 kg)
+Wailord	47¡Ç7¡È (14.50m)	877.4 lbs (398.0 kg)
+Numel	2¡Ç4¡È (0.71m)	52.9 lbs (24.0 kg)
+
+Camerupt	6¡Ç3¡È (1.91m)	485 lbs (220.0 kg)
+
+Camerupt	8¡Ç2¡È (2.49m)	706.6 lbs (320.5 kg)
+Mega Camerupt
+Torkoal	1¡Ç8¡È (0.51m)	177.3 lbs (80.4 kg)
+Spoink	2¡Ç4¡È (0.71m)	67.5 lbs (30.6 kg)
+Grumpig	2¡Ç11¡È (0.89m)	157.6 lbs (71.5 kg)
+Spinda	3¡Ç7¡È (1.09m)	11 lbs (5.0 kg)
+Trapinch	2¡Ç4¡È (0.71m)	33.1 lbs (15.0 kg)
+Vibrava	3¡Ç7¡È (1.09m)	33.7 lbs (15.3 kg)
+
+Flygon	6¡Ç7¡È (2.01m)	180.8 lbs (82.0 kg)
+
+Cacnea	1¡Ç4¡È (0.41m)	113.1 lbs (51.3 kg)
+Cacturne	4¡Ç3¡È (1.30m)	170.6 lbs (77.4 kg)
+
+Swablu	1¡Ç4¡È (0.41m)	2.6 lbs (1.2 kg)
+
+Altaria	4¡Ç11¡È (1.50m)	45.4 lbs (20.6 kg)
+Mega Altaria
+Altaria	3¡Ç7¡È (1.09m)	45.4 lbs (20.6 kg)
+
+Zangoose	4¡Ç3¡È (1.30m)	88.8 lbs (40.3 kg)
+Seviper	8¡Ç10¡È (2.69m)	115.7 lbs (52.5 kg)
+Lunatone	3¡Ç3¡È (0.99m)	370.4 lbs (168.0 kg)
+
+Solrock	3¡Ç11¡È (1.19m)	339.5 lbs (154.0 kg)
+
+Barboach	1¡Ç4¡È (0.41m)	4.2 lbs (1.9 kg)
+
+Whiscash	2¡Ç11¡È (0.89m)	52 lbs (23.6 kg)
+
+Corphish	2¡Ç0¡È (0.61m)	25.4 lbs (11.5 kg)
+Crawdaunt	3¡Ç7¡È (1.09m)	72.3 lbs (32.8 kg)
+
+Baltoy	1¡Ç8¡È (0.51m)	47.4 lbs (21.5 kg)
+
+Claydol	4¡Ç11¡È (1.50m)	238.1 lbs (108.0 kg)
+
+Lileep	3¡Ç3¡È (0.99m)	52.5 lbs (23.8 kg)
+
+Cradily	4¡Ç11¡È (1.50m)	133.2 lbs (60.4 kg)
+
+Anorith	2¡Ç4¡È (0.71m)	27.6 lbs (12.5 kg)
+
+Armaldo	4¡Ç11¡È (1.50m)	150.4 lbs (68.2 kg)
+
+Feebas	2¡Ç0¡È (0.61m)	16.3 lbs (7.4 kg)
+Milotic	20¡Ç4¡È (6.20m)	357.1 lbs (162.0 kg)
+Castform	1¡Ç0¡È (0.30m)	1.8 lbs (0.8 kg)
+Kecleon	3¡Ç3¡È (0.99m)	48.5 lbs (22.0 kg)
+Shuppet	2¡Ç0¡È (0.61m)	5.1 lbs (2.3 kg)
+Banette	3¡Ç7¡È (1.09m)	27.6 lbs (12.5 kg)
+Banette	3¡Ç11¡È (1.19m)	28.7 lbs (13.0 kg)
+Mega Banette
+Duskull	2¡Ç7¡È (0.79m)	33.1 lbs (15.0 kg)
+Dusclops	5¡Ç3¡È (1.60m)	67.5 lbs (30.6 kg)
+Tropius	6¡Ç7¡È (2.01m)	220.5 lbs (100.0 kg)
+
+Chimecho	2¡Ç0¡È (0.61m)	2.2 lbs (1.0 kg)
+Absol	3¡Ç11¡È (1.19m)	103.6 lbs (47.0 kg)
+Absol	3¡Ç11¡È (1.19m)	108 lbs (49.0 kg)
+Mega Absol
+Wynaut	2¡Ç0¡È (0.61m)	30.9 lbs (14.0 kg)
+Snorunt	2¡Ç4¡È (0.71m)	37 lbs (16.8 kg)
+Glalie	6¡Ç11¡È (2.11m)	772.1 lbs (350.2 kg)
+Mega Glalie
+Glalie	4¡Ç11¡È (1.50m)	565.5 lbs (256.5 kg)
+Spheal	2¡Ç7¡È (0.79m)	87.1 lbs (39.5 kg)
+
+Sealeo	3¡Ç7¡È (1.09m)	193.1 lbs (87.6 kg)
+
+Walrein	4¡Ç7¡È (1.40m)	332 lbs (150.6 kg)
+
+Clamperl	1¡Ç4¡È (0.41m)	115.7 lbs (52.5 kg)
+Huntail	5¡Ç7¡È (1.70m)	59.5 lbs (27.0 kg)
+Gorebyss	5¡Ç11¡È (1.80m)	49.8 lbs (22.6 kg)
+Relicanth	3¡Ç3¡È (0.99m)	51.6 lbs (23.4 kg)
+
+Luvdisc	2¡Ç0¡È (0.61m)	19.2 lbs (8.7 kg)
+Bagon	2¡Ç0¡È (0.61m)	92.8 lbs (42.1 kg)
+Shelgon	3¡Ç7¡È (1.09m)	243.6 lbs (110.5 kg)
+Salamence	5¡Ç11¡È (1.80m)	248.2 lbs (112.6 kg)
+Mega Salamence
+Salamence	4¡Ç11¡È (1.50m)	226.2 lbs (102.6 kg)
+
+Beldum	2¡Ç0¡È (0.61m)	209.9 lbs (95.2 kg)
+
+Metang	3¡Ç11¡È (1.19m)	446.4 lbs (202.5 kg)
+
+Metagross	8¡Ç2¡È (2.49m)	2078.7 lbs (942.9 kg)
+Mega Metagross
+Metagross	5¡Ç3¡È (1.60m)	1212.5 lbs (550.0 kg)
+
+Regirock	5¡Ç7¡È (1.70m)	507.1 lbs (230.0 kg)
+Regice	5¡Ç11¡È (1.80m)	385.8 lbs (175.0 kg)
+Registeel	6¡Ç3¡È (1.91m)	451.9 lbs (205.0 kg)
+Latias	4¡Ç7¡È (1.40m)	88.2 lbs (40.0 kg)
+
+Latias	5¡Ç11¡È (1.80m)	114.6 lbs (52.0 kg)
+Mega Latias
+Latios	6¡Ç7¡È (2.01m)	132.3 lbs (60.0 kg)
+
+Latios	7¡Ç7¡È (2.31m)	154.3 lbs (70.0 kg)
+Mega Latios
+Kyogre	14¡Ç9¡È (4.50m)	776 lbs (352.0 kg)
+Kyogre	32¡Ç1¡È (9.78m)	948 lbs (430.0 kg)
+Primal Kyogre
+Groudon	11¡Ç6¡È (3.51m)	2094.4 lbs (950.0 kg)
+Groudon	16¡Ç5¡È (5.00m)	2204.4 lbs (999.9 kg)
+Primal Groudon
+Rayquaza	23¡Ç0¡È (7.01m)	455.3 lbs (206.5 kg)
+
+Rayquaza	35¡Ç5¡È (10.79m)	864.2 lbs (392.0 kg)
+Mega Rayquaza
+Jirachi	1¡Ç0¡È (0.30m)	2.4 lbs (1.1 kg)
+
+Deoxys	5¡Ç7¡È (1.70m)	134 lbs (60.8 kg)
+Normal Forme
+Deoxys	5¡Ç7¡È (1.70m)	134 lbs (60.8 kg)
+Attack Forme
+Deoxys	5¡Ç7¡È (1.70m)	134 lbs (60.8 kg)
+Defense Forme
+Deoxys	5¡Ç7¡È (1.70m)	134 lbs (60.8 kg)
+Speed Forme
+Turtwig	1¡Ç4¡È (0.41m)	22.5 lbs (10.2 kg)
+Grotle	3¡Ç7¡È (1.09m)	213.8 lbs (97.0 kg)
+Torterra	7¡Ç3¡È (2.21m)	683.4 lbs (310.0 kg)
+
+Chimchar	1¡Ç8¡È (0.51m)	13.7 lbs (6.2 kg)
+Monferno	2¡Ç11¡È (0.89m)	48.5 lbs (22.0 kg)
+
+Infernape	3¡Ç11¡È (1.19m)	121.3 lbs (55.0 kg)
+
+Piplup	1¡Ç4¡È (0.41m)	11.5 lbs (5.2 kg)
+Prinplup	2¡Ç7¡È (0.79m)	50.7 lbs (23.0 kg)
+Empoleon	5¡Ç7¡È (1.70m)	186.3 lbs (84.5 kg)
+
+Starly	1¡Ç0¡È (0.30m)	4.4 lbs (2.0 kg)
+
+Staravia	2¡Ç0¡È (0.61m)	34.2 lbs (15.5 kg)
+
+Staraptor	3¡Ç11¡È (1.19m)	54.9 lbs (24.9 kg)
+
+Bidoof	1¡Ç8¡È (0.51m)	44.1 lbs (20.0 kg)
+Bibarel	3¡Ç3¡È (0.99m)	69.4 lbs (31.5 kg)
+
+Kricketot	1¡Ç0¡È (0.30m)	4.9 lbs (2.2 kg)
+Kricketune	3¡Ç3¡È (0.99m)	56.2 lbs (25.5 kg)
+Shinx	1¡Ç8¡È (0.51m)	20.9 lbs (9.5 kg)
+Luxio	2¡Ç11¡È (0.89m)	67.2 lbs (30.5 kg)
+Luxray	4¡Ç7¡È (1.40m)	92.6 lbs (42.0 kg)
+Budew	0¡Ç8¡È (0.20m)	2.6 lbs (1.2 kg)
+
+Roserade	2¡Ç11¡È (0.89m)	32 lbs (14.5 kg)
+
+Cranidos	2¡Ç11¡È (0.89m)	69.4 lbs (31.5 kg)
+Rampardos	5¡Ç3¡È (1.60m)	226 lbs (102.5 kg)
+Shieldon	1¡Ç8¡È (0.51m)	125.7 lbs (57.0 kg)
+
+Bastiodon	4¡Ç3¡È (1.30m)	329.6 lbs (149.5 kg)
+
+Burmy	0¡Ç8¡È (0.20m)	7.5 lbs (3.4 kg)
+Wormadam	1¡Ç8¡È (0.51m)	14.3 lbs (6.5 kg)
+Trash Cloak
+Wormadam	1¡Ç8¡È (0.51m)	14.3 lbs (6.5 kg)
+Plant Cloak
+Wormadam	1¡Ç8¡È (0.51m)	14.3 lbs (6.5 kg)
+Sandy Cloak
+Mothim	2¡Ç11¡È (0.89m)	51.4 lbs (23.3 kg)
+
+Combee	1¡Ç0¡È (0.30m)	12.1 lbs (5.5 kg)
+
+Vespiquen	3¡Ç11¡È (1.19m)	84.9 lbs (38.5 kg)
+
+Pachirisu	1¡Ç4¡È (0.41m)	8.6 lbs (3.9 kg)
+Buizel	2¡Ç4¡È (0.71m)	65 lbs (29.5 kg)
+Floatzel	3¡Ç7¡È (1.09m)	73.9 lbs (33.5 kg)
+Cherubi	1¡Ç4¡È (0.41m)	7.3 lbs (3.3 kg)
+Cherrim	1¡Ç8¡È (0.51m)	20.5 lbs (9.3 kg)
+Shellos	1¡Ç0¡È (0.30m)	13.9 lbs (6.3 kg)
+Gastrodon	2¡Ç11¡È (0.89m)	65.9 lbs (29.9 kg)
+
+Ambipom	3¡Ç11¡È (1.19m)	44.8 lbs (20.3 kg)
+Drifloon	1¡Ç4¡È (0.41m)	2.6 lbs (1.2 kg)
+
+Drifblim	3¡Ç11¡È (1.19m)	33.1 lbs (15.0 kg)
+
+Buneary	1¡Ç4¡È (0.41m)	12.1 lbs (5.5 kg)
+Lopunny	3¡Ç11¡È (1.19m)	73.4 lbs (33.3 kg)
+Lopunny	4¡Ç3¡È (1.30m)	62.4 lbs (28.3 kg)
+Mega Lopunny
+Mismagius	2¡Ç11¡È (0.89m)	9.7 lbs (4.4 kg)
+Honchkrow	2¡Ç11¡È (0.89m)	60.2 lbs (27.3 kg)
+
+Glameow	1¡Ç8¡È (0.51m)	8.6 lbs (3.9 kg)
+Purugly	3¡Ç3¡È (0.99m)	96.6 lbs (43.8 kg)
+Chingling	0¡Ç8¡È (0.20m)	1.3 lbs (0.6 kg)
+Stunky	1¡Ç4¡È (0.41m)	42.3 lbs (19.2 kg)
+
+Skuntank	3¡Ç3¡È (0.99m)	83.8 lbs (38.0 kg)
+
+Bronzor	1¡Ç8¡È (0.51m)	133.4 lbs (60.5 kg)
+
+Bronzong	4¡Ç3¡È (1.30m)	412.3 lbs (187.0 kg)
+
+Bonsly	1¡Ç8¡È (0.51m)	33.1 lbs (15.0 kg)
+Mime Jr.	2¡Ç0¡È (0.61m)	28.7 lbs (13.0 kg)
+
+Happiny	2¡Ç0¡È (0.61m)	53.8 lbs (24.4 kg)
+Chatot	1¡Ç8¡È (0.51m)	4.2 lbs (1.9 kg)
+
+Spiritomb	3¡Ç3¡È (0.99m)	238.1 lbs (108.0 kg)
+
+Gible	2¡Ç4¡È (0.71m)	45.2 lbs (20.5 kg)
+
+Gabite	4¡Ç7¡È (1.40m)	123.5 lbs (56.0 kg)
+
+Garchomp	6¡Ç3¡È (1.91m)	209.4 lbs (95.0 kg)
+Mega Garchomp
+Garchomp	6¡Ç3¡È (1.91m)	209.4 lbs (95.0 kg)
+
+Munchlax	2¡Ç0¡È (0.61m)	231.5 lbs (105.0 kg)
+Riolu	2¡Ç4¡È (0.71m)	44.5 lbs (20.2 kg)
+Lucario	3¡Ç11¡È (1.19m)	119 lbs (54.0 kg)
+
+Lucario	4¡Ç3¡È (1.30m)	126.8 lbs (57.5 kg)
+Mega Lucario
+Hippopotas	2¡Ç7¡È (0.79m)	109.1 lbs (49.5 kg)
+Hippowdon	6¡Ç7¡È (2.01m)	661.4 lbs (300.0 kg)
+Skorupi	2¡Ç7¡È (0.79m)	26.5 lbs (12.0 kg)
+
+Drapion	4¡Ç3¡È (1.30m)	135.6 lbs (61.5 kg)
+
+Croagunk	2¡Ç4¡È (0.71m)	50.7 lbs (23.0 kg)
+
+Toxicroak	4¡Ç3¡È (1.30m)	97.9 lbs (44.4 kg)
+
+Carnivine	4¡Ç7¡È (1.40m)	59.5 lbs (27.0 kg)
+Finneon	1¡Ç4¡È (0.41m)	15.4 lbs (7.0 kg)
+Lumineon	3¡Ç11¡È (1.19m)	52.9 lbs (24.0 kg)
+Mantyke	3¡Ç3¡È (0.99m)	143.3 lbs (65.0 kg)
+
+Snover	3¡Ç3¡È (0.99m)	111.3 lbs (50.5 kg)
+
+Abomasnow	7¡Ç3¡È (2.21m)	298.7 lbs (135.5 kg)
+
+Abomasnow	8¡Ç10¡È (2.69m)	407.8 lbs (185.0 kg)
+Mega Abomasnow
+Weavile	3¡Ç7¡È (1.09m)	75 lbs (34.0 kg)
+
+Magnezone	3¡Ç11¡È (1.19m)	396.8 lbs (180.0 kg)
+
+Lickilicky	5¡Ç7¡È (1.70m)	308.6 lbs (140.0 kg)
+Rhyperior	7¡Ç10¡È (2.39m)	623.5 lbs (282.8 kg)
+
+Tangrowth	6¡Ç7¡È (2.01m)	283.5 lbs (128.6 kg)
+Electivire	5¡Ç11¡È (1.80m)	305.6 lbs (138.6 kg)
+Magmortar	5¡Ç3¡È (1.60m)	149.9 lbs (68.0 kg)
+Togekiss	4¡Ç11¡È (1.50m)	83.8 lbs (38.0 kg)
+
+Yanmega	6¡Ç3¡È (1.91m)	113.5 lbs (51.5 kg)
+
+Leafeon	3¡Ç3¡È (0.99m)	56.2 lbs (25.5 kg)
+Glaceon	2¡Ç7¡È (0.79m)	57.1 lbs (25.9 kg)
+Gliscor	6¡Ç7¡È (2.01m)	93.7 lbs (42.5 kg)
+
+Mamoswine	8¡Ç2¡È (2.49m)	641.5 lbs (291.0 kg)
+
+Porygon-Z	2¡Ç11¡È (0.89m)	75 lbs (34.0 kg)
+Gallade	5¡Ç3¡È (1.60m)	114.6 lbs (52.0 kg)
+
+Gallade	5¡Ç3¡È (1.60m)	124.3 lbs (56.4 kg)
+Mega Gallade
+Probopass	4¡Ç7¡È (1.40m)	749.6 lbs (340.0 kg)
+
+Dusknoir	7¡Ç3¡È (2.21m)	235 lbs (106.6 kg)
+Froslass	4¡Ç3¡È (1.30m)	58.6 lbs (26.6 kg)
+
+Rotom	1¡Ç0¡È (0.30m)	0.7 lbs (0.3 kg)
+Wash Rotom
+Rotom	1¡Ç0¡È (0.30m)	0.7 lbs (0.3 kg)
+Frost Rotom
+Rotom	1¡Ç0¡È (0.30m)	0.7 lbs (0.3 kg)
+Fan Rotom
+Rotom	1¡Ç0¡È (0.30m)	0.7 lbs (0.3 kg)
+Mow Rotom
+Rotom	1¡Ç0¡È (0.30m)	0.7 lbs (0.3 kg)
+Heat Rotom
+Rotom	1¡Ç0¡È (0.30m)	0.7 lbs (0.3 kg)
+
+Uxie	1¡Ç0¡È (0.30m)	0.7 lbs (0.3 kg)
+Mesprit	1¡Ç0¡È (0.30m)	0.7 lbs (0.3 kg)
+Azelf	1¡Ç0¡È (0.30m)	0.7 lbs (0.3 kg)
+Dialga	17¡Ç9¡È (5.41m)	1505.8 lbs (683.0 kg)
+
+Palkia	13¡Ç9¡È (4.19m)	740.8 lbs (336.0 kg)
+
+Heatran	5¡Ç7¡È (1.70m)	948 lbs (430.0 kg)
+
+Regigigas	12¡Ç2¡È (3.71m)	925.9 lbs (420.0 kg)
+Giratina	22¡Ç8¡È (6.91m)	1433 lbs (650.0 kg)
+Origin Forme
+Giratina	14¡Ç9¡È (4.50m)	1653.5 lbs (750.0 kg)
+Altered Forme
+Cresselia	4¡Ç11¡È (1.50m)	188.7 lbs (85.6 kg)
+Phione	1¡Ç4¡È (0.41m)	6.8 lbs (3.1 kg)
+Manaphy	1¡Ç0¡È (0.30m)	3.1 lbs (1.4 kg)
+Darkrai	4¡Ç11¡È (1.50m)	111.3 lbs (50.5 kg)
+Shaymin	0¡Ç8¡È (0.20m)	4.6 lbs (2.1 kg)
+Land Forme
+Shaymin	1¡Ç4¡È (0.41m)	11.5 lbs (5.2 kg)
+Sky Forme
+Arceus	10¡Ç6¡È (3.20m)	705.5 lbs (320.0 kg)
+Victini	1¡Ç4¡È (0.41m)	8.8 lbs (4.0 kg)
+
+Snivy	2¡Ç0¡È (0.61m)	17.9 lbs (8.1 kg)
+Servine	2¡Ç7¡È (0.79m)	35.3 lbs (16.0 kg)
+Serperior	10¡Ç10¡È (3.30m)	138.9 lbs (63.0 kg)
+Tepig	1¡Ç8¡È (0.51m)	21.8 lbs (9.9 kg)
+Pignite	3¡Ç3¡È (0.99m)	122.4 lbs (55.5 kg)
+
+Emboar	5¡Ç3¡È (1.60m)	330.7 lbs (150.0 kg)
+
+Oshawott	1¡Ç8¡È (0.51m)	13 lbs (5.9 kg)
+Dewott	2¡Ç7¡È (0.79m)	54 lbs (24.5 kg)
+Samurott	4¡Ç11¡È (1.50m)	208.6 lbs (94.6 kg)
+Patrat	1¡Ç8¡È (0.51m)	25.6 lbs (11.6 kg)
+Watchog	3¡Ç7¡È (1.09m)	59.5 lbs (27.0 kg)
+Lillipup	1¡Ç4¡È (0.41m)	9 lbs (4.1 kg)
+Herdier	2¡Ç11¡È (0.89m)	32.4 lbs (14.7 kg)
+Stoutland	3¡Ç11¡È (1.19m)	134.5 lbs (61.0 kg)
+Purrloin	1¡Ç4¡È (0.41m)	22.3 lbs (10.1 kg)
+Liepard	3¡Ç7¡È (1.09m)	82.7 lbs (37.5 kg)
+Pansage	2¡Ç0¡È (0.61m)	23.1 lbs (10.5 kg)
+Simisage	3¡Ç7¡È (1.09m)	67.2 lbs (30.5 kg)
+Pansear	2¡Ç0¡È (0.61m)	24.3 lbs (11.0 kg)
+Simisear	3¡Ç3¡È (0.99m)	61.7 lbs (28.0 kg)
+Panpour	2¡Ç0¡È (0.61m)	29.8 lbs (13.5 kg)
+Simipour	3¡Ç3¡È (0.99m)	63.9 lbs (29.0 kg)
+Munna	2¡Ç0¡È (0.61m)	51.4 lbs (23.3 kg)
+Musharna	3¡Ç7¡È (1.09m)	133.4 lbs (60.5 kg)
+Pidove	1¡Ç0¡È (0.30m)	4.6 lbs (2.1 kg)
+
+Tranquill	2¡Ç0¡È (0.61m)	33.1 lbs (15.0 kg)
+
+Unfezant	3¡Ç11¡È (1.19m)	63.9 lbs (29.0 kg)
+
+Blitzle	2¡Ç7¡È (0.79m)	65.7 lbs (29.8 kg)
+Zebstrika	5¡Ç3¡È (1.60m)	175.3 lbs (79.5 kg)
+Roggenrola	1¡Ç4¡È (0.41m)	39.7 lbs (18.0 kg)
+Boldore	2¡Ç11¡È (0.89m)	224.9 lbs (102.0 kg)
+Gigalith	5¡Ç7¡È (1.70m)	573.2 lbs (260.0 kg)
+Woobat	1¡Ç4¡È (0.41m)	4.6 lbs (2.1 kg)
+
+Swoobat	2¡Ç11¡È (0.89m)	23.1 lbs (10.5 kg)
+
+Drilbur	1¡Ç0¡È (0.30m)	18.7 lbs (8.5 kg)
+Excadrill	2¡Ç4¡È (0.71m)	89.1 lbs (40.4 kg)
+
+Audino	4¡Ç11¡È (1.50m)	70.5 lbs (32.0 kg)
+Mega Audino
+Audino	3¡Ç7¡È (1.09m)	68.3 lbs (31.0 kg)
+Timburr	2¡Ç0¡È (0.61m)	27.6 lbs (12.5 kg)
+Gurdurr	3¡Ç11¡È (1.19m)	88.2 lbs (40.0 kg)
+Conkeldurr	4¡Ç7¡È (1.40m)	191.8 lbs (87.0 kg)
+Tympole	1¡Ç8¡È (0.51m)	9.9 lbs (4.5 kg)
+Palpitoad	2¡Ç7¡È (0.79m)	37.5 lbs (17.0 kg)
+
+Seismitoad	4¡Ç11¡È (1.50m)	136.7 lbs (62.0 kg)
+
+Throh	4¡Ç3¡È (1.30m)	122.4 lbs (55.5 kg)
+Sawk	4¡Ç7¡È (1.40m)	112.4 lbs (51.0 kg)
+Sewaddle	1¡Ç0¡È (0.30m)	5.5 lbs (2.5 kg)
+
+Swadloon	1¡Ç8¡È (0.51m)	16.1 lbs (7.3 kg)
+
+Leavanny	3¡Ç11¡È (1.19m)	45.2 lbs (20.5 kg)
+
+Venipede	1¡Ç4¡È (0.41m)	11.7 lbs (5.3 kg)
+
+Whirlipede	3¡Ç11¡È (1.19m)	129 lbs (58.5 kg)
+
+Scolipede	8¡Ç2¡È (2.49m)	442 lbs (200.5 kg)
+
+Cottonee	1¡Ç0¡È (0.30m)	1.3 lbs (0.6 kg)
+
+Whimsicott	2¡Ç4¡È (0.71m)	14.6 lbs (6.6 kg)
+
+Petilil	1¡Ç8¡È (0.51m)	14.6 lbs (6.6 kg)
+Lilligant	3¡Ç7¡È (1.09m)	35.9 lbs (16.3 kg)
+Basculin	3¡Ç3¡È (0.99m)	39.7 lbs (18.0 kg)
+Sandile	2¡Ç4¡È (0.71m)	33.5 lbs (15.2 kg)
+
+Krokorok	3¡Ç3¡È (0.99m)	73.6 lbs (33.4 kg)
+
+Krookodile	4¡Ç11¡È (1.50m)	212.3 lbs (96.3 kg)
+
+Darumaka	2¡Ç0¡È (0.61m)	82.7 lbs (37.5 kg)
+Darmanitan	4¡Ç3¡È (1.30m)	204.8 lbs (92.9 kg)
+Zen Mode
+Darmanitan	4¡Ç3¡È (1.30m)	204.8 lbs (92.9 kg)
+Standard Mode
+Maractus	3¡Ç3¡È (0.99m)	61.7 lbs (28.0 kg)
+Dwebble	1¡Ç0¡È (0.30m)	32 lbs (14.5 kg)
+
+Crustle	4¡Ç7¡È (1.40m)	440.9 lbs (200.0 kg)
+
+Scraggy	2¡Ç0¡È (0.61m)	26 lbs (11.8 kg)
+
+Scrafty	3¡Ç7¡È (1.09m)	66.1 lbs (30.0 kg)
+
+Sigilyph	4¡Ç7¡È (1.40m)	30.9 lbs (14.0 kg)
+
+Yamask	1¡Ç8¡È (0.51m)	3.3 lbs (1.5 kg)
+Cofagrigus	5¡Ç7¡È (1.70m)	168.7 lbs (76.5 kg)
+Tirtouga	2¡Ç4¡È (0.71m)	36.4 lbs (16.5 kg)
+
+Carracosta	3¡Ç11¡È (1.19m)	178.6 lbs (81.0 kg)
+
+Archen	1¡Ç8¡È (0.51m)	20.9 lbs (9.5 kg)
+
+Archeops	4¡Ç7¡È (1.40m)	70.5 lbs (32.0 kg)
+
+Trubbish	2¡Ç0¡È (0.61m)	68.3 lbs (31.0 kg)
+Garbodor	6¡Ç3¡È (1.91m)	236.6 lbs (107.3 kg)
+Zorua	2¡Ç4¡È (0.71m)	27.6 lbs (12.5 kg)
+Zoroark	5¡Ç3¡È (1.60m)	178.8 lbs (81.1 kg)
+Minccino	1¡Ç4¡È (0.41m)	12.8 lbs (5.8 kg)
+Cinccino	1¡Ç8¡È (0.51m)	16.5 lbs (7.5 kg)
+Gothita	1¡Ç4¡È (0.41m)	12.8 lbs (5.8 kg)
+Gothorita	2¡Ç4¡È (0.71m)	39.7 lbs (18.0 kg)
+Gothitelle	4¡Ç11¡È (1.50m)	97 lbs (44.0 kg)
+Solosis	1¡Ç0¡È (0.30m)	2.2 lbs (1.0 kg)
+Duosion	2¡Ç0¡È (0.61m)	17.6 lbs (8.0 kg)
+Reuniclus	3¡Ç3¡È (0.99m)	44.3 lbs (20.1 kg)
+Ducklett	1¡Ç8¡È (0.51m)	12.1 lbs (5.5 kg)
+
+Swanna	4¡Ç3¡È (1.30m)	53.4 lbs (24.2 kg)
+
+Vanillite	1¡Ç4¡È (0.41m)	12.6 lbs (5.7 kg)
+Vanillish	3¡Ç7¡È (1.09m)	90.4 lbs (41.0 kg)
+Vanilluxe	4¡Ç3¡È (1.30m)	126.8 lbs (57.5 kg)
+Deerling	2¡Ç0¡È (0.61m)	43 lbs (19.5 kg)
+
+Sawsbuck	6¡Ç3¡È (1.91m)	203.9 lbs (92.5 kg)
+
+Emolga	1¡Ç4¡È (0.41m)	11 lbs (5.0 kg)
+
+Karrablast	1¡Ç8¡È (0.51m)	13 lbs (5.9 kg)
+Escavalier	3¡Ç3¡È (0.99m)	72.8 lbs (33.0 kg)
+
+Foongus	0¡Ç8¡È (0.20m)	2.2 lbs (1.0 kg)
+
+Amoonguss	2¡Ç0¡È (0.61m)	23.1 lbs (10.5 kg)
+
+Frillish	3¡Ç11¡È (1.19m)	72.8 lbs (33.0 kg)
+
+Jellicent	7¡Ç3¡È (2.21m)	297.6 lbs (135.0 kg)
+
+Alomomola	3¡Ç11¡È (1.19m)	69.7 lbs (31.6 kg)
+Joltik	0¡Ç4¡È (0.10m)	1.3 lbs (0.6 kg)
+
+Galvantula	2¡Ç7¡È (0.79m)	31.5 lbs (14.3 kg)
+
+Ferroseed	2¡Ç0¡È (0.61m)	41.4 lbs (18.8 kg)
+
+Ferrothorn	3¡Ç3¡È (0.99m)	242.5 lbs (110.0 kg)
+
+Klink	1¡Ç0¡È (0.30m)	46.3 lbs (21.0 kg)
+Klang	2¡Ç0¡È (0.61m)	112.4 lbs (51.0 kg)
+Klinklang	2¡Ç0¡È (0.61m)	178.6 lbs (81.0 kg)
+Tynamo	0¡Ç8¡È (0.20m)	0.7 lbs (0.3 kg)
+Eelektrik	3¡Ç11¡È (1.19m)	48.5 lbs (22.0 kg)
+Eelektross	6¡Ç11¡È (2.11m)	177.5 lbs (80.5 kg)
+Elgyem	1¡Ç8¡È (0.51m)	19.8 lbs (9.0 kg)
+Beheeyem	3¡Ç3¡È (0.99m)	76.1 lbs (34.5 kg)
+Litwick	1¡Ç0¡È (0.30m)	6.8 lbs (3.1 kg)
+
+Lampent	2¡Ç0¡È (0.61m)	28.7 lbs (13.0 kg)
+
+Chandelure	3¡Ç3¡È (0.99m)	75.6 lbs (34.3 kg)
+
+Axew	2¡Ç0¡È (0.61m)	39.7 lbs (18.0 kg)
+Fraxure	3¡Ç3¡È (0.99m)	79.4 lbs (36.0 kg)
+Haxorus	5¡Ç11¡È (1.80m)	232.6 lbs (105.5 kg)
+Cubchoo	1¡Ç8¡È (0.51m)	18.7 lbs (8.5 kg)
+Beartic	8¡Ç6¡È (2.59m)	573.2 lbs (260.0 kg)
+Cryogonal	3¡Ç7¡È (1.09m)	326.3 lbs (148.0 kg)
+Shelmet	1¡Ç4¡È (0.41m)	17 lbs (7.7 kg)
+Accelgor	2¡Ç7¡È (0.79m)	55.8 lbs (25.3 kg)
+Stunfisk	2¡Ç4¡È (0.71m)	24.3 lbs (11.0 kg)
+
+Mienfoo	2¡Ç11¡È (0.89m)	44.1 lbs (20.0 kg)
+Mienshao	4¡Ç7¡È (1.40m)	78.3 lbs (35.5 kg)
+Druddigon	5¡Ç3¡È (1.60m)	306.4 lbs (139.0 kg)
+Golett	3¡Ç3¡È (0.99m)	202.8 lbs (92.0 kg)
+
+Golurk	9¡Ç2¡È (2.79m)	727.5 lbs (330.0 kg)
+
+Pawniard	1¡Ç8¡È (0.51m)	22.5 lbs (10.2 kg)
+
+Bisharp	5¡Ç3¡È (1.60m)	154.3 lbs (70.0 kg)
+
+Bouffalant	5¡Ç3¡È (1.60m)	208.6 lbs (94.6 kg)
+Rufflet	1¡Ç8¡È (0.51m)	23.1 lbs (10.5 kg)
+
+Braviary	4¡Ç11¡È (1.50m)	90.4 lbs (41.0 kg)
+
+Vullaby	1¡Ç8¡È (0.51m)	19.8 lbs (9.0 kg)
+
+Mandibuzz	3¡Ç11¡È (1.19m)	87.1 lbs (39.5 kg)
+
+Heatmor	4¡Ç7¡È (1.40m)	127.9 lbs (58.0 kg)
+Durant	1¡Ç0¡È (0.30m)	72.8 lbs (33.0 kg)
+
+Deino	2¡Ç7¡È (0.79m)	38.1 lbs (17.3 kg)
+
+Zweilous	4¡Ç7¡È (1.40m)	110.2 lbs (50.0 kg)
+
+Hydreigon	5¡Ç11¡È (1.80m)	352.7 lbs (160.0 kg)
+
+Larvesta	3¡Ç7¡È (1.09m)	63.5 lbs (28.8 kg)
+
+Volcarona	5¡Ç3¡È (1.60m)	101.4 lbs (46.0 kg)
+
+Cobalion	6¡Ç11¡È (2.11m)	551.2 lbs (250.0 kg)
+
+Terrakion	6¡Ç3¡È (1.91m)	573.2 lbs (260.0 kg)
+
+Virizion	6¡Ç7¡È (2.01m)	440.9 lbs (200.0 kg)
+
+Tornadus	4¡Ç11¡È (1.50m)	138.9 lbs (63.0 kg)
+Incarnate Forme
+Tornadus	4¡Ç7¡È (1.40m)	138.9 lbs (63.0 kg)
+Therian Forme
+Thundurus	4¡Ç11¡È (1.50m)	134.5 lbs (61.0 kg)
+Incarnate Forme
+Thundurus	9¡Ç10¡È (3.00m)	134.5 lbs (61.0 kg)
+Therian Forme
+Reshiram	10¡Ç6¡È (3.20m)	727.5 lbs (330.0 kg)
+
+Zekrom	9¡Ç6¡È (2.90m)	760.6 lbs (345.0 kg)
+
+Landorus	4¡Ç11¡È (1.50m)	149.9 lbs (68.0 kg)
+Incarnate Forme
+Landorus	4¡Ç3¡È (1.30m)	149.9 lbs (68.0 kg)
+Therian Forme
+Kyurem	9¡Ç10¡È (3.00m)	716.5 lbs (325.0 kg)
+
+Kyurem	10¡Ç10¡È (3.30m)	716.5 lbs (325.0 kg)
+Black Kyurem
+Kyurem	11¡Ç10¡È (3.61m)	716.5 lbs (325.0 kg)
+White Kyurem
+Keldeo	4¡Ç7¡È (1.40m)	106.9 lbs (48.5 kg)
+Ordinary Forme
+Keldeo	4¡Ç7¡È (1.40m)	106.9 lbs (48.5 kg)
+Resolute Forme
+Meloetta	2¡Ç0¡È (0.61m)	14.3 lbs (6.5 kg)
+Pirouette Forme
+Meloetta	2¡Ç0¡È (0.61m)	14.3 lbs (6.5 kg)
+Aria Forme
+Genesect	4¡Ç11¡È (1.50m)	181.9 lbs (82.5 kg)
+

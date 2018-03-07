@@ -1,0 +1,165 @@
+Air Lock	Eliminates the effects of weather.
+Arena Trap	Prevents the foe from fleeing.
+Battle Armor	The Pokemon is protected against critical hits.
+Blaze	Powers up Fire-type moves in a pinch.
+Cacophony	Avoids sound-based moves.
+Chlorophyll	Boosts the Pokemon's Speed in sunshine.
+Clear Body	Prevents the Pokemon's stats from being lowered.
+Cloud Nine	Eliminates the effects of weather.
+Color Change	Changes the Pokemon's type to the foe's move.
+Compound Eyes	The Pokemon's accuracy is boosted.
+Cute Charm	Contact with the Pokemon may cause infatuation.
+Damp	Prevents combatants from self destructing.
+Drizzle	The Pokemon makes it rain if it appears in battle.
+Drought	The Pokemon makes it sunny if it is in battle.
+Early Bird	The Pokemon awakens quickly from sleep.
+Effect Spore	Contact may paralyze, poison, or cause sleep.
+Flame Body	Contact with the Pokemon may burn the foe.
+Flash Fire	Powers up Fire-type moves if hit by a fire move.
+Forecast	Transforms with the weather.
+Guts	Boosts Attack if there is a status problem.
+Huge Power	Raises the Pokemon's Attack stat.
+Hustle	Boosts the Attack stat, but lowers accuracy.
+Hyper Cutter	Prevents the Attack stat from being lowered.
+Illuminate	Raises the likelihood of meeting wild Pokemon.
+Immunity	Prevents the Pokemon from getting poisoned.
+Inner Focus	The Pokemon is protected from flinching.
+Insomnia	Prevents the Pokemon from falling asleep.
+Intimidate	Lowers the foe's Attack stat.
+Keen Eye	Prevents the Pokemon from losing accuracy.
+Levitate	Gives full immunity to all Ground-type moves.
+Lightning Rod	The Pokemon draws in all Electric-type moves to raise Sp.Atk.
+Limber	The Pokemon is protected from paralysis.
+Liquid Ooze	Inflicts damage on foes using any draining move.
+Magma Armor	Prevents the Pokemon from becoming frozen.
+Magnet Pull	Prevents Steel-type Pokemon from escaping.
+Marvel Scale	Boosts Defense if there is a status problem.
+Minus	Boosts Sp. Atk if another Pokemon has Plus.
+Natural Cure	All status problems are healed upon switching out.
+Oblivious	Prevents the Pokemon from becoming infatuated or falling for taunts*.
+Overgrow	Powers up Grass-type moves in a pinch.
+Own Tempo	Prevents the Pokemon from becoming confused.
+Pickup	The Pokemon may pick up items.
+Plus	Boosts Sp. Atk if another Pokemon has Minus.
+Poison Point	Contact with the Pokemon may poison the foe.
+Pressure	The Pokemon raises the foe's PP usage.
+Pure Power	Boosts the power of physical attacks.
+Rain Dish	The Pokemon gradually recovers HP in rain.
+Rock Head	Protects the Pokemon from recoil damage.
+Rough Skin	Inflicts damage to the foe on contact.
+Run Away	Enables sure getaway from wild Pokemon.
+Sand Stream	The Pokemon summons a sandstorm in battle.
+Sand Veil	Boosts the Pokemon's evasion in a sandstorm.
+Serene Grace	Boosts the likelihood of added effects appearing.
+Shadow Tag	Prevents the foe from escaping.
+Shed Skin	The Pokemon may heal its own status problems.
+Shell Armor	The Pokemon is protected against critical hits.
+Shield Dust	Blocks the added effects of attacks taken.
+Soundproof	Gives full immunity to all sound-based moves.
+Speed Boost	The Pokemon's Speed stat is gradually boosted.
+Static	Contact with the Pokemon may cause paralysis.
+Stench	The stench may cause the target to flinch.
+Sticky Hold	Protects the Pokemon from item theft.
+Sturdy	The Pokemon is protected against 1-hit KO attacks.
+Suction Cups	Negates moves that force switching out.
+Swarm	Powers up Bug-type moves in a pinch.
+Swift Swim	Boosts the Pokemon's Speed in rain.
+Synchronize	Passes on a burn, poison, or paralysis to the foe.
+Thick Fat	Raises resistance to Fire- and Ice-type moves.
+Torrent	Powers up Water-type moves in a pinch.
+Trace	The Pokemon copies a foe's Ability.
+Truant	The Pokemon can't attack on consecutive turns.
+Vital Spirit	Prevents the Pokemon from falling asleep.
+Volt Absorb	Restores HP if hit by an Electric-type move.
+Water Absorb	Restores HP if hit by a Water-type move.
+Water Veil	Prevents the Pokemon from getting a burn.
+White Smoke	Prevents the Pokemon's stats from being lowered.
+Wonder Guard	Only supereffective moves will hit.
+Adaptability	Powers up moves of the same type.
+Aftermath	Damages the foe landing the finishing hit.
+Anger Point	Raises Attack upon taking a critical hit.
+Anticipation	Senses the foe's dangerous moves.
+Bad Dreams	Reduces a sleeping foe's HP.
+Download	Adjusts power according to the foe's lowest defensive stat.
+Dry Skin	Reduces HP if it is hot. Water restores HP.
+Filter	Powers down supereffective moves.
+Flower Gift	Powers up party Pokemon when it is sunny.
+Forewarn	Determines what moves the foe has.
+Frisk	The Pokemon can check the foe's held item.
+Gluttony	Encourages the early use of a held Berry.
+Heatproof	Weakens the power of Fire-type moves.
+Honey Gather	The Pokemon may gather Honey from somewhere.
+Hydration	Heals status problems if it is raining.
+Ice Body	The Pokemon regains HP in a hailstorm.
+Iron Fist	Boosts the power of punching moves.
+Klutz	The Pokemon can't use any held items.
+Leaf Guard	Prevents status problems in sunny weather.
+Magic Guard	The Pokemon only takes damage from attacks.
+Mold Breaker	Moves can be used regardless of Abilities.
+Motor Drive	Raises Speed if hit by an Electric-type move.
+Multitype	Changes type to match the held Plate.
+No Guard	Ensures the Pokemon and its foe's attacks land.
+Normalize	All the Pokemon's moves become Normal type.
+Poison Heal	Restores HP if the Pokemon is poisoned.
+Quick Feet	Boosts Speed if there is a status problem.
+Reckless	Powers up moves that have recoil damage.
+Rivalry	Raises Attack if the foe is of the same gender.
+Scrappy	Enables moves to hit Ghost-type foes.
+Simple	The Pokemon is prone to wild stat changes.
+Skill Link	Increases the frequency of multi-strike moves.
+Slow Start	Temporarily halves Attack and Speed.
+Sniper	Powers up moves if they become critical hits.
+Snow Cloak	Raises evasion in a hailstorm.
+Snow Warning	The Pokemon summons a hailstorm in battle.
+Solar Power	Boosts Sp. Atk, but lowers HP in sunshine.
+Solid Rock	Powers down supereffective moves.
+Stall	The Pokemon moves after even slower foes.
+Steadfast	Raises Speed each time the Pokemon flinches.
+Storm Drain	The Pokemon draws in all Water-type moves.
+Super Luck	Heightens the critical-hit ratios of moves.
+Tangled Feet	Raises evasion if the Pokemon is confused.
+Technician	Powers up the Pokemon's weaker moves.
+Tinted Lens	Powers up ¡°not very effective¡± moves.
+Unaware	Ignores any change in stats by the foe.
+Unburden	Raises Speed if a held item is used.
+Analytic	Strengthens moves when moving last.
+Big Pecks	Protects the Pokemon from Defense-lowering attacks.
+Contrary	Inverts stat modifiers.
+Cursed Body	Has a 30% chance of Disabling any move that hits the Pokemon.
+Defeatist	Halves Attack and Special Attack below 50% HP.
+Defiant	Raises Attack two stages upon having any stat lowered.
+Flare Boost	Increases Special Attack to 1.5¡¿ when burned.
+Friend Guard	Decreases damage inflicted against ally Pokemon.
+Harvest	Sometimes restores a consumed Berry.
+Healer	Has a 30% chance of curing each adjacent ally of any major status ailment after each turn.
+Heavy Metal	Doubles the Pokemon's weight.
+Illusion	Takes the appearance of the last conscious party Pokemon upon being sent out until hit by a damaging move.
+Imposter	Transforms upon entering battle.
+Infiltrator	Ignores Light Screen, Reflect, and Safeguard.
+Iron Barbs	Damages attacking Pokemon for 1/8 their max HP on contact.
+Justified	Raises Attack when hit by Dark-type moves.
+Light Metal	Halves the Pokemon's weight.
+Magic Bounce	Reflects most non-damaging moves back at their user.
+Moody	Raises a random stat two stages and lowers another one stage after each turn.
+Moxie	Raises Attack one stage upon KOing a Pokemon.
+Multiscale	Halves damage taken from full HP.
+Mummy	Contact?with this Pokemon spreads this Ability.
+Overcoat	Protects against damage from weather.
+Pickpocket	Steals attacking Pokemon's held item on contact.
+Poison Touch	Has a?30% chance of poisoning Pokemon upon contact when attacking.
+Prankster	Raises non-damaging moves' priority by one stage.
+Rattled	Raises Speed one stage upon being hit by a Dark, Ghost, or Bug move.
+Regenerator	Heals for 1/3 max HP upon leaving battle.
+Sand Force	Strengthens Rock, Ground, and Steel moves to 1.3¡¿ their power during a sandstorm.
+Sand Rush	Doubles Speed during a sandstorm.
+Sap Sipper	Absorbs Grass moves, raising Attack one stage.
+Sheer Force	Strengthens moves with extra effects to 1.3¡¿ their power, but prevents their extra effects.
+Telepathy	Protects against damaging moves from friendly Pokemon.
+Teravolt	Moves can be used regardless of Abilities.
+Toxic Boost	Increases Attack to 1.5¡¿ when poisoned.
+Turboblaze	Moves can be used regardless of Abilities.
+Unnerve	Prevents opposing Pokemon from eating held Berries.
+Victory Star	Raises moves' accuracy to 1.1¡¿ for friendly Pokemon.
+Weak Armor	Raises Speed and lowers Defense by one stage each upon being hit by any move.
+Wonder Skin	Has a 50% chance of protecting against non-damaging moves that inflict major status ailments.
+Zen Mode	Changes the Pokemon's shape when HP is halved.

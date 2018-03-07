@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Outside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside.png" width="256" height="16064"/>
+ </tileset>
+ <tileset firstgid="4017" name="Outside2" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside2.png" width="256" height="31942"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="30" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt0jEOgCAMBdBvBe5/B9x00wPahBJdi6SD+cNPWRp4pXUBNk111hVA1hS0s7d/1xwDNdl9YvH2e995ai7zdnMK8BY8Eas5wCsvZ59xxP+KzXV0L754R/5z1j5He2dVeumll1566aWXXnr/4b0Ba10+qg==
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztz6ENADAMBLHP/nM0cxYWVMoAkU0OXwK/U0nX61bb/wAAYHIBhXED6A==
+  </data>
+ </layer>
+</map>

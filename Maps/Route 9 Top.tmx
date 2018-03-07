@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="24" height="52" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Outside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside.png" width="256" height="16064"/>
+ </tileset>
+ <tileset firstgid="4017" name="Outside2" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside2.png" width="256" height="31942"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="24" height="52" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztlrFuwzAMRBlR4f/PzZhMSbf2AyuhPvRMWLTs2kuggSCsMNSzdCR9v4g8it1P8q9inyf6s7gH/+Af/IN/zX8V+z7At/hNRFKx6+RzMZXf9Tx5m9aS/MUrxVdr8deYj2K3hmXKpxOHZ6nPLf4a86z7Nwy5wM658WwBf6YYIx6cmVJ+3su/S+se9uoCPJm4lu5hr66vlDPRuxzFD92w3vRAfnXcqXEP/+Hn/EZ7JNnPDz5/t5zbZD+/ybyGuU6VftvKD26cB+rG68ncei+3Us6o36DuevnB7c846pe6gZ/7WtRn4H1cr07W+qSvizV+xGknN+so0g+4ub9H5730v4gfPQU1D731cq/px2ReJ9iv1d+xjjjwYD3qL0r5sdcSN/cingvRufL78vzw3w08/3h2+nvu0TXrlGvZnPFc2DKvsssNZp7TWea9dXx/Dv7BP/jflf8Hu0Wmsw==
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="24" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgENADAIA7DhX8fRiQyS0ypoAgDARa+Sru0FAMD/BmKuAU4=
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="24" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt1TEKACAMA8D4/3foO50dBRFa7pauIRSSAEA9cyRr3F94oeo/yf1X1dzVdOm5217ZaYDTBm3iG1I=
+  </data>
+ </layer>
+</map>

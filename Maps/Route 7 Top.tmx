@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="54" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Outside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside.png" width="256" height="16064"/>
+ </tileset>
+ <tileset firstgid="4017" name="Outside2" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside2.png" width="256" height="31942"/>
+ </tileset>
+ <tileset firstgid="12001" name="Desert Sand" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Autotiles/Desert Sand.png" width="96" height="128"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="40" height="54" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztmFtOwzAQRd04diTYBCvognkIieYLiviAFSGkItgEtuqr3gzjJE1f/sjHyG1aj+8cz/iR1cKYNtiq0PYl2Lrg9tJ8Zn4zvxI4zfxmfiW2l+Yz85v5lcBp5nfc1pmtvYfPH4t8W5utVcGs2T/+If+ydWkcm8a1wnzS7ZNZ0hdtCofa7Npa8e/pN3z/XG7NUV9LnKzpsnOJ3b78PMV2G+yux+7TONAWzZqdxor4cbyI+eWAfIo+noI9RD+KPQZrExfWh/icogusEYOfkH9obdLXKnE78Ru0fS31fOE8rEUeTuUn9WGcyuzYSn2b5f84McfwwfkYn4+tQ+k3+noOtqaY5dzL+d0o/CqKS7KEdv4unyMXpF+uE8TOawpr7+NnTZc7WMKXHahD1KD0G300yV+T/HMdXAXH17b7TOPHdWJJY5PMpli1GlylOdL4QRP7YS3SYm18K/zAC/PshL5G5DbnA+eQ3D9YG/z16dskfVqdedPNPU8xY4zc+taK3HciNrYx+rT6daTFC13gp/VDjjeUr+hTU19+5kU7xI/3Wl63Zewad5lj0qqe/nVGn1a/jvQhLh5HO8fkNGlWZ/iP4Yf+laKrj5+cf/l/mcO5cw70/QT7Vfg1prv2WeEfdgg/rT/2e1knGgetJob45fah3H6i7S+aPo0DtOXmV6tfjUfcZ3L7SS7/hu4ffCbQzrnIkzE8tPVw6L5x6vsb7xfQN4bfue5vnAPQN+Xecip+N7SOsL7S+PlC+aFu41nwrUB+yDvc09Yj6/ec/Lhuc/vFpfm1e+435+LnM/pK4cfrMs4UNwXxqwW/qjB+yL9Xs7tvHvLe4dj8+P6Jdz4lrX98/9zn/HIufljz5DufUvjxOy++r0/19wfTpp9O
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="40" height="54">
+  <data encoding="base64" compression="zlib">
+   eJzt07ENACAMA8Fk/zlgTkokJERNcte4dvERAAAA/GBkxMy9QH26hzpePXfp/fx5WwAA6GgBO5UQ6g==
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="40" height="54">
+  <data encoding="base64" compression="zlib">
+   eJzt1DEKACAMA8D0/+/Qdzq5uEuh3C1ZCwlNAAAAZliV7Oq+gg66B364v+VN6GSPAAAw1wFq/wkc
+  </data>
+ </layer>
+</map>

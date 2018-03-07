@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="22" height="36" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Outside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside.png" width="256" height="16064"/>
+ </tileset>
+ <tileset firstgid="4017" name="Outside2" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside2.png" width="256" height="31942"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="22" height="36" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztlLEOwiAQhrFSWO8R+twaF8ukTRz0TXTTTTfd7AN4pEe4NLVBiokmDF/+dODPB1ypZ0IYpE6cW6T5Qqb2zL7ZN/um990jh5GM9dFCiFJ0WSBzpKK037G+C1y7HCHWd41rV3b9G2J9ba9BFFGwlBN9DfVo6uR9RwjnBP6+XW9Fvf39nCGcC/j9ul5N9PdzhXBu4GeK98oB3zuE86BeO2M71lsN+D4hnBa6M9jQLDXsHKa+DyVzdHOgBnw/nVtN5yvpP1aUU31dp2JvQQrff31/s2/2/QXfF4mT+go=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="22" height="36">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMJTBUkYGhmWMCHq4g6sCtDH3Lo3MJRagxyMheqiB4eafUTAKRgFuAAA6vBFv
+  </data>
+ </layer>
+</map>

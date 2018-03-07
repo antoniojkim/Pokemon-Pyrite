@@ -1,0 +1,175 @@
+
+Bulbasaur family
+Bulbasaur	Bulbasaur	Level 16 ¡æ	Ivysaur	Ivysaur	Level 32 ¡æ	Venusaur	Venusaur
+Charmander family
+Charmander	Charmander	Level 16 ¡æ	Charmeleon	Charmeleon	Level 36 ¡æ	Charizard	Charizard
+Squirtle family
+Squirtle	Squirtle	Level 16 ¡æ	Wartortle	Wartortle	Level 36 ¡æ	Blastoise	Blastoise
+Caterpie family
+Caterpie	Caterpie	Level 7 ¡æ	Metapod	Metapod	Level 10 ¡æ	Butterfree	Butterfree
+Weedle family
+Weedle	Weedle	Level 7 ¡æ	Kakuna	Kakuna	Level 10 ¡æ	Beedrill	Beedrill
+Pidgey family
+Pidgey	Pidgey	Level 18 ¡æ	Pidgeotto	Pidgeotto	Level 36 ¡æ	Pidgeot	Pidgeot
+Rattata family
+Rattata	Rattata	Level 20 ¡æ	Raticate	Raticate	 
+Spearow family
+Spearow	Spearow	Level 20 ¡æ	Fearow	Fearow	 
+Ekans family
+Ekans	Ekans	Level 22 ¡æ	Arbok	Arbok	 
+Pikachu family
+Pichu	Pichu	Friendship ¡æ	Pikachu	Pikachu	Thunder Stone ¡æ	Raichu	Raichu
+Sandshrew family
+Sandshrew	Sandshrew	Level 22 ¡æ	Sandslash	Sandslash	 
+Nidoran family*
+Nidoran¡Ï	Nidoran¡Ï	Level 16 ¡æ	Nidorina	Nidorina	Moon Stone ¡æ	Nidoqueen	Nidoqueen
+Nidoran¡Î	Nidoran¡Î	Level 16 ¡æ	Nidorino	Nidorino	Moon Stone ¡æ	Nidoking	Nidoking
+Clefairy family
+Cleffa	Cleffa	Friendship ¡æ	Clefairy	Clefairy	Moon Stone ¡æ	Clefable	Clefable
+Vulpix family
+Vulpix	Vulpix	Fire Stone ¡æ	Ninetales	Ninetales	 
+Jigglypuff family
+Igglybuff	Igglybuff	Friendship ¡æ	Jigglypuff	Jigglypuff	Moon Stone ¡æ	Wigglytuff	Wigglytuff
+Zubat family
+Zubat	Zubat	Level 22 ¡æ	Golbat	Golbat	Friendship ¡æ	Crobat	Crobat
+Oddish family
+Oddish	Oddish	Level 21 ¡æ	Gloom	Gloom	Leaf Stone ¡æ	Vileplume	Vileplume
+Sun Stone ¡æ	Bellossom	Bellossom
+Paras family
+Paras	Paras	Level 24 ¡æ	Parasect	Parasect	 
+Venonat family
+Venonat	Venonat	Level 31 ¡æ	Venomoth	Venomoth	 
+Diglett family
+Diglett	Diglett	Level 26 ¡æ	Dugtrio	Dugtrio	 
+Meowth family
+Meowth	Meowth	Level 28 ¡æ	Persian	Persian	 
+Psyduck family
+Psyduck	Psyduck	Level 33 ¡æ	Golduck	Golduck	 
+Mankey family
+Mankey	Mankey	Level 28 ¡æ	Primeape	Primeape	 
+Growlithe family
+Growlithe	Growlithe	Fire Stone ¡æ	Arcanine	Arcanine	 
+Poliwag family
+Poliwag	Poliwag	Level 25 ¡æ	Poliwhirl	Poliwhirl	Water Stone ¡æ	Poliwrath	Poliwrath
+Trade holding King's Rock ¡æ	Politoed	Politoed
+Abra family
+Abra	Abra	Level 16 ¡æ	Kadabra	Kadabra	Trade ¡æ	Alakazam	Alakazam
+Machop family
+Machop	Machop	Level 28 ¡æ	Machoke	Machoke	Trade ¡æ	Machamp	Machamp
+Bellsprout family
+Bellsprout	Bellsprout	Level 21 ¡æ	Weepinbell	Weepinbell	Leaf Stone ¡æ	Victreebel	Victreebel
+Tentacool family
+Tentacool	Tentacool	Level 30 ¡æ	Tentacruel	Tentacruel	 
+Geodude family
+Geodude	Geodude	Level 25 ¡æ	Graveler	Graveler	Trade ¡æ	Golem	Golem
+Ponyta family
+Ponyta	Ponyta	Level 40 ¡æ	Rapidash	Rapidash	 
+Slowpoke family
+Slowpoke	Slowpoke	Level 37 ¡æ	Slowbro	Slowbro	 
+Trade holding King's Rock ¡æ	Slowking	Slowking	 
+Magnemite family
+Magnemite	Magnemite	Level 30 ¡æ	Magneton	Magneton	Level up in Mt. Coronet
+Level up in Chargestone Cave
+Level up on Kalos Route 13
+Level up in New MauvilleORAS ¡æ	Magnezone	Magnezone
+Farfetch'd family
+Farfetch'd	Farfetch'd	 
+Doduo family
+Doduo	Doduo	Level 31 ¡æ	Dodrio	Dodrio	 
+Seel family
+Seel	Seel	Level 34 ¡æ	Dewgong	Dewgong	 
+Grimer family
+Grimer	Grimer	Level 38 ¡æ	Muk	Muk	 
+Shellder family
+Shellder	Shellder	Water Stone ¡æ	Cloyster	Cloyster	 
+Gastly family
+Gastly	Gastly	Level 25 ¡æ	Haunter	Haunter	Trade ¡æ	Gengar	Gengar
+Onix family
+Onix	Onix	Trade holding Metal Coat ¡æ	Steelix	Steelix	 
+Drowzee family
+Drowzee	Drowzee	Level 26 ¡æ	Hypno	Hypno	 
+Krabby family
+Krabby	Krabby	Level 28 ¡æ	Kingler	Kingler	 
+Voltorb family
+Voltorb	Voltorb	Level 30 ¡æ	Electrode	Electrode	 
+Exeggcute family
+Exeggcute	Exeggcute	Leaf Stone ¡æ	Exeggutor	Exeggutor	 
+Cubone family
+Cubone	Cubone	Level 28 ¡æ	Marowak	Marowak	 
+Hitmon family
+Tyrogue	Tyrogue	Level 20 (Attack > Defense) ¡æ	Hitmonlee	Hitmonlee	 
+Level 20 (Attack < Defense) ¡æ	Hitmonchan	Hitmonchan	 
+Level 20 (Attack = Defense) ¡æ	Hitmontop	Hitmontop	 
+Lickitung family
+Lickitung	Lickitung	Level up knowing Rollout ¡æ	Lickilicky	Lickilicky	 
+Koffing family
+Koffing	Koffing	Level 35 ¡æ	Weezing	Weezing	 
+Rhyhorn family
+Rhyhorn	Rhyhorn	Level 42 ¡æ	Rhydon	Rhydon	Trade holding Protector ¡æ	Rhyperior	Rhyperior
+Chansey family
+Happiny	Happiny	Level up holding Oval Stone (day) ¡æ	Chansey	Chansey	Friendship ¡æ	Blissey	Blissey
+Tangela family
+Tangela	Tangela	Level up knowing AncientPower ¡æ	Tangrowth	Tangrowth	 
+Kangaskhan family
+Kangaskhan	Kangaskhan	 
+Horsea family
+Horsea	Horsea	Level 32 ¡æ	Seadra	Seadra	Trade holding Dragon Scale ¡æ	Kingdra	Kingdra
+Goldeen family
+Goldeen	Goldeen	Level 33 ¡æ	Seaking	Seaking	 
+Staryu family
+Staryu	Staryu	Water Stone ¡æ	Starmie	Starmie	 
+Mr. Mime family
+Mime Jr.	Mime Jr.	Level up knowing Mimic ¡æ	Mr. Mime	Mr. Mime	 
+Scyther family
+Scyther	Scyther	Trade holding Metal Coat ¡æ	Scizor	Scizor	 
+Jynx family
+Smoochum	Smoochum	Level 30 ¡æ	Jynx	Jynx	 
+Electabuzz family
+Elekid	Elekid	Level 30 ¡æ	Electabuzz	Electabuzz	Trade holding Electirizer ¡æ	Electivire	Electivire
+Magmar family
+Magby	Magby	Level 30 ¡æ	Magmar	Magmar	Trade holding Magmarizer ¡æ	Magmortar	Magmortar
+Pinsir family
+Pinsir	Pinsir	 
+Tauros family
+Tauros	Tauros	 
+Magikarp family
+Magikarp	Magikarp	Level 20 ¡æ	Gyarados	Gyarados	 
+Lapras family
+Lapras	Lapras	 
+Ditto family
+Ditto	Ditto	 
+Eeveelution family
+Eevee	Eevee	Water Stone ¡æ	Vaporeon	Vaporeon	 
+Thunder Stone ¡æ	Jolteon	Jolteon	 
+Fire Stone ¡æ	Flareon	Flareon	 
+Friendship (day)
+Level up with Sun Shard ¡æ	Espeon	Espeon	 
+Friendship (night)
+Level up with Moon Shard ¡æ	Umbreon	Umbreon	 
+Level up near Moss Rock ¡æ	Leafeon	Leafeon	 
+Level up near Ice Rock ¡æ	Glaceon	Glaceon	 
+Two Affection hearts on Pokemon-Amie
+and know a Fairy-type move ¡æ	Sylveon	Sylveon	 
+
+Porygon family
+Porygon	Porygon	Trade holding Up-Grade ¡æ	Porygon2	Porygon2	Trade holding Dubious Disc ¡æ	Porygon-Z	Porygon-Z
+Omanyte family
+Omanyte	Omanyte	Level 40 ¡æ	Omastar	Omastar	 
+Kabuto family
+Kabuto	Kabuto	Level 40 ¡æ	Kabutops	Kabutops	 
+Aerodactyl family
+Aerodactyl	Aerodactyl	 
+Snorlax family
+Munchlax	Munchlax	Friendship ¡æ	Snorlax	Snorlax	 
+Articuno family
+Articuno	Articuno	 
+Zapdos family
+Zapdos	Zapdos	 
+Moltres family
+Moltres	Moltres	 
+Dratini family
+Dratini	Dratini	Level 30 ¡æ	Dragonair	Dragonair	Level 55 ¡æ	Dragonite	Dragonite
+Mewtwo family
+Mewtwo	Mewtwo	 
+Mew family
+Mew	Mew	

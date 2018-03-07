@@ -1,0 +1,5 @@
+-Amulet Town, needs to be extended to the left by ten tiles
+
+-Amulet Town, house with no doors need to change tile for windows
+
+-Route 3 After Niagara Forest must be horizontally extended both ways

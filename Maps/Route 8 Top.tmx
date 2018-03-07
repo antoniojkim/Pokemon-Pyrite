@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="52" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Outside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside.png" width="256" height="16064"/>
+ </tileset>
+ <tileset firstgid="4017" name="Outside2" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside2.png" width="256" height="31942"/>
+ </tileset>
+ <tileset firstgid="12001" name="Desert Sand" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Autotiles/Desert Sand.png" width="96" height="128"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="64" height="52" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzlmsuO1DAQRT1x0uteABLSwGpAggWfC4iHkJiRQHQjFrBHwGqWiD/gS7A1vkphHMePciodIl05PZ1JfKpuHLdThzOljkaHmbZXSt3To87135/XoPsz3+/UuF0apquz9Ha3Mf65fG8x/0NF/rfGX5v/C6MHTo8Z+v6InK/0vK3vfxs/rf49L4cXQn2/y8zfV+QfrT8OpvKH8kv1MJE/dp7QOah0Rf7RDgH+i0ifUvsWUoh/Lsdz/u+ch0vzrwP8rRSKa0kcfXUV+e8W5G+lmvxb/t9PbnSpTkOvjY7O+zsn5BMsqQK/NFMK88HpSLh33v2fy08Vu37u8ZznQr7B2zn15G+fDfuXSn47PnH0mTv2Vx7rQLzfu/3B7dfwS2qOH3M15B/cvhekOVrxa8fYE3bEg0qagzsmuPcHwuwfN6hR0n3mFNjpPT51LMf4vzZhzO9d3l9E+DnG/7WpI3m37J9m/G1/X0v3WVqSPiiZ92xBNfO+LYhj/nvKirH9L/w53pDu79o8wnFezJGlOSX51zj/b+1//zeiNK8EP10fkeaV4If3TyX/3OtG4Jde/8mdB5Xwh/7vo9GrgvGfrh31alxj6ArjKMVf+vzDmiHWkNGW+KiGkYMfHsjlt8zfTMK/G/3oRj8snftafngg1/82Btdm56vRLxcDrcb1VuzDJ/QesXpbwBj7XKNc/sHl/qfjpzHAeiq8Qf2B9ZiX6mZNhqv/EvzXhJ3GAMyh2GAtSpo3xI/nIFqsHcKvdIyjuX+/V+oZ0bv9yE2/e77P9/yS8t8L0jhgjRwxeepx0fdLU9/ZGH4werMC1il+yknXUNFq4gHEh75TozHrvBbHrdUD2ErrAfx2agvVzaxB2ErrQfw2lf+W0e1E3VmAv3X+tcefUzNXWvPkxzgUR+78T/mhpn601CP+NUJx5M7/lB9q8l/qkRz+VvnH+6VW9eOohwzVxZ0nHNM6/7TuhF43pWYSitUBx8YGXCNWM9g6/xzPvZhXaupBl8g/B3/MK7X1oK23tc57oD8fJwQm
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="64" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAACAVwM0AAAB
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="64" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztz8EJACAMBMGQmtSX2n9ZpgsRZ2D/dxEAAAAAAAAA8K+WEb0aeXvJHbN+r2p/+h8AAAAAXnAAL5ABYw==
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="64" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2KENADAMA0Fn/znaOYsKC6NK0R15auwEAAAAYKZVya7fKwAAAACATvcHfBUAAAAmOI0XBoI=
+  </data>
+ </layer>
+ <layer name="Tile Layer 5" width="64" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAACAVwM0AAAB
+  </data>
+ </layer>
+ <layer name="Tile Layer 6" width="64" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt17ERACAMAzFn/zlgTiomoEi4k5pv3ToBAAAAAAAA+NuqZFf3CgAAYJL7E14LAAATHPIRDQM=
+  </data>
+ </layer>
+</map>

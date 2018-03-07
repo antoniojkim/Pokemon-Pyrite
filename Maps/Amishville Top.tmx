@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="42" height="34" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Outside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside.png" width="256" height="16064"/>
+ </tileset>
+ <tileset firstgid="4017" name="Outside2" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside2.png" width="256" height="31942"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="42" height="34" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztl01SHDEMhdU/9nquk+QEwCqwglwrF0ggCwZ2yQGjLqzi69eebpMMNUXVdJXK9LRtPT89ySLb+vNrZ3a/exlrNvqc3u2n24NbchusPvfRbe/2XdaPZU2P9ZPl8i2Vv9eead+nFZy57Bk4c9n30PzJfgjOXKwvNgBvxvsWn2FJzhdcZODk92xzTmI9cQaumNMD8yBjK85pr4vO7LLYVfeyfvp97/YMHug/4hg4I/574ZNnVE7ewue07qtjuy52073GhZoKXoIb8pkrMeptfpaYFxxkeVceIkcYx1vHdlfsWzePZ5Y9Yz9qTHWT4GfE/Pg9zn7vvh66w6P64b600eZnJOYkv5PnWJ9sGRue9cmxPHeHxyz4ks355/4jMNEPa47mmOa5xiPOtsVnjIPN9cCYav0jJs2nWp5lW+aT+t/iM8Zp/0+u+89uX3avGGvcBA7OSRWsNa3GevXfyue014Xju3S72i31Q27IO7FRE8yZbEuu/5VP7kONUreDLfWhca9xp9/G/+CTecn6mFbGQfCwtgaPrf5b+WQNobZogy1jqdrVHGz133oereXEpfmiNTveqd/4dmw+9Y7We0vrKWu66oF4j81nL/7X8oV6rOFkvr2HPtWXxpr3zaH+Tu+aVv+/3f40jNpv1upzrddlrEdbauWt9YZ9onLDWql3HXOI69Rq/VFLfxHj1sPcZM/K+qia0ztSaxExt/K59dRyl/e13inUBvtK7eFifiuf7CF5Z6jPoYKPWmWfSp3U/t9hbh2LT56HdV37EO1/qUvWMGJ8j/p56rH1PKceT83Tmc8zn2c+z3x+VD7/AjCh/W8=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="42" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztxTEBADAIA7DiX8fQiQnGlTxJAAAAYN+rpOt+AOCfAVrBE4Q=
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="42" height="34">
+  <data encoding="base64" compression="zlib">
+   eJzt0jsLgmAYhuHXocVJB4dOQ6efXv+poaDjbirhibqprYQGNQueGy6Eb9AHPs3Uv9T3zQYYYoSx3/Wi6ibsmmKGORY1di4ds5Xz+dl0bX1n3TPbvNj26r+36XZs2uOAI044t7DzW/ep2i10zS6IECPB1e161XspmzLkKFDi9oM7VXVhwH+GCDGS4HmeetwrchRetxsfe9iVIUeBMuh6kVJKKaWUUko12x3cIjWi
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="42" height="34">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5Ux/hAlUBAAAAAMA3FlAAAQ==
+  </data>
+ </layer>
+</map>

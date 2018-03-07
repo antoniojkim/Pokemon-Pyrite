@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="28" height="25" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" source="Sprite Images/Outside.tsx"/>
+ <tileset firstgid="4017" name="Outside 2" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Reborn15/Graphics/Tilesets/Outside2.png" width="256" height="31942"/>
+ </tileset>
+ <layer name="Ground" width="28" height="25">
+  <data encoding="base64" compression="zlib">
+   eJy9ls1OwzAQhC1v4gMqIErTikJB4tAKnpJXA07AS7ERHmU0MQkUmcNUjRP788/sJDGE0Lqiq8n/zZWkrc1tfN+kPWYZPcfPY5yGhH6ttKX8H+NZvk40Fs8hUh+eM9awcJ1U0imxMM+Va/lL3bq2M7pzdbQP2CPwzib6nguvy/0ffNL3pEcbzmyVn8MZ6fouC2eNs7wo8Pr71/6zy9paeLqyr+eNeEZnmoRnJPbPFK/n9OqZPQ99wIPfY4EHD8F3zQSvJZ6uLwkPXjXircPgq420bQo8riXUA9cK7yd79Bh/LsN8LWBe3/mlhvbE53XX4rHg0//iqT9riHMI3qrJQ91wftTmoe7Un1P5ifwt7dNcXmMfYxjnJ2oFtcnZzvvQ0Rj63uX3QCdtpbzW/m0Y+5j3Cflocq15hrE1r/l8+RtBeZy1UfgN8fR7RPNTsxM6EG8fxvml/Q7CS+Fv+flTf+q77SbMe+1Y7eh84NNnB79U0mscfADmm1+8V9JHHHz0CapbTFo=
+  </data>
+ </layer>
+ <layer name="Trees" width="28" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxbzcjAsAaIV9OJXgzES4B4MxBvoSENswdmL60Buv9oAfYyI9jD0X/IYDD7DzkeyAXU9N8rJkyMDtYC7VhHx/jbCrRjGx3jDwbo5T8YGK7+Wwq0Y9kgzX/UAIO5fKEGGPUfdcGo/6gLBsp/AKOSZUg=
+  </data>
+ </layer>
+ <layer name="Buildings" width="28" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzt1LlOAlEYxfHPhWk1+go0oCgqiizuWrhVRqjkPYmVAhoWNYpLcI37Y8h/AsVNnAvcEAqSe5Jfppk5h4ZPxKbXmXJEphVhR//u37DIuO8/8XW+t0B/VLHYYm9Q0ztgsLdM/4pitcd7a/QfIoU0tpAbar9XVd4x2dum/wgZHPDdPs9yB3tqTPZMMkLvmIdRHGt+o41NvyXAfy6ICUwipLkxJ36RU+SQRwFnOPeb7c3QP4s5RDCv2SvSW0IZFVzgEleGezH640ggiSXN3jW9N6jiFne4x4PBnnsr3Ru6jg1sNm+oV2r0PuIJz3jBK94M9txb6d7QHexiz2ncUK+80/uBT3zhGz/4RdbeM5suUwd1WTcE
+  </data>
+ </layer>
+ <layer name="NightTime" width="28" height="25" visible="0" opacity="0.39">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKH7/qXXYyi4aqqq+vQBBWkCvQ==
+  </data>
+ </layer>
+</map>

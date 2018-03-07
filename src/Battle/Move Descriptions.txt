@@ -1,0 +1,559 @@
+Absorb	User recovers half the HP inflicted on opponent.
+Acid	May lower opponent's Special Defense.
+Acid Armor	Sharply raises user's Defense.
+Agility	Sharply raises user's Speed.
+Amnesia	Sharply raises user's Special Defense.
+Aurora Beam	May lower opponent's Attack.
+Barrage	Hits 2-5 times in one turn.
+Barrier	Sharply raises user's Defense.
+Bide	User takes damage for two turns then strikes back double.
+Bind	Traps opponent, damaging them for 4-5 turns.
+Bite	May cause flinching.
+Blizzard	May freeze opponent.
+Body Slam	May paralyze opponent.
+Bone Club	May cause flinching.
+Bonemerang	Hits twice in one turn.
+Bubble	May lower opponent's Speed.
+Bubble Beam	May lower opponent's Speed.
+Clamp	Traps opponent, damaging them for 4-5 turns.
+Comet Punch	Hits 2-5 times in one turn.
+Confuse Ray	Confuses opponent.
+Confusion	May confuse opponent.
+Constrict	May lower opponent's Speed by one stage.
+Conversion	Changes user's type to that of its first move.
+Counter	When hit by a Physical Attack, user strikes back with 2x power.
+Crabhammer	High critical hit ratio.
+Cut	
+Defense Curl	Raises user's Defense.
+Dig	Digs underground on first turn, attacks on second. Can also escape from caves.
+Disable	Opponent can't use its last attack for a few turns.
+Dizzy Punch	May confuse opponent.
+Double Kick	Hits twice in one turn.
+Double Slap	Hits 2-5 times in one turn.
+Double Team	Raises user's Evasiveness.
+Double-Edge	User receives recoil damage.
+Dragon Rage	Always inflicts 40 HP.
+Dream Eater	User recovers half the HP inflicted on a sleeping opponent.
+Drill Peck	
+Earthquake	Power is doubled if opponent is underground from using Dig.
+Egg Bomb	
+Ember	May burn opponent.
+Explosion	User faints.
+Fire Blast	May burn opponent.
+Fire Punch	May burn opponent.
+Fire Spin	Traps opponent, damaging them for 4-5 turns.
+Fissure	One-Hit-KO, if it hits.
+Flamethrower	May burn opponent.
+Flash	Lowers opponent's Accuracy.
+Fly	Flies up on first turn, attacks on second turn.
+Focus Energy	Increases critical hit ratio.
+Fury Attack	Hits 2-5 times in one turn.
+Fury Swipes	Hits 2-5 times in one turn.
+Glare	Paralyzes opponent.
+Growl	Lowers opponent's Attack.
+Growth	Raises user's Attack and Special Attack.
+Guillotine	One-Hit-KO, if it hits.
+Gust	Hits Pokemon using Fly/Bounce with double power.
+Harden	Raises user's Defense.
+Haze	Resets all stat changes.
+Headbutt	May cause flinching.
+High Jump Kick	If it misses, the user loses half their HP.
+Horn Attack	
+Horn Drill	One-Hit-KO, if it hits.
+Hydro Pump	
+Hyper Beam	User must recharge next turn.
+Hyper Fang	May cause flinching.
+Hypnosis	Puts opponent to sleep.
+Ice Beam	May freeze opponent.
+Ice Punch	May freeze opponent.
+Jump Kick	If it misses, the user loses half their HP.
+Karate Chop	High critical hit ratio.
+Kinesis	Lowers opponent's Accuracy.
+Leech Life	User recovers half the HP inflicted on opponent.
+Leech Seed	User steals HP from opponent each turn.
+Leer	Lowers opponent's Defense.
+Lick	May paralyze opponent.
+Light Screen	Halves damage from Special attacks for 5 turns.
+Lovely Kiss	Puts opponent to sleep.
+Low Kick	The heavier the opponent, the stronger the attack.
+Meditate	Raises user's Attack.
+Mega Drain	User recovers half the HP inflicted on opponent.
+Mega Kick	
+Mega Punch	
+Metronome	User performs any move in the game at random.
+Mimic	Copies the opponent's last move.
+Minimize	Sharply raises user's Evasiveness.
+Mirror Move	User performs the opponent's last move.
+Mist	User's stats cannot be changed for a period of time.
+Night Shade	Inflicts damage equal to user's level.
+Pay Day	A small amount of money is gained after the battle resolves.
+Peck	
+Petal Dance	User attacks for 2-3 turns but then becomes confused.
+Pin Missile	Hits 2-5 times in one turn.
+Poison Gas	Poisons opponent.
+Poison Powder	Poisons opponent.
+Poison Sting	May poison the opponent.
+Pound	
+Psybeam	May confuse opponent.
+Psychic	May lower opponent's Special Defense.
+Psywave	Inflicts damage 50-150% of user's level.
+Quick Attack	User attacks first.
+Rage	Raises user's Attack when hit.
+Razor Leaf	High critical hit ratio.
+Razor Wind	Charges on first turn, attacks on second. High critical hit ratio.
+Recover	User recovers half its max HP.
+Reflect	Halves damage from Physical attacks for 5 turns.
+Rest	User sleeps for 2 turns, but user is fully healed.
+Roar	In battles, the opponent switches. In the wild, the Pokemon runs.
+Rock Slide	May cause flinching.
+Rock Throw	
+Rolling Kick	May cause flinching.
+Sand Attack	Lowers opponent's Accuracy.
+Scratch	
+Screech	Sharply lowers opponent's Defense.
+Seismic Toss	Inflicts damage equal to user's level.
+Self-Destruct	User faints.
+Sharpen	Raises user's Attack.
+Sing	Puts opponent to sleep.
+Skull Bash	Raises Defense on first turn, attacks on second.
+Sky Attack	Charges on first turn, attacks on second. May cause flinching.
+Slam	
+Slash	High critical hit ratio.
+Sleep Powder	Puts opponent to sleep.
+Sludge	May poison opponent.
+Smog	May poison opponent.
+Smokescreen	Lowers opponent's Accuracy.
+Soft-Boiled	User recovers half its max HP.
+Solar Beam	Charges on first turn, attacks on second.
+Sonic Boom	Always inflicts 20 HP.
+Spike Cannon	Hits 2-5 times in one turn.
+Splash	Doesn't do ANYTHING.
+Spore	Puts opponent to sleep.
+Stomp	May cause flinching.
+Strength	
+String Shot	Sharply lowers opponent's Speed.
+Struggle	Only usable when all PP are gone. Hurts the user.
+Stun Spore	Paralyzes opponent.
+Submission	User receives recoil damage.
+Substitute	Uses HP to creates a decoy that takes hits.
+Super Fang	Always takes off half of the opponent's HP.
+Supersonic	Confuses opponent.
+Surf	Hits all adjacent Pokemon.
+Swift	Ignores Accuracy and Evasiveness.
+Swords Dance	Sharply raises user's Attack.
+Tackle	
+Tail Whip	Lowers opponent's Defense.
+Take Down	User receives recoil damage.
+Teleport	Allows user to flee wild battles; also warps player to last PokeCenter.
+Thrash	User attacks for 2-3 turns but then becomes confused.
+Thunder	May paralyze opponent.
+Thunder Punch	May paralyze opponent.
+Thunder Shock	May paralyze opponent.
+Thunder Wave	Paralyzes opponent.
+Thunderbolt	May paralyze opponent.
+Toxic	Badly poisons opponent.
+Transform	User takes on the form and attacks of the opponent.
+Tri Attack	May paralyze, burn or freeze opponent.
+Twineedle	Hits twice in one turn. May poison opponent.
+Vice Grip	
+Vine Whip	
+Water Gun	
+Waterfall	May cause flinching.
+Whirlwind	In battles, the opponent switches. In the wild, the Pokemon runs.
+Wing Attack	
+Withdraw	Raises user's Defense.
+Wrap	Traps opponent, damaging them for 4-5 turns.
+Aeroblast	High critical hit ratio.
+Ancient Power	May raise all user's stats at once.
+Attract	If opponent is the opposite gender, it's less likely to attack.
+Baton Pass	User switches out and gives stat changes to the incoming Pokemon.
+Beat Up	Each Pokemon in your party attacks.
+Belly Drum	User loses 50% of its max HP, but Attack raises to maximum.
+Bone Rush	Hits 2-5 times in one turn.
+Charm	Sharply lowers opponent's Attack.
+Conversion 2	User changes type to become resistant to opponent's last move.
+Cotton Spore	Sharply lowers opponent's Speed.
+Cross Chop	High critical hit ratio.
+Crunch	May lower opponent's Defense.
+Curse	Ghosts lose 50% of max HP and curse the opponent; Non-Ghosts raise Attack, Defense and lower Speed.
+Destiny Bond	If the user faints, the opponent also faints.
+Detect	Opponent's attack doesn't affect you, but may fail if used often.
+Dragon Breath	May paralyze opponent.
+Dynamic Punch	Confuses opponent.
+Encore	Forces opponent to keep using its last move for 3 turns.
+Endure	Always left with at least 1 HP, but may fail if used consecutively.
+Extreme Speed	User attacks first.
+False Swipe	Always leaves opponent with at least 1 HP.
+Feint Attack	Ignores Accuracy and Evasiveness.
+Flail	The lower the user's HP, the higher the power.
+Flame Wheel	May burn opponent.
+Foresight	Resets opponent's Evasiveness, Normal-type and Fighting-type attacks can now hit Ghosts, and Ghost-type attacks hit Normal.
+Frustration	Power decreases with higher Happiness.
+Fury Cutter	Power increases each turn.
+Future Sight	Damage occurs 2 turns later.
+Giga Drain	User recovers half the HP inflicted on opponent.
+Heal Bell	Heals the user's party's status conditions.
+Hidden Power	Type and power depends on user's IVs.
+Icy Wind	Lowers opponent's Speed.
+Iron Tail	May lower opponent's Defense.
+Lock-On	The next move the user uses is guaranteed to hit.
+Mach Punch	User attacks first.
+Magnitude	Hits with random power.
+Mean Look	Opponent cannot flee or switch.
+Megahorn	
+Metal Claw	May raise user's Attack.
+Milk Drink	User recovers half its max HP.
+Mind Reader	User's next attack is guaranteed to hit.
+Mirror Coat	When hit by a Special Attack, user strikes back with 2x power.
+Moonlight	User recovers HP. Amount varies with the weather.
+Morning Sun	User recovers HP. Amount varies with the weather.
+Mud-Slap	Lowers opponent's Accuracy.
+Nightmare	The sleeping opponent loses 25% of its max HP each turn.
+Octazooka	May lower opponent's Accuracy.
+Outrage	User attacks for 2-3 turns but then becomes confused.
+Pain Split	The user's and opponent's HP becomes the average of both.
+Perish Song	Any Pokemon in play when this attack is used faints in 3 turns.
+Powder Snow	May freeze opponent.
+Present	Either deals damage or heals.
+Protect	User is not affected by opponent's move.
+Psych Up	Copies the opponent's stat changes.
+Pursuit	Double power if the opponent is switching out.
+Rain Dance	Makes it rain for 5 turns.
+Rapid Spin	Removes effects of trap moves.
+Return	Power increases with user's Happiness.
+Reversal	The lower the user's HP, the higher the power.
+Rock Smash	May lower opponent's Defense.
+Rollout	Doubles in power each turn for 5 turns.
+Sacred Fire	May burn opponent.
+Safeguard	The user's party is protected from status conditions.
+Sandstorm	Creates a sandstorm for 5 turns.
+Scary Face	Sharply lowers opponent's Speed.
+Shadow Ball	May lower opponent's Special Defense.
+Sketch	Permanently copies the opponent's last move.
+Sleep Talk	User performs one of its own moves while sleeping.
+Sludge Bomb	May poison opponent.
+Snore	Can only be used if asleep. May cause flinching.
+Spark	May paralyze opponent.
+Spider Web	Opponent cannot escape/switch.
+Spikes	Hurts opponents when they switch into battle.
+Spite	The opponent's last move loses 2-5 PP.
+Steel Wing	May raise user's Defense.
+Sunny Day	Makes it sunny for 5 turns.
+Swagger	Opponent becomes confused, but its Attack is raised two stages.
+Sweet Kiss	Confuses opponent.
+Sweet Scent	Lowers opponent's Evasiveness.
+Synthesis	User recovers HP. Amount varies with the weather.
+Thief	Also steals opponent's held item.
+Triple Kick	Hits thrice in one turn at increasing power.
+Twister	May cause flinching. Hits Pokemon using Fly/Bounce with double power.
+Vital Throw	User attacks last, but ignores Accuracy and Evasiveness.
+Whirlpool	Traps opponent, damaging them for 4-5 turns.
+Zap Cannon	Paralyzes opponent.
+Aerial Ace	Ignores Accuracy and Evasiveness.
+Air Cutter	High critical hit ratio.
+Arm Thrust	Hits 2-5 times in one turn.
+Aromatherapy	Cures all status problems in your party.
+Assist	In a Double Battle, user randomly attacks with a partner's move.
+Astonish	May cause flinching.
+Blast Burn	User must recharge next turn.
+Blaze Kick	High critical hit ratio. May burn opponent.
+Block	Opponent cannot flee or switch.
+Bounce	Springs up on first turn, attacks on second. May paralyze opponent.
+Brick Break	Breaks through Reflect and Light Screen barriers.
+Bulk Up	Raises user's Attack and Defense.
+Bullet Seed	Hits 2-5 times in one turn.
+Calm Mind	Raises user's Special Attack and Special Defense.
+Camouflage	Changes user's type according to the location.
+Charge	Raises user's Special Defense and next Electric move's power increases.
+Cosmic Power	Raises user's Defense and Special Defense.
+Covet	Opponent's item is stolen by the user.
+Crush Claw	May lower opponent's Defense.
+Dive	Dives underwater on first turn, attacks on second turn.
+Doom Desire	Damage occurs 2 turns later.
+Dragon Claw	
+Dragon Dance	Raises user's Attack and Speed.
+Endeavor	Reduces opponent's HP to same as user's.
+Eruption	Stronger when the user's HP is higher.
+Extrasensory	May cause flinching.
+Facade	Power doubles if user is burned, poisoned, or paralyzed.
+Fake Out	User attacks first, foe flinches. Only usable on first turn.
+Fake Tears	Sharply lowers opponent's Special Defense.
+Feather Dance	Sharply lowers opponent's Attack.
+Flatter	Confuses opponent, but raises its Special Attack by two stages.
+Focus Punch	If the user is hit before attacking, it flinches instead.
+Follow Me	In Double Battle, the user takes all the attacks.
+Frenzy Plant	User must recharge next turn.
+Grass Whistle	Puts opponent to sleep.
+Grudge	If the users faints after using this move, the PP for the opponent's last move is depleted.
+Hail	Non-Ice types are damaged for 5 turns.
+Heat Wave	May burn opponent.
+Helping Hand	In Double Battles, boosts the power of the partner's move.
+Howl	Raises user's Attack.
+Hydro Cannon	User must recharge next turn.
+Hyper Voice	
+Ice Ball	Doubles in power each turn for 5 turns.
+Icicle Spear	Hits 2-5 times in one turn.
+Imprison	Opponent is unable to use moves that the user also knows.
+Ingrain	User restores HP each turn. User cannot escape/switch.
+Iron Defense	Sharply raises user's Defense.
+Knock Off	Removes opponent's held item for the rest of the battle.
+Leaf Blade	High critical hit ratio.
+Luster Purge	May lower opponent's Special Defense.
+Magic Coat	Reflects moves that cause status conditions back to the attacker.
+Magical Leaf	Ignores Accuracy and Evasiveness.
+Memento	User faints, sharply lowers opponent's Attack and Special Attack.
+Metal Sound	Sharply lowers opponent's Special Defense.
+Meteor Mash	May raise user's Attack.
+Mist Ball	May lower opponent's Special Attack.
+Mud Shot	Lowers opponent's Speed.
+Mud Sport	Weakens the power of Electric-type moves.
+Muddy Water	May lower opponent's Accuracy.
+Nature Power	Uses a certain move based on the current terrain.
+Needle Arm	May cause flinching.
+Odor Sleuth	Resets opponent's Evasiveness, Normal-type and Fighting-type attacks can now hit Ghosts, and Ghost-type attacks hit Normal.
+Overheat	Sharply lowers user's Special Attack.
+Poison Fang	May badly poison opponent.
+Poison Tail	High critical hit ratio. May poison opponent.
+Psycho Boost	Sharply lowers user's Special Attack.
+Recycle	User's used hold item is restored.
+Refresh	Cures paralysis, poison, and burns.
+Revenge	Power increases if user was hit first.
+Rock Blast	Hits 2-5 times in one turn.
+Rock Tomb	Lowers opponent's Speed.
+Role Play	User copies the opponent's Ability.
+Sand Tomb	Traps opponent, damaging them for 4-5 turns.
+Secret Power	Effects of the attack vary with the location.
+Shadow Punch	Ignores Accuracy and Evasiveness.
+Sheer Cold	One-Hit-KO, if it hits.
+Shock Wave	Ignores Accuracy and Evasiveness.
+Signal Beam	May confuse opponent.
+Silver Wind	May raise all stats of user at once.
+Skill Swap	The user swaps Abilities with the opponent.
+Sky Uppercut	Hits the opponent, even during Fly.
+Slack Off	User recovers half its max HP.
+Smelling Salts	Power doubles if opponent is paralyzed, but cures it.
+Snatch	Steals the effects of the opponent's next move.
+Spit Up	Power depends on how many times the user performed Stockpile.
+Stockpile	Stores energy for use with Spit Up and Swallow.
+Superpower	Lowers user's Attack and Defense.
+Swallow	The more times the user has performed Stockpile, the more HP is recovered.
+Tail Glow	Drastically raises user's Special Attack.
+Taunt	Opponent can only use moves that attack.
+Teeter Dance	Confuses all Pokemon.
+Tickle	Lowers opponent's Attack and Defense.
+Torment	Opponent cannot use the same move in a row.
+Trick	Swaps held items with the opponent.
+Uproar	User attacks for 3 turns and prevents sleep.
+Volt Tackle	User receives recoil damage. May paralyze opponent.
+Water Pulse	May confuse opponent.
+Water Sport	Weakens the power of Fire-type moves.
+Water Spout	The higher the user's HP, the higher the damage caused.
+Weather Ball	Move's power and type changes with the weather.
+Will-O-Wisp	Burns opponent.
+Wish	The user recovers HP in the following turn.
+Yawn	Puts opponent to sleep in the next turn.
+Acupressure	Sharply raises a random stat.
+Air Slash	May cause flinching.
+Aqua Jet	User attacks first.
+Aqua Ring	Restores a little HP each turn.
+Aqua Tail	
+Assurance	Power doubles if opponent already took damage in the same turn.
+Attack Order	High critical hit ratio.
+Aura Sphere	Ignores Accuracy and Evasiveness.
+Avalanche	Power doubles if user took damage first.
+Brave Bird	User receives recoil damage.
+Brine	Power doubles if opponent's HP is less than 50%.
+Bug Bite	Receives the effect from the opponent's held berry.
+Bug Buzz	May lower opponent's Special Defense.
+Bullet Punch	User attacks first.
+Captivate	Sharply lowers opponent's Special Attack if opposite gender.
+Charge Beam	May raise user's Special Attack.
+Chatter	Confuses opponent.
+Close Combat	Lowers user's Defense and Special Defense.
+Copycat	Copies opponent's last move.
+Cross Poison	High critical hit ratio. May poison opponent.
+Crush Grip	More powerful when opponent has higher HP.
+Dark Pulse	May cause flinching.
+Dark Void	Puts all adjacent opponents to sleep.
+Defend Order	Raises user's Defense and Special Defense.
+Defog	Lowers opponent's Evasiveness and clears fog.
+Discharge	May paralyze opponent.
+Double Hit	Hits twice in one turn.
+Draco Meteor	Sharply lowers user's Special Attack.
+Dragon Pulse	
+Dragon Rush	May cause flinching.
+Drain Punch	User recovers half the HP inflicted on opponent.
+Earth Power	May lower opponent's Special Defense.
+Embargo	Opponent cannot use items.
+Energy Ball	May lower opponent's Special Defense.
+Feint	Only hits if opponent uses Protect or Detect in the same turn.
+Fire Fang	May cause flinching and/or burn opponent.
+Flare Blitz	User receives recoil damage. May burn opponent.
+Flash Cannon	May lower opponent's Special Defense.
+Fling	Power depends on held item.
+Focus Blast	May lower opponent's Special Defense.
+Force Palm	May paralyze opponent.
+Gastro Acid	Cancels out the effect of the opponent's Ability.
+Giga Impact	User must recharge next turn.
+Grass Knot	The heavier the opponent, the stronger the attack.
+Gravity	Prevents moves like Fly and Bounce and the Ability Levitate for 5 turns.
+Guard Swap	User and opponent swap Defense and Special Defense.
+Gunk Shot	May poison opponent.
+Gyro Ball	The slower the user, the stronger the attack.
+Hammer Arm	Lowers user's Speed.
+Head Smash	User receives recoil damage.
+Heal Block	Prevents the opponent from restoring HP for 5 turns.
+Heal Order	User recovers half its max HP.
+Healing Wish	The user faints and the next Pokemon released is fully healed.
+Heart Swap	Stat changes are swapped with the opponent.
+Ice Fang	May cause flinching and/or freeze opponent.
+Ice Shard	User attacks first.
+Iron Head	May cause flinching.
+Judgment	Type depends on the Arceus Plate being held.
+Last Resort	Can only be used after all other moves are used.
+Lava Plume	May burn opponent.
+Leaf Storm	Sharply lowers user's Special Attack.
+Lucky Chant	Opponent cannot land critical hits for 5 turns.
+Lunar Dance	The user faints but the next Pokemon released is fully healed.
+Magma Storm	Traps opponent, damaging them for 4-5 turns.
+Magnet Bomb	Ignores Accuracy and Evasiveness.
+Magnet Rise	User becomes immune to Ground-type moves for 5 turns.
+Me First	User copies the opponent's attack with 1.5¡¿ power.
+Metal Burst	Deals damage equal to 1.5x opponent's attack.
+Miracle Eye	Resets opponent's Evasiveness, removes Dark's Psychic immunity.
+Mirror Shot	May lower opponent's Accuracy.
+Mud Bomb	May lower opponent's Accuracy.
+Nasty Plot	Sharply raises user's Special Attack.
+Natural Gift	Power and type depend on the user's held berry.
+Night Slash	High critical hit ratio.
+Ominous Wind	May raise all user's stats at once.
+Payback	Power doubles if the user was attacked first.
+Pluck	If the opponent is holding a berry, its effect is stolen by user.
+Poison Jab	May poison the opponent.
+Power Gem	
+Power Swap	User and opponent swap Attack and Special Attack.
+Power Trick	User's own Attack and Defense switch.
+Power Whip	
+Psycho Cut	High critical hit ratio.
+Psycho Shift	Gives the opponent the user's status condition, if it hits.
+Punishment	Power increases when opponent's stats have been raised.
+Roar of Time	User must recharge next turn.
+Rock Climb	May confuse opponent.
+Rock Polish	Sharply raises user's Speed.
+Rock Wrecker	User must recharge next turn.
+Roost	User recovers half of its max HP and loses the Flying type temporarily.
+Seed Bomb	
+Seed Flare	May lower opponent's Special Defense.
+Shadow Claw	High critical hit ratio.
+Shadow Force	Disappears on first turn, attacks on second. Can strike through Protect/Detect.
+Shadow Sneak	User attacks first.
+Spacial Rend	High critical hit ratio.
+Stealth Rock	Damages opponent switching into battle.
+Stone Edge	High critical hit ratio.
+Sucker Punch	User attacks first, but only works if opponent is readying an attack.
+Switcheroo	Swaps held items with the opponent.
+Tailwind	Doubles Speed for 4 turns.
+Thunder Fang	May cause flinching and/or paralyze opponent.
+Toxic Spikes	Poisons opponents when they switch into battle.
+Trick Room	Slower Pokemon move first in the turn for 5 turns.
+Trump Card	The lower the PP, the higher the power.
+U-turn	User switches out immediately after attacking.
+Vacuum Wave	User attacks first.
+Wake-Up Slap	Power doubles if opponent is asleep, but wakes it up.
+Wood Hammer	User receives recoil damage.
+Worry Seed	Changes the opponent's Ability to Insomnia.
+Wring Out	The higher the opponent's HP, the higher the damage.
+X-Scissor	
+Zen Headbutt	May cause flinching.
+Acid Spray	Sharply lowers opponent's Special Defense.
+Acrobatics	Stronger when the user does not have a held item.
+After You	Gives target priority in the next turn.
+Ally Switch	User switches with opposite teammate.
+Autotomize	Halves weight and sharply raises Speed.
+Bestow	Gives the user's held item to the target.
+Blue Flare	May burn opponent.
+Bolt Strike	May paralyze opponent.
+Bulldoze	Lowers opponent's Speed.
+Chip Away	Ignores opponent's stat changes.
+Circle Throw	In battles, the opponent switches. In the wild, the Pokemon runs.
+Clear Smog	Removes all of the target's stat changes.
+Coil	Raises user's Attack, Defense and Accuracy.
+Cotton Guard	Drastically raises user's Defense.
+Dragon Tail	In battles, the opponent switches. In the wild, the Pokemon runs.
+Drill Run	High critical hit ratio.
+Dual Chop	Hits twice in one turn.
+Echoed Voice	Power increases each turn.
+Electro Ball	The faster the user, the stronger the attack.
+Electroweb	Lowers opponent's Speed.
+Entrainment	Makes target's ability same as user's.
+Fiery Dance	May raise user's Special Attack.
+Final Gambit	Inflicts damage equal to the user's remaining HP. User faints.
+Fire Pledge	Added effects appear if combined with Grass Pledge or Water Pledge.
+Flame Burst	May also injure nearby Pokemon.
+Flame Charge	Raises user's Speed.
+Foul Play	Uses the opponent's Attack stat.
+Freeze Shock	Charges on first turn, attacks on second. May paralyze opponent.
+Frost Breath	Always results in a critical hit.
+Fusion Bolt	Power increases if Fusion Flare is used in the same turn.
+Fusion Flare	Power increases if Fusion Bolt is used in the same turn.
+Gear Grind	Hits twice in one turn.
+Glaciate	Lowers opponent's Speed.
+Grass Pledge	Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.
+Guard Split	Averages Defense and Special Defense with the target.
+Head Charge	User receives recoil damage.
+Heal Pulse	Restores half the target's max HP.
+Heart Stamp	May cause flinching.
+Heat Crash	The heavier the user, the stronger the attack.
+Heavy Slam	The heavier the user, the stronger the attack.
+Hex	Inflicts more damage if the target has a status condition.
+Hone Claws	Raises user's Attack and Accuracy.
+Horn Leech	User recovers half the HP inflicted on opponent.
+Hurricane	May confuse opponent.
+Ice Burn	Charges on first turn, attacks on second. May burn opponent.
+Icicle Crash	May cause flinching.
+Incinerate	Destroys the target's held berry.
+Inferno	Burns opponent.
+Leaf Tornado	May lower opponent's Accuracy.
+Low Sweep	Lowers opponent's Speed.
+Magic Room	Suppresses the effects of held items for five turns.
+Night Daze	May lower opponent's Accuracy.
+Power Split	Averages Attack and Special Attack with the target.
+Psyshock	Inflicts damage based on the target's Defense, not Special Defense.
+Psystrike	Inflicts damage based on the target's Defense, not Special Defense.
+Quash	Makes the target act last this turn.
+Quick Guard	Fast moves won't damage the user or its teammates.
+Quiver Dance	Raises user's Special Attack, Special Defense and Speed.
+Rage Powder	Forces attacks to hit user, not team-mates.
+Razor Shell	May lower opponent's Defense.
+Reflect Type	User becomes the target's type.
+Relic Song	May put the target to sleep.
+Retaliate	Inflicts double damage if a teammate fainted on the last turn.
+Round	Power increases if teammates use it in the same turn.
+Sacred Sword	Ignores opponent's stat changes.
+Scald	May burn opponent.
+Searing Shot	May burn opponent.
+Secret Sword	Inflicts damage based on the target's Defense, not Special Defense.
+Shell Smash	Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense.
+Shift Gear	Raises user's Attack and sharply raises Speed.
+Simple Beam	Changes target's ability to Simple.
+Sky Drop	Takes opponent into the air on first turn, drops them on second turn.
+Sludge Wave	May poison opponent.
+Smack Down	Makes Flying-type Pokemon vulnerable to Ground moves.
+Snarl	Lowers opponent's Special Attack.
+Soak	Changes the target's type to water.
+Steamroller	May cause flinching.
+Stored Power	Power increases when user's stats have been raised.
+Storm Throw	Always results in a critical hit.
+Struggle Bug	Lowers opponent's Special Attack.
+Synchronoise	Hits any Pokemon that shares a type with the user.
+Tail Slap	Hits 2-5 times in one turn.
+Techno Blast	Type depends on the Drive being held.
+Telekinesis	Ignores opponent's Evasiveness for three turns, add Ground immunity.
+V-create	Lowers user's Defense, Special Defense and Speed.
+Venoshock	Inflicts double damage if the target is poisoned.
+Volt Switch	User must switch out after attacking.
+Water Pledge	Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.
+Wide Guard	Protects the user's team from multi-target attacks.
+Wild Charge	User receives recoil damage.
+Wonder Room	Swaps every Pokemon's Defense and Special Defense for 5 turns.
+Work Up	Raises user's Attack and Special Attack.

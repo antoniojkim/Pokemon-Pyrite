@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="46" height="38" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Inside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Graphics/Tilesets/Inside.png" width="256" height="1152"/>
+ </tileset>
+ <tileset firstgid="289" name="Interior general" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Graphics/Tilesets/Interior general.PNG" width="256" height="8032"/>
+ </tileset>
+ <tileset firstgid="2297" name="Multi-Inside" tilewidth="32" tileheight="32">
+  <image source="../Reborn15/Graphics/Tilesets/Multi-Inside.png" width="256" height="8642"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="46" height="38" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt0KsKwDAMRuGfqtqpiolB9d7/+TYT3RBaeuGIzyVwkiwpAwCAbkrQ7O4nyHv3qO43STXAe/eo7vtvuALsn6251brtn7t1e9Hdp9v26ab75O5Z6Kab7vW6AQDAXj7NcUen
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="46" height="38">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U5/gBlUBAAAAAAAAzwAbUAAB
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="46" height="38">
+  <data encoding="base64" compression="zlib">
+   eJzt0iEOgDAQRcE1FT0uOHDg4NT0Apu0IBqSGfPNiic2AgAA+iw1Yq2zK8ZtrXn/YTf0OErEWfLN7me7WsNd8s3uecefAADANw/cqRef
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="46" height="38">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U5/gBlUBAAAAAAAAzwAbUAAB
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,655 @@
+Bulbasaur	Seed Pokemon
+Ivysaur	Seed Pokemon
+Venusaur	Seed Pokemon
+Charmander	Lizard Pokemon
+Charmeleon	Flame Pokemon
+Charizard	Flame Pokemon
+Squirtle	Tiny Turtle Pokemon
+Wartortle	Turtle Pokemon
+Blastoise	Shellfish Pokemon
+Caterpie	Worm Pokemon
+Metapod	Cocoon Pokemon
+Butterfree	Butterfly Pokemon
+Weedle	Hairy Bug Pokemon
+Kakuna	Cocoon Pokemon
+Beedrill	Poison Bee Pokemon
+Pidgey	Tiny Bird Pokemon
+Pidgeotto	Bird Pokemon
+Pidgeot	Bird Pokemon
+Rattata	Mouse?Pokemon
+Raticate	Mouse?Pokemon
+Spearow	Tiny Bird Pokemon
+Fearow	Beak Pokemon
+Ekans	Snake Pokemon
+Arbok	Cobra Pokemon
+Pikachu	Mouse Pokemon
+Raichu	Mouse Pokemon
+Sandshrew	Mouse Pokemon
+Sandslash	Mouse Pokemon
+Nidoran F	Poison Pin Pokemon
+Nidorina	Poison Pin Pokemon
+Nidoqueen	Drill Pokemon
+Nidoran M	Poison Pin Pokemon
+Nidorino	Poison Pin Pokemon
+Nidoking	Drill Pokemon
+Clefairy	Fairy Pokemon
+Clefable	Fairy Pokemon
+Vulpix	Fox Pokemon
+Ninetales	Fox Pokemon
+Jigglypuff	Balloon Pokemon
+Wigglytuff	Balloon Pokemon
+Zubat	Bat Pokemon
+Golbat	Bat Pokemon
+Oddish	Weed Pokemon
+Gloom	Weed Pokemon
+Vileplume	Flower Pokemon
+Paras	Mushroom Pokemon
+Parasect	Mushroom Pokemon
+Venonat	Insect Pokemon
+Venomoth	Poison Moth?Pokemon
+Diglett	Mole Pokemon
+Dugtrio	Mole Pokemon
+Meowth	Scratch Cat?Pokemon
+Persian	Classy Cat Pokemon
+Psyduck	Duck Pokemon
+Golduck	Duck Pokemon
+Mankey	Pig Monkey Pokemon
+Primeape	Pig Monkey Pokemon
+Growlithe	Puppy Pokemon
+Arcanine	Legendary Pokemon
+Poliwag	Tadpole Pokemon
+Poliwhirl	Tadpole Pokemon
+Poliwrath	Tadpole Pokemon
+Abra	Psi Pokemon
+Kadabra	Psi Pokemon
+Alakazam	Psi Pokemon
+Machop	Superpower Pokemon
+Machoke	Superpower Pokemon
+Machamp	Superpower Pokemon
+Bellsprout	Flower Pokemon
+Weepinbell	Flycatcher Pokemon
+Victreebel	Flycatcher Pokemon
+Tentacool	Jellyfish Pokemon
+Tentacruel	Jellyfish Pokemon
+Geodude	Rock Pokemon
+Graveler	Rock Pokemon
+Golem	Megaton Pokemon
+Ponyta	Fire Horse Pokemon
+Rapidash	Fire Horse Pokemon
+Slowpoke	Dopey Pokemon
+Slowbro	Hermit Crab?Pokemon
+Magnemite	Magnet Pokemon
+Magneton	Magnet Pokemon
+Farfetch'd	Wild Duck Pokemon
+Doduo	Twin Bird Pokemon
+Dodrio	Triple Bird?Pokemon
+Seel	Sea Lion Pokemon
+Dewgong	Sea Lion Pokemon
+Grimer	Sludge Pokemon
+Muk	Sludge Pokemon
+Shellder	Bivalve Pokemon
+Cloyster	Bivalve Pokemon
+Gastly	Gas Pokemon
+Haunter	Gas Pokemon
+Gengar	Shadow Pokemon
+Onix	Rock Snake Pokemon
+Drowzee	Hypnosis Pokemon
+Hypno	Hypnosis Pokemon
+Krabby	River Crab Pokemon
+Kingler	Pincer Pokemon
+Voltorb	Ball Pokemon
+Electrode	Ball Pokemon
+Exeggcute	Egg Pokemon
+Exeggutor	Coconut Pokemon
+Cubone	Lonely Pokemon
+Marowak	Bone Keeper?Pokemon
+Hitmonlee	Kicking Pokemon
+Hitmonchan	Punching Pokemon
+Lickitung	Licking Pokemon
+Koffing	Poison Gas Pokemon
+Weezing	Poison Gas Pokemon
+Rhyhorn	Spikes Pokemon
+Rhydon	Drill Pokemon
+Chansey	Egg Pokemon
+Tangela	Vine Pokemon
+Kangaskhan	Parent Pokemon
+Horsea	Dragon Pokemon
+Seadra	Dragon Pokemon
+Goldeen	Goldfish Pokemon
+Seaking	Goldfish Pokemon
+Staryu	Star Shape?Pokemon
+Starmie	Mysterious Pokemon
+Mr. Mime	Barrier Pokemon
+Scyther	Mantis Pokemon
+Jynx	Human Shape?Pokemon
+Electabuzz	Electric Pokemon
+Magmar	Spitfire Pokemon
+Pinsir	Stag Beetle?Pokemon
+Tauros	Wild Bull Pokemon
+Magikarp	Fish Pokemon
+Gyarados	Atrocious Pokemon
+Lapras	Transport Pokemon
+Ditto	Transform Pokemon
+Eevee	Evolution Pokemon
+Vaporeon	Bubble Jet Pokemon
+Jolteon	Lightning Pokemon
+Flareon	Flame Pokemon
+Porygon	Virtual Pokemon
+Omanyte	Spiral Pokemon
+Omastar	Spiral Pokemon
+Kabuto	Shellfish Pokemon
+Kabutops	Shellfish Pokemon
+Aerodactyl	Fossil Pokemon
+Snorlax	Sleeping Pokemon
+Articuno	Freeze Pokemon
+Zapdos	Electric Pokemon
+Moltres	Flame Pokemon
+Dratini	Dragon Pokemon
+Dragonair	Dragon Pokemon
+Dragonite	Dragon Pokemon
+Mewtwo	Genetic Pokemon
+Mew	New Species?Pokemon
+Chikorita	Leaf Pokemon
+Bayleef	Leaf Pokemon
+Meganium	Herb Pokemon
+Cyndaquil	Fire Mouse Pokemon
+Quilava	Volcano Pokemon
+Typhlosion	Volcano Pokemon
+Totodile	Big Jaw Pokemon
+Croconaw	Big Jaw Pokemon
+Feraligatr	Big Jaw Pokemon
+Sentret	Scout Pokemon
+Furret	Long Body Pokemon
+Hoothoot	Owl Pokemon
+Noctowl	Owl Pokemon
+Ledyba	Five Star Pokemon
+Ledian	Five Star Pokemon
+Spinarak	String Spit?Pokemon
+Ariados	Long Leg Pokemon
+Crobat	Bat Pokemon
+Chinchou	Angler Pokemon
+Lanturn	Light Pokemon
+Pichu	Tiny Mouse Pokemon
+Cleffa	Star Shape?Pokemon
+Igglybuff	Balloon Pokemon
+Togepi	Spike Ball Pokemon
+Togetic	Happiness Pokemon
+Natu	Tiny Bird?Pokemon
+Xatu	Mystic Pokemon
+Mareep	Wool Pokemon
+Flaaffy	Wool Pokemon
+Ampharos	Light Pokemon
+Bellossom	Flower Pokemon
+Marill	Aqua Mouse?Pokemon
+Azumarill	Aqua Rabbit?Pokemon
+Sudowoodo	Imitation Pokemon
+Politoed	Frog Pokemon
+Hoppip	Cottonweed Pokemon
+Skiploom	Cottonweed Pokemon
+Jumpluff	Cottonweed Pokemon
+Aipom	Long Tail Pokemon
+Sunkern	Seed Pokemon
+Sunflora	Sun Pokemon
+Yanma	Clear Wing Pokemon
+Wooper	Water Fish Pokemon
+Quagsire	Water Fish Pokemon
+Espeon	Sun Pokemon
+Umbreon	Moonlight Pokemon
+Murkrow	Darkness Pokemon
+Slowking	Royal Pokemon
+Misdreavus	Screech Pokemon
+Unown	Symbol Pokemon
+Wobbuffet	Patient Pokemon
+Girafarig	Long Neck Pokemon
+Pineco	Bagworm Pokemon
+Forretress	Bagworm Pokemon
+Dunsparce	Land Snake Pokemon
+Gligar	Fly Scorpion?Pokemon
+Steelix	Iron Snake Pokemon
+Snubbull	Fairy Pokemon
+Granbull	Fairy Pokemon
+Qwilfish	Balloon Pokemon
+Scizor	Pincer?Pokemon
+Shuckle	Mold Pokemon
+Heracross	Single Horn?Pokemon
+Sneasel	Sharp Claw Pokemon
+Teddiursa	Little Bear?Pokemon
+Ursaring	Hibernator?Pokemon
+Slugma	Lava Pokemon
+Magcargo	Lava Pokemon
+Swinub	Pig Pokemon
+Piloswine	Swine Pokemon
+Corsola	Coral Pokemon
+Remoraid	Jet Pokemon
+Octillery	Jet Pokemon
+Delibird	Delivery Pokemon
+Mantine	Kite Pokemon
+Skarmory	Armor Bird Pokemon
+Houndour	Dark Pokemon
+Houndoom	Dark Pokemon
+Kingdra	Dragon Pokemon
+Phanpy	Long Nose Pokemon
+Donphan	Armor Pokemon
+Porygon2	Virtual Pokemon
+Stantler	Big Horn Pokemon
+Smeargle	Painter Pokemon
+Tyrogue	Scuffle Pokemon
+Hitmontop	Handstand Pokemon
+Smoochum	Kiss Pokemon
+Elekid	Electric Pokemon
+Magby	Live Coal Pokemon
+Miltank	Milk Cow Pokemon
+Blissey	Happiness Pokemon
+Raikou	Thunder Pokemon
+Entei	Volcano Pokemon
+Suicune	Aurora Pokemon
+Larvitar	Rock Skin Pokemon
+Pupitar	Hard Shell Pokemon
+Tyranitar	Armor Pokemon
+Lugia	Diving Pokemon
+Ho-Oh	Rainbow Pokemon
+Celebi	Time Travel?Pokemon
+Treecko	Wood Gecko Pokemon
+Grovyle	Wood Gecko Pokemon
+Sceptile	Forest Pokemon
+Torchic	Chick Pokemon
+Combusken	Young Fowl Pokemon
+Blaziken	Blaze Pokemon
+Mudkip	Mud Fish Pokemon
+Marshtomp	Mud Fish Pokemon
+Swampert	Mud Fish Pokemon
+Poochyena	Bite Pokemon
+Mightyena	Bite Pokemon
+Zigzagoon	Tiny Raccoon?Pokemon
+Linoone	Rushing Pokemon
+Wurmple	Worm Pokemon
+Silcoon	Cocoon Pokemon
+Beautifly	Butterfly Pokemon
+Cascoon	Cocoon Pokemon
+Dustox	Poison Moth Pokemon
+Lotad	Water Weed Pokemon
+Lombre	Jolly Pokemon
+Ludicolo	Carefree Pokemon
+Seedot	Acorn Pokemon
+Nuzleaf	Wily Pokemon
+Shiftry	Wicked Pokemon
+Taillow	Tiny Swallow?Pokemon
+Swellow	Swallow Pokemon
+Wingull	Seagull Pokemon
+Pelipper	Water Bird Pokemon
+Ralts	Feeling Pokemon
+Kirlia	Emotion Pokemon
+Gardevoir	Embrace Pokemon
+Surskit	Pond Skater Pokemon
+Masquerain	Eyeball Pokemon
+Shroomish	Mushroom Pokemon
+Breloom	Mushroom Pokemon
+Slakoth	Slacker Pokemon
+Vigoroth	Wild Monkey Pokemon
+Slaking	Lazy Pokemon
+Nincada	Trainee Pokemon
+Ninjask	Ninja Pokemon
+Shedinja	Shed Pokemon
+Whismur	Whisper Pokemon
+Loudred	Big Voice Pokemon
+Exploud	Loud Noise Pokemon
+Makuhita	Guts Pokemon
+Hariyama	Arm Thrust Pokemon
+Azurill	Polka Dot Pokemon
+Nosepass	Compass Pokemon
+Skitty	Kitten Pokemon
+Delcatty	Prim Pokemon
+Sableye	Darkness Pokemon
+Mawile	Deceiver Pokemon
+Aron	Iron Armor Pokemon
+Lairon	Iron Armor Pokemon
+Aggron	Iron Armor Pokemon
+Meditite	Meditate Pokemon
+Medicham	Meditate Pokemon
+Electrike	Lightning Pokemon
+Manectric	Discharge Pokemon
+Plusle	Cheering Pokemon
+Minun	Cheering Pokemon
+Volbeat	Firefly Pokemon
+Illumise	Firefly Pokemon
+Roselia	Thorn Pokemon
+Gulpin	Stomach Pokemon
+Swalot	Poison Bag Pokemon
+Carvanha	Savage Pokemon
+Sharpedo	Brutal Pokemon
+Wailmer	Ball Whale Pokemon
+Wailord	Float Whale Pokemon
+Numel	Numb Pokemon
+Camerupt	Eruption Pokemon
+Torkoal	Coal Pokemon
+Spoink	Bounce Pokemon
+Grumpig	Manipulate Pokemon
+Spinda	Spot Panda Pokemon
+Trapinch	Ant Pit Pokemon
+Vibrava	Vibration Pokemon
+Flygon	Mystic Pokemon
+Cacnea	Cactus Pokemon
+Cacturne	Scarecrow Pokemon
+Swablu	Cotton Bird Pokemon
+Altaria	Humming Pokemon
+Zangoose	Cat Ferret Pokemon
+Seviper	Fang Snake Pokemon
+Lunatone	Meteorite Pokemon
+Solrock	Meteorite Pokemon
+Barboach	Whiskers Pokemon
+Whiscash	Whiskers Pokemon
+Corphish	Ruffian Pokemon
+Crawdaunt	Rogue Pokemon
+Baltoy	Clay Doll Pokemon
+Claydol	Clay Doll Pokemon
+Lileep	Sea Lily Pokemon
+Cradily	Barnacle Pokemon
+Anorith	Old Shrimp Pokemon
+Armaldo	Plate Pokemon
+Feebas	Fish Pokemon
+Milotic	Tender Pokemon
+Castform	Weather Pokemon
+Kecleon	Color Swap Pokemon
+Shuppet	Puppet Pokemon
+Banette	Marionette Pokemon
+Duskull	Requiem Pokemon
+Dusclops	Beckon Pokemon
+Tropius	Fruit Pokemon
+Chimecho	Wind Chime Pokemon
+Absol	Disaster Pokemon
+Wynaut	Bright Pokemon
+Snorunt	Snow Hat Pokemon
+Glalie	Face Pokemon
+Spheal	Clap Pokemon
+Sealeo	Ball Roll Pokemon
+Walrein	Ice Break Pokemon
+Clamperl	Bivalve Pokemon
+Huntail	Deep Sea Pokemon
+Gorebyss	South Sea Pokemon
+Relicanth	Longevity Pokemon
+Luvdisc	Rendezvous Pokemon
+Bagon	Rock Head Pokemon
+Shelgon	Endurance Pokemon
+Salamence	Dragon Pokemon
+Beldum	Iron Ball Pokemon
+Metang	Iron Claw Pokemon
+Metagross	Iron Leg Pokemon
+Regirock	Rock Peak Pokemon
+Regice	Iceberg Pokemon
+Registeel	Iron Pokemon
+Latias	Eon Pokemon
+Latios	Eon Pokemon
+Kyogre	Sea Basin Pokemon
+Groudon	Continent Pokemon
+Rayquaza	Sky High Pokemon
+Jirachi	Wish Pokemon
+Deoxys (Normal Forme)	DNA Pokemon
+Deoxys (Attack Forme)	DNA Pokemon
+Deoxys (Defense Forme)	DNA Pokemon
+Deoxys (Speed Forme)	DNA Pokemon
+Turtwig	Tiny Leaf Pokemon
+Grotle	Grove Pokemon
+Torterra	Continent Pokemon
+Chimchar	Chimp Pokemon
+Monferno	Playful Pokemon
+Infernape	Flame Pokemon
+Piplup	Penguin Pokemon
+Prinplup	Penguin Pokemon
+Empoleon	Emperor Pokemon
+Starly	Starling Pokemon
+Staravia	Starling Pokemon
+Staraptor	Predator Pokemon
+Bidoof	Plump Mouse Pokemon
+Bibarel	Beaver Pokemon
+Kricketot	Cricket Pokemon
+Kricketune	Cricket Pokemon
+Shinx	Flash Pokemon
+Luxio	Spark Pokemon
+Luxray	Gleam Eyes Pokemon
+Budew	Bud Pokemon
+Roserade	Bouquet Pokemon
+Cranidos	Head Butt Pokemon
+Rampardos	Head Butt Pokemon
+Shieldon	Shield Pokemon
+Bastiodon	Shield Pokemon
+Burmy	Bagworm Pokemon
+Wormadam	Bagworm Pokemon
+Mothim	Moth Pokemon
+Combee	Tiny Bee Pokemon
+Vespiquen	Beehive Pokemon
+Pachirisu	EleSquirrel Pokemon
+Buizel	Sea Weasel Pokemon
+Floatzel	Sea Weasel Pokemon
+Cherubi	Cherry Pokemon
+Cherrim	Blossom Pokemon
+Shellos	Sea Slug Pokemon
+Gastrodon	Sea Slug Pokemon
+Ambipom	Long Tail Pokemon
+Drifloon	Balloon Pokemon
+Drifblim	Blimp Pokemon
+Buneary	Rabbit Pokemon
+Lopunny	Rabbit Pokemon
+Mismagius	Magical Pokemon
+Honchkrow	Big Boss Pokemon
+Glameow	Catty Pokemon
+Purugly	Tiger Cat Pokemon
+Chingling	Bell Pokemon
+Stunky	Skunk Pokemon
+Skuntank	Skunk Pokemon
+Bronzor	Bronze Pokemon
+Bronzong	Bronze Bell Pokemon
+Bonsly	Bonsai Pokemon
+Mime Jr.	Mime Pokemon
+Happiny	Playhouse Pokemon
+Chatot	Music Note Pokemon
+Spiritomb	Forbidden Pokemon
+Gible	Land Shark Pokemon
+Gabite	Cave Pokemon
+Garchomp	Mach Pokemon
+Munchlax	Big Eater Pokemon
+Riolu	Emanation Pokemon
+Lucario	Aura Pokemon
+Hippopotas	Hippo Pokemon
+Hippowdon	Heavyweight Pokemon
+Skorupi	Scorpion Pokemon
+Drapion	Ogre Scorpion?Pokemon
+Croagunk	Toxic Mouth Pokemon
+Toxicroak	Toxic Mouth Pokemon
+Carnivine	Bug Catcher Pokemon
+Finneon	Wing Fish Pokemon
+Lumineon	Neon Pokemon
+Mantyke	Kite Pokemon
+Snover	Frost Tree Pokemon
+Abomasnow	Frost Tree Pokemon
+Weavile	Sharp Claw Pokemon
+Magnezone	Magnet Area Pokemon
+Lickilicky	Licking Pokemon
+Rhyperior	Drill Pokemon
+Tangrowth	Vine Pokemon
+Electivire	Thunderbolt Pokemon
+Magmortar	Blast Pokemon
+Togekiss	Jubilee Pokemon
+Yanmega	Ogre Darner Pokemon
+Leafeon	Verdant Pokemon
+Glaceon	Fresh Snow Pokemon
+Gliscor	Fang Scorpion?Pokemon
+Mamoswine	Twin Tusk Pokemon
+Porygon-Z	Virtual Pokemon
+Gallade	Blade Pokemon
+Probopass	Compass Pokemon
+Dusknoir	Gripper Pokemon
+Froslass	Snow Land Pokemon
+Rotom	Plasma Pokemon
+Uxie	Knowledge Pokemon
+Mesprit	Emotion Pokemon
+Azelf	Willpower Pokemon
+Dialga	Temporal Pokemon
+Palkia	Spatial Pokemon
+Heatran	Lava Dome Pokemon
+Regigigas	Colossal Pokemon
+Giratina	Renegade Pokemon
+Cresselia	Lunar Pokemon
+Phione	Sea Drifter Pokemon
+Manaphy	Seafaring Pokemon
+Darkrai	Pitch-Black Pokemon
+Shaymin (Land Forme)	Gratitude Pokemon
+Shaymin (Sky Forme)	Gratitude Pokemon
+Arceus	Alpha Pokemon
+Victini	Victory Pokemon
+Snivy	Grass Snake Pokemon
+Servine	Grass Snake Pokemon
+Serperior	Regal Pokemon
+Tepig	Fire Pig Pokemon
+Pignite	Fire Pig Pokemon
+Emboar	Mega Fire Pig Pokemon
+Oshawott	Sea Otter Pokemon
+Dewott	Discipline Pokemon
+Samurott	Formidable Pokemon
+Patrat	Scout Pokemon
+Watchog	Lookout Pokemon
+Lillipup	Puppy Pokemon
+Herdier	Loyal Dog Pokemon
+Stoutland	Big-Hearted Pokemon
+Purrloin	Devious Pokemon
+Liepard	Cruel Pokemon
+Pansage	Grass Monkey Pokemon
+Simisage	Thorn Monkey Pokemon
+Pansear	High Temp Pokemon
+Simisear	Ember Pokemon
+Panpour	Spray Pokemon
+Simipour	Geyser Pokemon
+Munna	Dream Eater Pokemon
+Musharna	Drowsing Pokemon
+Pidove	Tiny Pigeon Pokemon
+Tranquill	Wild Pigeon Pokemon
+Unfezant	Proud Pokemon
+Blitzle	Electrified Pokemon
+Zebstrika	Thunderbolt Pokemon
+Roggenrola	Mantle Pokemon
+Boldore	Ore Pokemon
+Gigalith	Compressed Pokemon
+Woobat	Bat Pokemon
+Swoobat	Courting Pokemon
+Drilbur	Mole Pokemon
+Excadrill	Subterrene Pokemon
+Audino	Hearing Pokemon
+Timburr	Muscular Pokemon
+Gurdurr	Muscular Pokemon
+Conkeldurr	Muscular Pokemon
+Tympole	Tadpole Pokemon
+Palpitoad	Vibration Pokemon
+Seismitoad	Vibration Pokemon
+Throh	Judo Pokemon
+Sawk	Karate Pokemon
+Sewaddle	Sewing Pokemon
+Swadloon	Leaf-Wrapped Pokemon
+Leavanny	Nurturing Pokemon
+Venipede	Centipede Pokemon
+Whirlipede	Curlipede Pokemon
+Scolipede	Megapede Pokemon
+Cottonee	Cotton Puff Pokemon
+Whimsicott	Windveiled Pokemon
+Petilil	Bulb Pokemon
+Lilligant	Flowering Pokemon
+Basculin	Hostile Pokemon
+Sandile	Desert Croc Pokemon
+Krokorok	Desert Croc Pokemon
+Krookodile	Intimidation Pokemon
+Darumaka	Zen Charm Pokemon
+Darmanitan (Standard Mode)	Blazing Pokemon
+Darmanitan (Zen Mode)	Blazing Pokemon
+Maractus	Cactus Pokemon
+Dwebble	Rock Inn Pokemon
+Crustle	Stone Home Pokemon
+Scraggy	Shedding Pokemon
+Scrafty	Hoodlum Pokemon
+Sigilyph	Avianoid Pokemon
+Yamask	Spirit Pokemon
+Cofagrigus	Coffin Pokemon
+Tirtouga	Prototurtle Pokemon
+Carracosta	Prototurtle Pokemon
+Archen	First Bird Pokemon
+Archeops	First Bird Pokemon
+Trubbish	Trash Bag Pokemon
+Garbodor	Trash Heap Pokemon
+Zorua	Tricky Fox Pokemon
+Zoroark	Illusion Fox Pokemon
+Minccino	Chinchilla Pokemon
+Cinccino	Scarf Pokemon
+Gothita	Fixation Pokemon
+Gothorita	Manipulate Pokemon
+Gothitelle	Astral Body Pokemon
+Solosis	Cell Pokemon
+Duosion	Mitosis Pokemon
+Reuniclus	Multiplying Pokemon
+Ducklett	Water Bird Pokemon
+Swanna	White Bird Pokemon
+Vanillite	Fresh Snow Pokemon
+Vanillish	Icy Snow Pokemon
+Vanilluxe	Snowstorm Pokemon
+Deerling	Season Pokemon
+Sawsbuck	Season Pokemon
+Emolga	Sky Squirrel Pokemon
+Karrablast	Clamping Pokemon
+Escavalier	Cavalry Pokemon
+Foongus	Mushroom Pokemon
+Amoonguss	Mushroom Pokemon
+Frillish	Floating Pokemon
+Jellicent	Floating Pokemon
+Alomomola	Caring Pokemon
+Joltik	Attaching Pokemon
+Galvantula	EleSpider Pokemon
+Ferroseed	Thorn Seed Pokemon
+Ferrothorn	Thorn Pod Pokemon
+Klink	Gear Pokemon
+Klang	Gear Pokemon
+Klinklang	Gear Pokemon
+Tynamo	EleFish Pokemon
+Eelektrik	EleFish Pokemon
+Eelektross	EleFish Pokemon
+Elgyem	Cerebral Pokemon
+Beheeyem	Cerebral Pokemon
+Litwick	Candle Pokemon
+Lampent	Lamp Pokemon
+Chandelure	Luring Pokemon
+Axew	Tusk Pokemon
+Fraxure	Axe Jaw Pokemon
+Haxorus	Axe Jaw Pokemon
+Cubchoo	Chill Pokemon
+Beartic	Freezing Pokemon
+Cryogonal	Crystallizing Pokemon
+Shelmet	Snail Pokemon
+Accelgor	Shell Out Pokemon
+Stunfisk	Trap Pokemon
+Mienfoo	Martial Arts Pokemon
+Mienshao	Martial Arts Pokemon
+Druddigon	Cave Pokemon
+Golett	Automaton Pokemon
+Golurk	Automaton Pokemon
+Pawniard	Sharp Blade Pokemon
+Bisharp	Sword Blade Pokemon
+Bouffalant	Bash Buffalo Pokemon
+Rufflet	Eaglet Pokemon
+Braviary	Valiant Pokemon
+Vullaby	Diapered Pokemon
+Mandibuzz	Bone Vulture Pokemon
+Heatmor	Anteater Pokemon
+Durant	Iron Ant Pokemon
+Deino	Irate Pokemon
+Zweilous	Hostile Pokemon
+Hydreigon	Brutal Pokemon
+Larvesta	Torch Pokemon
+Volcarona	Sun Pokemon
+Cobalion	Iron Will Pokemon
+Terrakion	Cavern Pokemon
+Virizion	Grassland Pokemon
+Tornadus	Cyclone Pokemon
+Thundurus	Bolt Strike Pokemon
+Reshiram	Vast White Pokemon
+Zekrom	Deep Black Pokemon
+Landorus	Abundant Pokemon
+Kyurem	Boundary Pokemon
+Keldeo	Colt Pokemon
+Meloetta (Aria Forme)	Melody Pokemon
+Meloetta (Pirouette Forme)	Melody Pokemon
+Genesect	Paleozoic Pokemon
